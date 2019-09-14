@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Messaging &#8211; OneReach.ai</title>
+	<atom:link href="https://onereach.ai/category/messaging/feed/" rel="self" type="application/rss+xml" />
+	<link>https://onereach.ai</link>
+	<description>Intelligently Automate Your Company</description>
+	<lastBuildDate>Tue, 12 Feb 2019 17:32:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://onereach.ai/wp-content/uploads/2018/04/cropped-OR-ICON-GOLD-W-DOTS-Larger-Background-02-32x32.png</url>
+	<title>Messaging &#8211; OneReach.ai</title>
+	<link>https://onereach.ai</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Without Messaging Your Mobile Strategy Is Broken</title>
+		<link>https://onereach.ai/messaging_and_mobile/</link>
+				<pubDate>Sat, 01 Sep 2018 20:37:22 +0000</pubDate>
+		<dc:creator><![CDATA[Robb]]></dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Messaging]]></category>
+		<category><![CDATA[SMS]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[journal-recent]]></category>
+
+		<guid isPermaLink="false">https://onereach.ai/?p=1440</guid>
+				<description><![CDATA[Are users going to really use your mobile app? If you’re like most companies, probably not as most people all use the same 7 apps [...]]]></description>
+								<content:encoded><![CDATA[<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<p>Are users going to really use your mobile app? If you’re like most companies, probably not as most people all use the same 7 apps regularly. But it’s not all doom and gloom, there may be another way to ensure success. You can be part of the apps people do use regularly. Compare mobile apps and messaging with this handy infographic.</p>
+</div>
+</div>
+<p><img class="aligncenter wp-image-1439 size-full" src="https://onereach.ai/wp-content/uploads/2017/11/mobile_strategy_infographic-1.jpg" alt="" width="1601" height="8625" srcset="https://onereach.ai/wp-content/uploads/2017/11/mobile_strategy_infographic-1.jpg 1601w, https://onereach.ai/wp-content/uploads/2017/11/mobile_strategy_infographic-1-190x1024.jpg 190w, https://onereach.ai/wp-content/uploads/2017/11/mobile_strategy_infographic-1-900x4849.jpg 900w" sizes="(max-width: 1601px) 100vw, 1601px" /></p>
+<div class="grammarly-disable-indicator"></div>
+<div class="grammarly-disable-indicator"></div>
+<div class="grammarly-disable-indicator"></div>
+<div class="grammarly-disable-indicator"></div>
+<div class="grammarly-disable-indicator"></div>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

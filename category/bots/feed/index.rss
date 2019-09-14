@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bots &#8211; OneReach.ai</title>
+	<atom:link href="https://onereach.ai/category/bots/feed/" rel="self" type="application/rss+xml" />
+	<link>https://onereach.ai</link>
+	<description>Intelligently Automate Your Company</description>
+	<lastBuildDate>Wed, 07 Aug 2019 14:51:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://onereach.ai/wp-content/uploads/2018/04/cropped-OR-ICON-GOLD-W-DOTS-Larger-Background-02-32x32.png</url>
+	<title>Bots &#8211; OneReach.ai</title>
+	<link>https://onereach.ai</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>These Jobs are Most Likely to Be Taken Over by Bots</title>
+		<link>https://onereach.ai/jobs-taken-by-bots/</link>
+				<pubDate>Fri, 12 Jul 2019 16:05:09 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Learning about AI and Bots]]></category>
+		<category><![CDATA[journal-recent]]></category>
+
+		<guid isPermaLink="false">https://onereach.ai/?p=6593</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p><span style="font-weight: 400;">Jobs that are highly repeatable and performed in predictable environments, such as fast-food restaurants or basic data processing tasks, are the most likely to be replaced in the near future by robots, according to a report released by hedge fund Bridgewater Associates.</span></p>
+<p><span style="font-weight: 400;">These tasks require a minimum of interpersonal communication and would see more efficient robots and software solutions replacing humans who are more prone to error and slower.</span></p>
+<p><span style="font-weight: 400;">The report used data from the US Department of Labor, focusing on how much time workers in various industries spend doing an assortment of tasks. The industries with the least-likely chance of being replaced with automated workers in the near future are healthcare and education.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://www.weforum.org/agenda/2019/04/these-are-the-industries-most-likely-to-be-taken-over-by-robots/" target="_blank" rel="noopener noreferrer">Read More</a></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Webinar Recording &#124; MuleSoft + OneReach.ai</title>
+		<link>https://onereach.ai/conversational_ai_webinar_mulesoft/</link>
+				<pubDate>Mon, 24 Jun 2019 20:58:32 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Examples]]></category>
+		<category><![CDATA[Learning about AI and Bots]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[journal-recent]]></category>
+
+		<guid isPermaLink="false">https://onereach.ai/?p=6440</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p><strong>Conversational AI: Go Beyond Chatbots with Intelligent Customer and Employee Experiences</strong></p>
+<p>In this webinar we attempt to go around the chatbot hype. With conversational AI, your customers and employees get the answers they need fast. It’s more than simple “if-then” logic; it incorporates natural language to make human-to-machine conversations more like human-to-human ones. The result? Increased customer engagement, continued trust and reliability in your business, and the ability to free up your best thinkers and doers to become more productive than ever before.</p>
+<p><strong>Watch webinar recording to learn how to:</strong><br />
+&#8211; Automatically parse data, intent, and tasks from customer interactions using the power of Anypoint Platform combined with no-code/low-code conversational AI solutions from <a href="https://onereach.ai">OneReach.ai</a><br />
+&#8211; Build task-specific, channel-agnostic experiences by integrating data from systems and channels like Slack, SMS, Voice, WhatsApp, and Facebook Messenger.<br />
+&#8211; Retool your team for operational efficiency by automating the known, handing off the unknown, and more.</p>
+<p><strong>Presented by:</strong><br />
+Kevin Fredrick, Managing Partner, <a href="https://onereach.ai/">OneReach.ai</a><br />
+Gagan Kanwar, Director of Business Development, <a href="https://www.mulesoft.com/">MuleSoft</a><br />
+Vishnu Samavedula, Senior Solution Engineer, <a href="https://www.mulesoft.com/">MuleSoft</a></p>
+<p><strong><a href="https://www.mulesoft.com/webinars/api/conversational-ai-assistant" target="_blank" rel="noopener noreferrer">Register now</a> to watch the webinar!</strong></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Harvard Business Review: Building the AI Powered Organization</title>
+		<link>https://onereach.ai/building_ai_powered_organization/</link>
+				<pubDate>Mon, 24 Jun 2019 17:35:52 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Examples]]></category>
+		<category><![CDATA[Learning about AI and Bots]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[journal-recent]]></category>
+
+		<guid isPermaLink="false">https://onereach.ai/?p=6393</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>&#8220;Artificial intelligence is reshaping business—though not at the blistering pace many assume. True, AI is now guiding decisions on everything from crop harvests to bank loans, and once pie-in-the-sky prospects such as totally automated customer service are on the horizon. The technologies that enable AI, like development platforms and vast processing power and data storage, are advancing rapidly and becoming increasingly affordable. The time seems ripe for companies to capitalize on AI. Indeed, we estimate that AI will add $13 trillion to the global economy over the next decade.</p>
+<p>Yet, despite the promise of AI, many organizations’ efforts with it are falling short. We’ve surveyed thousands of executives about how their companies use and organize for AI and advanced analytics, and our <a href="https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/breaking-away-the-secrets-to-scaling-analytics" target="_blank" rel="noopener noreferrer">data shows</a> that only 8% of firms engage in core practices that support widespread adoption. Most firms have run only <a href="https://www.mckinsey.com/featured-insights/artificial-intelligence/ai-adoption-advances-but-foundational-barriers-remain" target="_blank" rel="noopener noreferrer">ad hoc pilots</a> or are applying AI in just a single business process.</p>
+<p>Why the slow prog­ress? At the highest level, it’s a reflection of a failure to rewire the organization. In our surveys and our work with hundreds of clients, we’ve seen that AI initiatives face formidable cultural and organizational barriers. But we’ve also seen that leaders who at the outset take steps to break down those barriers can effectively capture AI’s opportunities.&#8221;</p>
+<p><a href="https://hbr.org/2019/07/building-the-ai-powered-organization?" target="_blank" rel="noopener noreferrer">Read More</a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Harvard Business Review: Does your Company Really Need a Chatbot?</title>
+		<link>https://onereach.ai/does_your_company_need_chatbot-2/</link>
+				<pubDate>Fri, 24 May 2019 17:24:35 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Examples]]></category>
+		<category><![CDATA[Learning about AI and Bots]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[journal-recent]]></category>
+
+		<guid isPermaLink="false">https://onereach.ai/?p=6380</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>&#8220;Chatbots — automated conversation systems — have become increasingly sophisticated. Should you design and deploy one that can interact with your customers? If you’re an executive making that decision right now, you may feel caught between A.I. hype on the one hand, and the fear that machines might not treat your customers right on the other.</p>
+<p>Chatbots are a broad category that includes everything from Amazon Alexa smart speakers to automated text chat on a company’s customer service page. The most powerful chatbots — and the ones that can actually make an impact on customers’ experience and company bottom lines — are virtual agents. These are chatbots powered by an artificial intelligence that can understand and answer a wide variety of customer questions.&#8221;</p>
+<p><a href="https://hbr.org/2019/05/does-your-company-really-need-a-chatbot" target="_blank" rel="noopener noreferrer">Read More</a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>WE&#8217;RE GOING TO MARS</title>
+		<link>https://onereach.ai/remars/</link>
+				<pubDate>Wed, 22 May 2019 18:32:12 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Examples]]></category>
+		<category><![CDATA[Learning about AI and Bots]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[journal-recent]]></category>
+
+		<guid isPermaLink="false">https://onereach.ai/?p=6356</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p><span id="ember2813" class="ember-view">Innovative minds from academia, start-ups, and Fortune 100 companies gather to learn, share, and further imagine how Machine learning, Automation, Robotics, and Space will shape the future. </span></p>
+<p><span id="ember2813" class="ember-view">You’ll find us in the showcase, kitty corner to Nasa Rover, beside the Robotics exhibit. </span></p>
+<p>We can&#8217;t wait to hear from this year&#8217;s <a href="https://remars.amazon.com/learn/featured_speakers">featured speakers</a>, including Jeff Bezos, founder and CEO of Amazon, Robert Downey Jr., actor and producer, and many other leaders in the industry.</p>
+<p><a id="ember2817" class="feed-shared-text-view__hyperlink ember-view" href="https://marsconference.com/" target="_blank" rel="noopener noreferrer">https://marsconference.com</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>6 Design Principles for AI in Digital Business</title>
+		<link>https://onereach.ai/6_design_principles_for_ai/</link>
+				<pubDate>Wed, 22 May 2019 17:49:25 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Examples]]></category>
+		<category><![CDATA[Learning about AI and Bots]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[journal-recent]]></category>
+
+		<guid isPermaLink="false">https://onereach.ai/?p=6360</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>&#8220;Artificial intelligence (AI) can augment or automate decisions and tasks today performed by humans, making it indispensable for digital business transformation. With AI, organizations can reduce labor costs, generate new business models, and improve processes or customer service. However, most AI technologies remain immature.</p>
+<p>“To overcome this hurdle, CIOs must ensure that applications intended to serve a strategic business purpose, such as increasing revenue or scaling services, are designed for strategic plans,” says <a href="https://www.gartner.com/analyst/20865" target="_blank" rel="noopener noreferrer">Jorge Lopez</a>, Distinguished Vice President Analyst, Gartner.</p>
+<h5>&#8220;AI generates insights that lead directly to business execution.&#8221;</h5>
+<p>Lopez outlines six design principles that will help CIOs and organizations evaluate all proposed AI applications with strategic intent — that is, applications intended to help achieve business results, not just operational improvements. Applications do not have to follow all six principles; however, designs that show two or fewer principles should be reconsidered&#8230;&#8221;</p>
+<p><a href="https://www.gartner.com/smarterwithgartner/6-design-principles-for-artificial-intelligence-in-digital-business/" target="_blank" rel="noopener noreferrer">Read More</a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Forbes &#8211; The Future Of Recruiting In The Age of Automation And AI</title>
+		<link>https://onereach.ai/forbes-future-of-recuriting-ai/</link>
+				<pubDate>Wed, 08 May 2019 18:12:06 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Examples]]></category>
+		<category><![CDATA[Learning about AI and Bots]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[journal-recent]]></category>
+
+		<guid isPermaLink="false">https://onereach.ai/?p=6347</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>&#8220;Despite working in the human resources for over eight years for some of the top organizations in Canada, I have been somewhat blind to the future of work being driven by automation and artificial intelligence (AI). That is, until I read the <a href="http://www3.weforum.org/docs/WEF_Future_of_Jobs_2018.pdf" target="_blank" rel="nofollow noopener noreferrer" data-ga-track="ExternalLink:http://www3.weforum.org/docs/WEF_Future_of_Jobs_2018.pdf">2018 Future of Jobs report</a> by World Economic Forum.</p>
+<p>According to that report, 50% of companies expect that by 2022, their full-time workforce will be somewhat reduced by automation. It is alarming to note that nearly a quarter of these companies are undecided or unlikely to retrain their existing employees and two-thirds expect workers to retrain themselves. This expectation raises an important question of how employees could know which new jobs they should retrain for when these jobs have not yet been created.&#8221;</p>
+<p><a href="https://www.forbes.com/sites/forbeshumanresourcescouncil/2019/01/04/the-future-of-recruiting-in-the-age-of-automation-and-artificial-intelligence/#29a9e4ef1830" target="_blank" rel="noopener noreferrer">Read More</a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Forbes &#8211; 7+ Amazing Examples Of Online Chatbots &#038; Virtual Digital Assistants In Practice</title>
+		<link>https://onereach.ai/forbes-7-amazing-examples-of-online-chatbots-virtual-digital-assistants-in-practice/</link>
+				<pubDate>Mon, 18 Mar 2019 18:18:12 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Examples]]></category>
+		<category><![CDATA[Learning about AI and Bots]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[journal-recent]]></category>
+
+		<guid isPermaLink="false">https://onereach.ai/?p=6122</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>Two of the most influential tech innovations that rocketed into our daily lives in the last several years are virtual digital assistants and online chatbots. These <a href="https://www.bernardmarr.com/default.asp?contentID=963" target="_blank" rel="nofollow noopener noreferrer" data-ga-track="ExternalLink:https://www.bernardmarr.com/default.asp?contentID=963">AI-driven</a> tools are already impacting the way people live and how companies interact with their customers in just about every industry. It is expected that the market for digital assistants and chatbots will reach more than <u><a href="https://voicebot.ai/2018/02/01/virtual-digital-assistant-software-reach-7-7-billion-1-billion-users-2025/" target="_blank" rel="nofollow noopener noreferrer" data-ga-track="ExternalLink:https://voicebot.ai/2018/02/01/virtual-digital-assistant-software-reach-7-7-billion-1-billion-users-2025/">$7.7 billion by 2025 with 1 billion active users</a></u>.</p>
+<p><strong>This article goes on to explore the following:</strong></p>
+<p>What are virtual digital assistants?</p>
+<p>What are online chatbots?</p>
+<p>Many uses of chatbots</p>
+<p><strong>Read more <a href="https://www.forbes.com/sites/bernardmarr/2019/02/11/7-amazing-examples-of-online-chatbots-and-virtual-digital-assistants-in-practice/#1d3c929e533e" target="_blank" rel="noopener noreferrer">here</a>.</strong></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>You Don&#8217;t Need An App for That</title>
+		<link>https://onereach.ai/you-dont-need-an-app-for-that/</link>
+				<comments>https://onereach.ai/you-dont-need-an-app-for-that/#respond</comments>
+				<pubDate>Tue, 21 Feb 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Automation]]></category>
+		<category><![CDATA[Benefits]]></category>
+		<category><![CDATA[Big Ideas]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Communication]]></category>
+		<category><![CDATA[ITR]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Mobile Payments]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/you-dont-need-an-app-for-that/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p><span style="font-weight: 400;">In July of 2013 Toby Shapshak, the South African speaker, strategist and editor of Stuff Magazine, did a TED talk called </span><a href="https://www.ted.com/talks/toby_shapshak_you_don_t_need_an_app_for_that?language=en"><span style="font-weight: 400;">You Don’t Need An App For That</span></a><span style="font-weight: 400;">. Business leaders, innovators and experience designers would soon realize how profound this TED talk was to the rest of the world. Shapshak’s astute observations and message to the rest of the world was years ahead of a revolution that Forbes would call </span><a href="http://www.forbes.com/sites/parmyolson/2016/02/23/chat-bots-facebook-telegram-wechat/#5c9ad9142633"><span style="font-weight: 400;">“the new way we’ll be interacting with computers.”</span></a></p>
+<p><span style="font-weight: 400;">Toby’s 2013 Ted talk touted that “while the rest of the world is updating statuses and playing games on smartphones, Africa is developing useful SMS-based solutions to everyday needs”. Since 2013 his TED talk has been viewed 1,438,046 times as of July 19, 2016.</span></p>
+<p><span style="font-weight: 400;">Fast forward a couple of years and we see more apps than anyone knows what to do with, as well as a notable decrease in</span><a href="http://onereach.com/blog/infographic-mobile-apps-vs-text-messaging/"><span style="font-weight: 400;"> usage and app-downloads</span></a><span style="font-weight: 400;">. This has businesses confused and frustrated. Meanwhile, around the world, messaging (SMS and the ever-encroaching uptake of IP messaging &#8211; Facebook Messenger, Spark, Slack, Kik, SnapChat, etc) is by far the most used function or app on mobile phones &#8211; smart phone or not.</span></p>
+<p><span style="font-weight: 400;">2016 brought a wave of new businesses and products that fall into the category of </span><a href="http://onereach.com/blog/why-your-business-needs-a-bot/"><span style="font-weight: 400;">bots</span></a><span style="font-weight: 400;">; chat bots, messaging-bots, </span><a href="http://uxmag.com/articles/humans-ai-and-the-user-interface-of-the-future"><span style="font-weight: 400;">conversational-bots</span></a><span style="font-weight: 400;">, “invisible apps” or &#8220;conversational commerce”. Messaging-bots are popping up for everything, increasingly displacing mobile-apps. New bots are being brought to life daily by startups and household brands alike. Whether the experiences are where they need to be or not, bots existing today which allow you to order a </span><a href="http://onereach.com/blog/i-tried-ordering-dominos-over-text-message-and-it-was-a-total-disaster/"><span style="font-weight: 400;">pizza</span></a><span style="font-weight: 400;">, make a payment, read the </span><a href="http://money.cnn.com/2016/08/04/media/new-york-times-text-message/"><span style="font-weight: 400;">news</span></a><span style="font-weight: 400;">, be reminded of an appointment or even make an appointment. Even </span><a href="http://onereach.com/blog/cities-offer-text-311/"><span style="font-weight: 400;">city and county municipalities</span></a><span style="font-weight: 400;"> are seeing the value, for example, Washington DC uses a </span><a href="https://onereach.com/bots/#dc"><span style="font-weight: 400;">bot for their 311</span></a><span style="font-weight: 400;">-public services hotline. </span></p>
+<p><span style="font-weight: 400;">Silicon Valley and other capital ventures hubs around the world have already backed several startups that leverage, if not rely entirely on, bots. Benedict Evans, Partner at the Venture Capital Firm, </span><span style="font-weight: 400;">Andreessen Horowitz (&#8216;</span><a href="http://www.a16z.com/"><span style="font-weight: 400;">a16z</span></a><span style="font-weight: 400;">&#8216;) </span><span style="font-weight: 400;">tweeted &#8220;I genuinely can&#8217;t remember the last time a concept blew up as quickly as bots&#8221;.</span></p>
+<p><span style="font-weight: 400;">For years, I’ve been part of a business that, like Toby Shapshak, was ahead of the “bot” curve that’s now consuming the business and customer experience worlds. Expedia, Bosch, DHL, Unilever, Stella Artois, HomeAdvisor, The National Domestic Violence Hotline, Red Cross and many others use </span><a href="http://t.yesware.com/tt/40cc1fc6e25c0e6b6c473b6e5d7078c28afa0f2a/489eb37184cda59ba3c43d567cdd0d3e/ac7788ed6176abd000e4ebc066e9c752/l.gbtrck.com/1ab15380-e2b7-425a-9ad9-959cef88b9b1"><span style="font-weight: 400;">OneReach</span></a><span style="font-weight: 400;"> to create (and manage) self-service messaging bots and live communications with their customers. The most popular use-cases include live and automated customer support, proactive order status notifications or order updates, payments/purchasing and text or chat-enabled IVRs (now called chat-bots). Who’d have thought that a bot could reduce 40% of a major brand’s customer support costs, increase revenue by 30% or boost NPS scores?</span></p>
+<p><span style="font-weight: 400;">Toby Shapshak seems to have been the oracle that foretold one of the most prolific changes in how consumers and businesses communicate and do commerce. He suggested that bots are “effectively an intersection of the most basic and sophisticated communication. It&#8217;s remarkable that the very rich (in the developed world) and poor (in the developing world) have effectively ended up in the same place (both using bots)”</span></p>
+<p><span style="font-weight: 400;">Years have past since his Ted Talk and we thought it would be valuable to see what Toby thinks of today’s climate and where things go from here. </span></p>
+<h2><b>Our interview with Toby Shapshak</b></h2>
+<p><b>Elias: </b><i><span style="font-weight: 400;">Messenger Bots are impacting the everyday life and habits of consumers &#8211; in commerce, purchasing, managing one’s time, getting news and so on. You’ve been watching the impact of messenger bots in Africa for sometime. With this in mind, what perspective would you offer to business leaders and experience-designers on the impact that messenger bots have on consumer habits &#8211; in commerce and purchasing or donations, customer support, managing one’s time, getting news and so on?</span></i></p>
+<p><b>Toby:</b><span style="font-weight: 400;"> Business leaders and UX designers should be aware of how chatbots can have an impact on consumer habits; both positively and negatively.</span></p>
+<p><span style="font-weight: 400;">For the youth of the world, who have grown up using chat, it&#8217;s a logical extension to communicate through this channel, ask questions, even make purchases. Pew Research found that American teenagers were only using email to communicate with &#8220;authority figures&#8221; &#8211; adults, parents and teachers. Now chatting is so dominant that WhatsApp has over a 1 billion users and Facebook Messenger has some 800 million users and 50 million businesses. WeChat has some 800 million users, mostly in China, and has been using bots in a very sophisticated way for a lot longer. Wechat is the future of chatting mingled with commerce. </span></p>
+<p><span style="font-weight: 400;">The great thing about SMS &#8211; which is arguably the greatest communication medium the world has ever seen; and the most expensive &#8211; is that it works on every single cellphone, no matter how sophisticated. The other key thing is SMS has a 100% read rate &#8211; even the spam.</span></p>
+<p><span style="font-weight: 400;">In this context, doing new things like search or shopping via messaging/chat seems obvious to a generation of youngsters that prefer chat to email or anything else. Chat is cheaper and it&#8217;s a paradigm that people understand. It also doesn&#8217;t have a learning curve, the way that conventional apps do. </span></p>
+<p><b>Elias: </b><i><span style="font-weight: 400;">In 2013 you commented that &#8220;while the rest of the world is updating statuses and playing games on smartphones, Africa is developing useful SMS-based solutions to everyday needs”. Is the current wave of messenger bots solving real problems or this just the new version of &#8220;updating statuses and playing games on smartphones”?</span></i></p>
+<p><b>Toby: </b><span style="font-weight: 400;">Right now, a lot of chatbots seem like a nice-to-have. Give them some maturity and we&#8217;ll see if they are a flash-in-the-pan hype or something that will be continuingly useful.</span></p>
+<p><b>Elias: </b><i><span style="font-weight: 400;">Is the rest of the world catching up or is Africa still ahead and in what ways? What has the rest of the world yet to learn still from African innovation?</span></i></p>
+<p><b>Toby: </b><span style="font-weight: 400;">Africa is forced to innovate the way it does because there are no other alternatives. it&#8217;s the purest form of innovation out of necessity. More people in Africa have access to a cellphone than to electricity. Because of this there are brilliant power solutions, including solar-power systems like M-Kopa. If you have a pressing problem, it&#8217;s the best incentive in the world to solve it. If you have electricity, what are you likely to do? Watch TV or YouTube. it&#8217;s sadly that simple.</span></p>
+<p><b>Elias: </b><i><span style="font-weight: 400;">What are your predictions for where messaging and bots go next, in Africa and elsewhere?</span></i></p>
+<p><b>Toby: </b><span style="font-weight: 400;">The sky really is the limit, isn&#8217;t it. Text-based services are revolutionary in Africa, offering everything from Google search via SMS to important health information via South Africa&#8217;s mHealth initiatives. </span></p>
+<p><span style="font-weight: 400;">Kevin Kelly, the founding executive editor of Wired magazine, said some very interesting things at SXSW this year about how artificial intelligence will become part of our lives. Right now, he says, “it&#8217;s like the early days of cloud computing, but it will ultimately be as sophisticated a service as cloud-based offerings are now”. He called it &#8220;intelligence as a services&#8221;. “Like electricity, which you now buy in what we now call an on-demand model”, Kelly says &#8220;you won’t have to make your AI, you will just purchase it. It will flow like electricity from the grid to wherever you want it. &#8221; He says: &#8220;Artificial intelligence will soon be a commodity&#8221;. AI services at low cost will spur the chatbot industry and make offerings increasingly sophisticated. </span></p>
+<p><span style="font-weight: 400;">There is also the network effect to consider. Part of the reason Google&#8217;s search algorithms are so fast &#8211; and can predict or suggest answers so quickly &#8211; is because of the volume of search queries it has already performed. This inventory of queries and searches mean there is a greater volume of info to reference. As the volume of chatbot data increases, they will also become more effective.</span></p>
+<h2><b>Reflection &amp; Looking Forward</b></h2>
+<p><span style="font-weight: 400;">In reflecting on Toby Shapshak’s 2013 Ted Talk it’s evident that he saw something revolutionary emerging amidst the noise in the world of experience design, business and technology. </span></p>
+<p><span style="font-weight: 400;">Similar to the concept of hindsight being 20/20, until 2016 the business world largely ignored the opportunity to leverage the most ubiquitous communication channels in the world (text messaging and IP messaging) for customer support. </span></p>
+<p><a href="http://www.edn.com/electronics-blogs/edn-moments/4402146/1st-text-message-is-sent--December-3--1992"><span style="font-weight: 400;">The first text message was sent in 1992</span></a><span style="font-weight: 400;"> and </span><a href="https://en.wikipedia.org/wiki/Text_messaging"><span style="font-weight: 400;">by 2007 </span><span style="font-weight: 400;">74% of all mobile phone users worldwide</span><span style="font-weight: 400;"> used text messaging</span></a><span style="font-weight: 400;">. It took the western business world roughly another 10 years to accept the notion that just maybe they should consider communicating with their customers over the single most prefered communication channel in the world &#8211; SMS. </span></p>
+<p><span style="font-weight: 400;">For the last 6 years at </span><a href="http://www.onereach.com"><span style="font-weight: 400;">OneReach,</span></a><span style="font-weight: 400;"> I’ve been lucky enough to see startups and huge international brands alike use our tools to easily create and iterate on fully reportable and integrated bots. It’s been 3 years since Toby Shapshak’s TED talk and it’s great to finally see so many companies designing for the channels consumers actually prefer (messaging). </span></p>
+<p><span style="font-weight: 400;">Now that we’re here, let’s not be foolish enough to think that leveraging chat bots to drive business impact is any easier because the interface is an ‘old’ technology. The businesses world learned that building any old mobile app really isn’t all that hard. Similar to mobile apps, the success of a today’s chat bots will not be defined by whether or not your company offers chatbots. Success will rest on whether or not your chatbot experiences achieve desired outcomes for your business while being meaningful to your customer.</span></p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/you-dont-need-an-app-for-that/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Sharing the Love:  Amy Krouse Rosenthal and the Emerging Connection between Author and Reader</title>
+		<link>https://onereach.ai/sharing-the-love-amy-krouse-rosenthal-and-the-emerging-connection-between-author-and-reader/</link>
+				<comments>https://onereach.ai/sharing-the-love-amy-krouse-rosenthal-and-the-emerging-connection-between-author-and-reader/#respond</comments>
+				<pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Automation]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Customer Satisfaction]]></category>
+		<category><![CDATA[Texting]]></category>
+		<category><![CDATA[AI in publishing]]></category>
+		<category><![CDATA[Artificial intelligence]]></category>
+		<category><![CDATA[bot]]></category>
+		<category><![CDATA[customer experience]]></category>
+		<category><![CDATA[customer service]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/sharing-the-love-amy-krouse-rosenthal-and-the-emerging-connection-between-author-and-reader/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>Throughout much of history, authors have maintained a distance from readers, their experiences separated by both time and place. As novelist Paolo Coelho noted, writing is “a solitary experience.” The work of the author was often created in isolation—seemingly forged in the rarified air of their literary mountain before being handed down to the waiting masses.</p>
+<p>Now, not so much.</p>
+<p>Modern writers are encouraged to engage with their readers and, thanks to technology, have numerous possible channels to choose from. This makes the modern author more a reachable human, and less a remote mystic.</p>
+<p>This may seem grievous to the lone wolf author who would prefer to remain isolated and mysterious. But the reality in our connected world is that readers expect a level of access to authors, and success in the literary world depends on it. In his editorial piece “<a href="http://www.forbes.com/sites/daviddisalvo/2012/05/10/the-aloof-author-is-dead-long-live-the-writer/#48b4eb3e2649" target="_blank" rel="noopener noreferrer">The Aloof Author Is Dead, Long Live the Writer</a>,” David DiSalvo of Forbes Magazine writes:</p>
+<p>Technology has riddled the barriers between authors and readers full of holes. Ignoring the multiple ways readers can interface with writers isn’t an option — but more to the point, why would anyone want to ignore them? In the new economy, writers must build brands for themselves and maintain them over time. Every mode of interaction with readers offers opportunities to strengthen the brand.</p>
+<p>As novelist and blogger Kate Pullinger described in her article “<a href="http://www.katepullinger.com/website_archive/index.php/blog/comments/connecting-readers-to-writers-the-only-possible-future-of-publishing" target="_blank" rel="noopener noreferrer">Connecting Readers to Writers: the only possible future of publishing</a>,” “(T)he only important question left, really, is how to connect writers to readers. Any publisher who isn’t addressing this directly and urgently will be in trouble soon.”</p>
+<p>While blogs and eBooks have begun providing a somewhat interactive experience, printed literature has remained in the same static place it has for centuries. After all, how can the ancient medium of paper provide a modern interactive experience?</p>
+<p>Enter author Amy Krouse Rosenthal.</p>
+<p>Amy is bending the world of print media towards truer interactivity by partnering with OneReach to use text-based audience participation. Written in a wry, memoir style, her new book <a href="https://www.textbookamykr.com/" target="_blank" rel="noopener noreferrer">Textbook Amy Krouse Rosenthal</a> invites readers to actively join in the discussion.</p>
+<p>At the beginning of the book, readers are encouraged to text “Hello” to a Chicago number (the author’s hometown). A cheery greeting comes back from the author, which sets up a relationship of sorts between author and reader.</p>
+<p>At various intervals in the book, Amy prompts the reader to engage by using text inputs to the previously used number. Information either flows from the reader to the author (such as self-portraits and photos) or from the author to the reader (such as audio files of a poet reading his work). All of these inputs are then posted on the author’s website.</p>
+<p>This unique immersive experience was done very intentionally. Amy Krouse Rosenthal <a href="http://www.chicagotribune.com/lifestyles/books/ct-prj-amy-krouse-rosenthal-textbook-20160803-story.html" target="_blank" rel="noopener noreferrer">says</a> “the text-messaging aspect of the book, at the end of the day, is about connecting with people.” This human need for connection is well-documented and has even been recently called “as fundamental as our need for food and water” by neuroscientist <a href="https://www.youtube.com/watch?v=NNhk3owF7RQ" target="_blank" rel="noopener noreferrer">Matthew Lieberman</a>.</p>
+<p>We are only just beginning to see this connection between author and reader. What OneReach has done is create an interactive and immersive experience that has been lacking up until now. Future writers may be able to construct an entirely new way of providing details or even compel an interaction with their story lines. The possibilities are limited only by the author’s imagination. Consider these:</p>
+<p>• Choose Your Own Adventure books. Remember those? Also known as “gamebooks,” they used to let the reader choose different endings and options as they progressed through the pages of the book. How cool would it be to adapt that in a more technologically immersive way? A reader could text their choices and receive instructions for the next step in the story.</p>
+<p>• Interactive mysteries. Readers would need to solve part of the mystery before getting a text with the next clue. This would make them almost a character in the story as they help to solve the crime.</p>
+<p>• Immersive talk tracks. Imagine going on the Boston walking tour and getting texts showing images of what you’re looking at, but from the colonial period. Bot technology could also be used so you could ask questions about what you’re seeing and get a real-time answer.</p>
+<p>• Scavenger hunts. Thanks to the proliferation of activities like Pokemon Go and geocaching, scavenging has never been more popular. Authors can include location-specific or theme-specific clues and readers can respond with the correct answer or upload an image of the item.</p>
+<p>• Personalized books. When I was a child, one of my favorite books was a personalized one, where my own name had been included in the storyline. Admittedly, it was done with old technology, and looked like someone had just clumsily fed the template through a typewriter. That didn’t matter to me. I loved the idea that I was part of the story, and felt so very important! Using texts, an author could now give prompts for names, details, and image uploads, essentially having the reader build the story as they go. At the end, readers could even get a digital or printed copy of the story they created.</p>
+<p>These are just a few ideas, limited only by the imagination of writers now and in the future. As culture changes, so must the authors and publishing companies operating within it. Although really, no matter how much technology changes, people are—as always—still just earnestly searching for connection. And a writer like Amy Krouse Rosenthal gives them just that.</p>
+<p>Try it for yourself and let us know what you think!</p>
+<p>&nbsp;</p>
+<p>Image courtesy of www.whoisamy.com, taken by Brooke Hummer</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/sharing-the-love-amy-krouse-rosenthal-and-the-emerging-connection-between-author-and-reader/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

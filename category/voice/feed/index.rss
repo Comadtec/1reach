@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Voice &#8211; OneReach.ai</title>
+	<atom:link href="https://onereach.ai/category/voice/feed/" rel="self" type="application/rss+xml" />
+	<link>https://onereach.ai</link>
+	<description>Intelligently Automate Your Company</description>
+	<lastBuildDate>Fri, 26 Jul 2019 11:39:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://onereach.ai/wp-content/uploads/2018/04/cropped-OR-ICON-GOLD-W-DOTS-Larger-Background-02-32x32.png</url>
+	<title>Voice &#8211; OneReach.ai</title>
+	<link>https://onereach.ai</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Forrester: 10% of U.S. jobs will be lost to automation in 2019</title>
+		<link>https://onereach.ai/forrester_jobs/</link>
+				<pubDate>Wed, 20 Feb 2019 17:56:26 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Learning about AI and Bots]]></category>
+		<category><![CDATA[OmniChannel]]></category>
+		<category><![CDATA[Phone]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Voice]]></category>
+		<category><![CDATA[journal-popular]]></category>
+		<category><![CDATA[journal-recent]]></category>
+
+		<guid isPermaLink="false">https://onereach.ai/?p=5249</guid>
+				<description><![CDATA[Raconteur explores how bots are changing the role of Chief Financial Officers (CFO) and their corresponding departments [...]]]></description>
+								<content:encoded><![CDATA[<p><span style="font-weight: 400;">VentureBeat’s recent article on Forrester’s latest report on artificial intelligence brings up some interesting points. There is often talk of the gloom and doom that AI will bring on, especially in terms of eliminating key jobs through automation. There is no doubt that AI is going to have a massive impact on the way businesses operate, but what does this new future look like?</span></p>
+<p><img class="alignnone wp-image-4588 size-large" src="https://onereach.ai/wp-content/uploads/2018/05/Robot-Woman-Sofija-Mitrovic-1024x725.jpg" alt="" width="1024" height="725" srcset="https://onereach.ai/wp-content/uploads/2018/05/Robot-Woman-Sofija-Mitrovic-1024x725.jpg 1024w, https://onereach.ai/wp-content/uploads/2018/05/Robot-Woman-Sofija-Mitrovic-300x212.jpg 300w, https://onereach.ai/wp-content/uploads/2018/05/Robot-Woman-Sofija-Mitrovic-768x543.jpg 768w, https://onereach.ai/wp-content/uploads/2018/05/Robot-Woman-Sofija-Mitrovic-150x106.jpg 150w, https://onereach.ai/wp-content/uploads/2018/05/Robot-Woman-Sofija-Mitrovic-600x425.jpg 600w, https://onereach.ai/wp-content/uploads/2018/05/Robot-Woman-Sofija-Mitrovic-900x637.jpg 900w, https://onereach.ai/wp-content/uploads/2018/05/Robot-Woman-Sofija-Mitrovic-20x13.jpg 20w, https://onereach.ai/wp-content/uploads/2018/05/Robot-Woman-Sofija-Mitrovic-340x240.jpg 340w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p><b>The rise of digital workers</b></p>
+<p><span style="font-weight: 400;">Firstly, companies and startups alike are going to see an increase in digital workers created by robotic process automation (RPA) and AI. An increasing number of businesses are looking to scale at faster levels than before, and are going to be searching for solutions that can automate and optimize tasks traditionally done by humans. </span></p>
+<p><b>Automation is all about giving and taking</b></p>
+<p><img class="alignnone wp-image-2433 size-large" src="https://onereach.ai/wp-content/uploads/2017/12/huai-1024x463.png" alt="" width="1024" height="463" srcset="https://onereach.ai/wp-content/uploads/2017/12/huai-1024x463.png 1024w, https://onereach.ai/wp-content/uploads/2017/12/huai-768x348.png 768w, https://onereach.ai/wp-content/uploads/2017/12/huai-300x136.png 300w, https://onereach.ai/wp-content/uploads/2017/12/huai-1200x544.png 1200w, https://onereach.ai/wp-content/uploads/2017/12/huai-20x9.png 20w, https://onereach.ai/wp-content/uploads/2017/12/huai-150x68.png 150w, https://onereach.ai/wp-content/uploads/2017/12/huai-600x272.png 600w, https://onereach.ai/wp-content/uploads/2017/12/huai-900x407.png 900w, https://onereach.ai/wp-content/uploads/2017/12/huai.png 1202w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p><span style="font-weight: 400;">Automation tends to be associated with loss of jobs, and while this holds true in Forrester’s findings, that is not the whole story. 2019 will see roughly 10% of US jobs eliminated due to automation, but that same automation will also </span><i><span style="font-weight: 400;">create</span></i><span style="font-weight: 400;"> about 3% of today’s jobs.</span></p>
+<p><span style="font-weight: 400;">However, this new increase in automation has bigger implications down the line. As companies begin to fully scale operations to keep up with the rest, it means the marketplace for AI solutions is going to be fiercely competitive. A Deloitte survey currently posits the annual global growth rate for AI-as-a-serve at 48.2%, with no signs of slowing down. This ripple effect then bleeds into other business areas, such as recruitment for AI talent, as businesses look for ways to retain their edge. Forrester’s survey posits that this search for talent will lead to “unprecedented job match success rates.”</span></p>
+<p><b>Use cases you need to know about</b></p>
+<p><span style="font-weight: 400;">Forrester’s research points to four use cases wherein businesses see a real return on investment: </span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Analytics that solve platform issues</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Chatbots integrated with RPA bots</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Internet-of-things (IoT) events that trigger “digital workers”</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Text analytics that organize unstructured data into “clean files” for RPA software.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Spot some commonalities? These use cases all point towards the future of AI &#8212; intelligent automation. Rather than strip away necessary jobs, AI is being used to free up employee time from rote tasks, and increase overall job satisfaction. These solutions are able to bridge the gap between menial tasks and human expertise, rather than limit the personal touch. According to the report, ML’s [machine learning] strength is data. Knowledge engineering’s strength is human wisdom. Used together, enterprises can dramatically accelerate the development of AI applications.</span><b>”</b></p>
+<p>Read the full article <a href="https://venturebeat.com/2018/11/06/forrester-10-of-u-s-jobs-will-be-lost-to-automation-in-2019/" target="_blank" rel="noopener noreferrer">here</a></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Software 2.0 &#8211; Reinterpreting Software</title>
+		<link>https://onereach.ai/software-2-0-reinterpreting-software/</link>
+				<pubDate>Mon, 03 Sep 2018 00:57:35 +0000</pubDate>
+		<dc:creator><![CDATA[Robb]]></dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[OmniChannel]]></category>
+		<category><![CDATA[Phone]]></category>
+		<category><![CDATA[SMS]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Voice]]></category>
+		<category><![CDATA[journal-popular]]></category>
+		<category><![CDATA[journal-recent]]></category>
+
+		<guid isPermaLink="false">https://onereach.ai/?p=4829</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p><span style="font-weight: 400;"><b><i>“If you think of neural networks as a software stack and not just a pretty good classifier, it becomes quickly apparent that they have a huge number of advantages and a lot of potential for transforming software in general.”</i></b></span></p>
+<p><span style="font-weight: 400;">Reinterpreting the way you understand neural networks will completely change the way you think of software. And, according to Andrej Karpathy, the Director of AI at Tesla, it’s for the best. </span></p>
+<p><span style="font-weight: 400;">Coined “Software 2.0”, which is written by neural network weights rather than humans, these weights will not replace Software 1.0 (much to the relief of today’s coders). Instead, Software 2.0 will help to lighten the load, taking on tedious tasks involved in creating the software behind visual and speech recognition, speech synthesis, machine translation, robotics, and games. Karpathy’s argument for the numerous benefits of porting complex programs into Software 2.0, despite its recognized limitations, should be enough to convince any coder to accept this new age transition.</span></p>
+<p><span style="font-weight: 400;">Read more <span style="color: #ff0000;"><a style="color: #ff0000;" href="https://medium.com/@karpathy/software-2-0-a64152b37c35" target="_blank" rel="noopener noreferrer">here</a></span>.</span></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>10 Questions Every Org. Must Consider If In The Race</title>
+		<link>https://onereach.ai/10-questions-every-organization-should-consider-when-competing-in-the-race-to-ai-adoption/</link>
+				<pubDate>Sun, 02 Sep 2018 12:55:19 +0000</pubDate>
+		<dc:creator><![CDATA[Robb]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[All]]></category>
+		<category><![CDATA[OmniChannel]]></category>
+		<category><![CDATA[SMS]]></category>
+		<category><![CDATA[Strategy]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Voice]]></category>
+		<category><![CDATA[journal-popular]]></category>
+
+		<guid isPermaLink="false">https://onereach.ai/?p=4678</guid>
+				<description><![CDATA[In order to understand the importance of chatbots and voice bots in today’s business world, you first have to note the context [...]]]></description>
+								<content:encoded><![CDATA[<p><span style="font-weight: 400;">In order to understand the importance of chatbots and voice bots in today’s business world, you first have to note the context in which they are being created. Despite the illusion of complexity, both types of bots are just software operating on an interface. And that interface also isn’t anything new; it’s actually the first interfaced used by humans: language. Built in to our cognitive development as humans, language is very much a part of who we are. Bots, then, aren’t creating something new. Instead, they’re simply finding a new way to do what we as humans have done for millenniums.</span></p>
+<p><span style="font-weight: 400;">At the heart of the chatbot and voice bot revolution is the desire (and capacity) for using language to communicate with computers. The ability to do this means that we can actually train computers to not just understand, but also create, language, giving them the ability to tap into the interface we know so well.</span></p>
+<p><span style="font-weight: 400;">In order for future bot experiences to be successful, they must be well-versed in the human language.</span></p>
+<p><span style="font-weight: 400;">How do they acquire these skills?</span></p>
+<p><span style="font-weight: 400;">Through the training we give to them.</span></p>
+<p><span style="font-weight: 400;">While it would be plausible for the opposite to take place (us training ourselves to talk to computers, aka coding), it’s a much better user experience for computers to learn to speak to us via our language.</span></p>
+<p><span style="font-weight: 400;">This, then, brings us to the 10 business, design and technology questions that everyone should explore before setting out to build bots or create other AI solutions. </span></p>
+<p><span style="font-weight: 400;">You’re already past questions like “how do bots and AI work?”, “what can they do for my organization?” and “should my organization make a bot?”. You already know that stuff, and likely the last thing you need is more marketing and sales pitches peddling bots and AI as the magic answer. </span></p>
+<p><span style="font-weight: 400;">Whether you’re looking to make your existing stuff more awesome or you&#8217;re just getting started on your first AI and bot-stuffs, we think that you’ll be glad for the questions and answers our customers came across through many years of bot-building and AI problem solving.</span></p>
+<p><span style="font-weight: 400;"><a href="https://onereach.ai/wp-content/uploads/2018/05/10-Questions-To-Consider-About-Your-AI-1.jpg" target="_blank" rel="noopener"><img class="aligncenter wp-image-4685 size-full" src="https://onereach.ai/wp-content/uploads/2018/05/10-Questions-To-Consider-About-Your-AI-1.jpg" alt="" width="2081" height="1166" srcset="https://onereach.ai/wp-content/uploads/2018/05/10-Questions-To-Consider-About-Your-AI-1.jpg 2081w, https://onereach.ai/wp-content/uploads/2018/05/10-Questions-To-Consider-About-Your-AI-1-300x168.jpg 300w, https://onereach.ai/wp-content/uploads/2018/05/10-Questions-To-Consider-About-Your-AI-1-768x430.jpg 768w, https://onereach.ai/wp-content/uploads/2018/05/10-Questions-To-Consider-About-Your-AI-1-1024x574.jpg 1024w, https://onereach.ai/wp-content/uploads/2018/05/10-Questions-To-Consider-About-Your-AI-1-20x11.jpg 20w, https://onereach.ai/wp-content/uploads/2018/05/10-Questions-To-Consider-About-Your-AI-1-150x84.jpg 150w, https://onereach.ai/wp-content/uploads/2018/05/10-Questions-To-Consider-About-Your-AI-1-600x336.jpg 600w, https://onereach.ai/wp-content/uploads/2018/05/10-Questions-To-Consider-About-Your-AI-1-900x504.jpg 900w" sizes="(max-width: 2081px) 100vw, 2081px" /></a></span></p>
+<p><strong>Here are 10 questions that everyone should explore before/during building bots and AI solutions.</strong></p>
+<ol>
+<li><b>How can I future-proof my bot’s design, development and management? <i><span style="font-weight: 200;">Now this may seem like an advanced question, and it is, but in order to save yourself and your organization lots of painful time and money, we’re going to get you thinking about it early. There’s no better way to get thinking about it than to get some important questions stuck in the back of your head &#8211; try your best to keep running through them as you’re working through building great bot experiences. </span></i></b>
+<ul>
+<li><b>How c</b><b>an I avoid betting early on AI platforms without missing early payouts or stifling progress?</b> <i><span style="font-weight: 200;">Wow &#8211; that’s a doozy. There’s a lot of action in the AI space right now and a lot of money getting poured into it by all sorts of companies that want you to bet on them. If you’re like us, you might feel a bit like it’s too early to bet on investing in one particular platform like a Watson, Google’s API.ai, Luis, etc, etc. Pick one? Seems like a tough bet. So we subscribe to not picking one &#8211; instead AB test them all and see which one is best for each pieces of the puzzle, knowing that they’ll all continue to change.</span></i></li>
+<li><b>What do I need to know in order to avoid super-gluing myself to platforms, providers and languages that might not be future-proof? <i><span style="font-weight: 200;">We’ve learned how important this question becomes to all of our customers by seeing how painful it can be to change platforms, providers and languages mid-flight &#8211; maybe your SMS provider gets too expensive or your understandably weary of building a solution on a proprietary language that’s only usable on one platform &#8211; like Twilio or Nexmo, etc. </span></i></b></li>
+</ul>
+</li>
+</ol>
+<ol>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 200;"><span style="font-weight: 200;">How could reporting hold my bot back from it’s class, and how can I break the shackles early or avoid them altogether?</span></li>
+</ul>
+</li>
+<li style="font-weight: 200;"><strong>Do I just want AI, or do I need AI?</strong></li>
+<li style="font-weight: 200;"><strong>What’s the right channel(s) for my bot, and how can I build my bot to be as scalable as possible to other channels?</strong></li>
+<li style="font-weight: 200;"><strong>Is my bot trained to do the right things and report on the right things, in the right ways for the right people? &#8211; What’s the scope and for who?</strong></li>
+<li style="font-weight: 200;"><strong>What should my bot say if it doesn’t understand somebody’s intent and why does that question matter so much?</strong></li>
+<li style="font-weight: 200;"><strong>What am I doing to make sure my bot’s integrations and 3rd party connectivity scalable and interchangeable?</strong></li>
+<li style="font-weight: 200;"><strong>What’s appropriate for bots and what’s not, and where does my bot fall on the line? </strong></li>
+<li style="font-weight: 200;"><strong>What do I need to consider when designing hand-offs from my bot to a human?</strong></li>
+<li style="font-weight: 200;"><strong>How can I be sure I’m incorporating graceful failure into the experience my bot offers?</strong></li>
+<li style="font-weight: 200;"><strong>What can I do to ensure my bot is developed in ways that don’t eternally hand-cuff me to it’s management, iterations and reporting?</strong></li>
+</ol>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>3 Global CFO’s Say Goodbye &#8211; Bots &#038; Blockchain Take-Over</title>
+		<link>https://onereach.ai/science_behind_hold-2/</link>
+				<pubDate>Sun, 02 Sep 2018 00:15:34 +0000</pubDate>
+		<dc:creator><![CDATA[Robb]]></dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[OmniChannel]]></category>
+		<category><![CDATA[Phone]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Voice]]></category>
+		<category><![CDATA[journal-recent]]></category>
+
+		<guid isPermaLink="false">https://onereach.ai/?p=1959</guid>
+				<description><![CDATA[Raconteur explores how bots are changing the role of Chief Financial Officers (CFO) and their corresponding departments [...]]]></description>
+								<content:encoded><![CDATA[<p><span style="font-weight: 400;"><strong>Technology is developing at speeds that were previously unheard of, and as a result artificial intelligence (AI) is changing the face of business.</strong> </span></p>
+<p><span style="font-weight: 400;">In <a href="https://www.raconteur.net/finance/goodbye-cfo-bots-and-blockchain-are-taking-over-soon">a recent Raconteur article by Jon Card</a>, </span><i><span style="font-weight: 400;">Goodbye CFO? Bots and blockchain are taking over soon </span></i><span style="font-weight: 400;">Card explores how bots are changing the role of Chief Financial Officer (CFO) and their corresponding departments. </span></p>
+<p><span style="font-weight: 400;">Tim Briant (Airswift), Sankar Narayan (Xero), and Todd Ford (Coupa) shared what has changed within their companies, and what changes they expect to see in the future. From complete automation lacking a human touch, to changing the way companies analyze information, AI looks to have a significant impact on how companies will operate in the future. </span></p>
+<p><span style="font-weight: 400;">Tim Briant is not at all conservative in how he anticipates AI impacting business. Card wrote that Briant believes that AI is going to replace people completely. Briant cites his previous employment (as CFO at Adecco) as an example for how businesses will automate in the future. At Adecco many processes are already automated. At Airswift they are planning on implementing their own changes, by investing in bots. In a similar way to which humans learn, bots can do so as well. </span></p>
+<p><span style="font-weight: 400;"><strong>This ability to learn is what puts future accounting jobs at risk for humans.</strong> With the cost of technology dropping, it may one day become cheaper to have bots (who are able to learn from their mistakes) that are able to do the work (24 hours a day) than it would be to have humans doing the same work 8 hours a day.  According to Card, Briant believes that between AI technology and blockchain (a system that stores data in a public and accessible way – making it impossible for hackers to hack) there will not be a need for companies to retain a Chief Financial Officer in the future. </span></p>
+<p><span style="font-weight: 400;">Card found an alternate point of view while interviewing Sankar Narayan of Xero. Narayan does not necessarily have the same doom and gloom type attitude that Briant has. Instead, Narayan seems exceptionally optimistic by what technology is able to offer, especially in terms of what it is doing for his current business.  </span></p>
+<p><img class="aligncenter size-large wp-image-4557" src="https://onereach.ai/wp-content/uploads/2018/03/chris-liverani-552652-unsplash-1024x768.jpg" alt="" width="1024" height="768" srcset="https://onereach.ai/wp-content/uploads/2018/03/chris-liverani-552652-unsplash-1024x768.jpg 1024w, https://onereach.ai/wp-content/uploads/2018/03/chris-liverani-552652-unsplash-300x225.jpg 300w, https://onereach.ai/wp-content/uploads/2018/03/chris-liverani-552652-unsplash-768x576.jpg 768w, https://onereach.ai/wp-content/uploads/2018/03/chris-liverani-552652-unsplash-150x112.jpg 150w, https://onereach.ai/wp-content/uploads/2018/03/chris-liverani-552652-unsplash-600x450.jpg 600w, https://onereach.ai/wp-content/uploads/2018/03/chris-liverani-552652-unsplash-900x675.jpg 900w, https://onereach.ai/wp-content/uploads/2018/03/chris-liverani-552652-unsplash-20x16.jpg 20w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p><span style="font-weight: 400;"><strong>Narayan has found that the role of CFO is taking on a more analytical position than it has in the past, but that is because of the massive amounts of data that they have at their fingertips</strong>. Boasting that he essentially knows exactly how much growth his company has experienced over any given time, Narayan seems to embrace what technology offers his company. However, Narayan wasn’t always this easy going in terms of AI. He’s been a CFO for over 17 years, which means he has had to see his position grown and change in order to stay relevant. Narayan believes that using artificial intelligence in business will be about more than efficiency in the future, and will instead help determine what decisions will make the company more profitable. </span></p>
+<p><span style="font-weight: 400;"><strong>Todd Ford, of Coupa, is another CFO doomsayer. According to Card, Ford recognizes that with the advances in AI, the role of CFO may become obsolete.</strong> Though not necessarily as unforgiving as Briant, Ford recognizes that things have already changed significantly in the field. Humans are now competing with bots. Ford’s solution is to become more than just an accountant, he is also skilled in sales and marketing. This enables him to combine his two knowledge bases, and makes him more valuable. Card states that Mr. Ford sees the CFO position as one that consists of both chief accounting officer, as well as chief operations officer. It is Ford’s assumption that the CFO position will disappear in favor of a chief accounting officer and a chief operations officer, as those two skillsets don’t always coincide. </span></p>
+<p><span style="font-weight: 400;">These three men are at the top of their field, and area already starting to see changes in terms of how AI has changed their business. With this constantly evolving landscape, it offers a plethora of opportunity, especially to businesses. However, accountants in the field will need to find a way to ensure that they stay relevant despite changes in the future. For some, this raises more questions than it does provide answers. Even so, bots offer many benefits that human counterparts cannot: longer work hours, reduced risk of human error, and the ability to provide analysis almost instantaneously. </span></p>
+<p><span style="font-weight: 400;">These reasons alone make AI development worth a risk. </span></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Clinton Uses Texting and Voice To Attack Sanders</title>
+		<link>https://onereach.ai/clinton-uses-texting-and-voice-to-attack-sanders/</link>
+				<comments>https://onereach.ai/clinton-uses-texting-and-voice-to-attack-sanders/#respond</comments>
+				<pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Automation]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Use Cases]]></category>
+		<category><![CDATA[Voice]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/clinton-uses-texting-and-voice-to-attack-sanders/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p><a href="http://www.onereach.com/blog/election-texting-post/">We&#8217;ve written before</a> about how texting could be used for political campaigns. You could use it for voter registration, voting day reminders, or even to set up a text hotline to get real-time feedback on what&#8217;s going on at polling places.</p>
+<p>But now we can add a new texting use case to the list: attack ads.</p>
+<p><span id="more-7393"></span>BuzzFeed News Reporter Evan McMorris-Santoro <a href="http://www.buzzfeed.com/evanmcsan/clinton-uses-presidents-day-to-accuse-sanders-of-disloyalty#.hroMQE3RY">had a firsthand experience</a> with this texting use case. He received a text message from the Clinton campaign touting her support of Barack Obama and calling out &#8220;someone&#8221; who didn&#8217;t support Obama.</p>
+<p>When Evan texted back the word HEAR to learn more, he got an automated call from the Hillary campaign with a soundbite of her supporting one of Obama&#8217;s decisions and Bernie Sanders opposing him. After the call, it ended with a text saying Hillary was the only one who would continue Obama&#8217;s legacy.</p>
+<p>This is definitely a unique texting use case, not only for its message but for its use of two communication channels to get that message across. I won&#8217;t get into politics here, but I commend Clinton for using two powerful communication channels together to interact with her base and deliver a one-on-one experience that other channels can&#8217;t.</p>
+<p><strong><a href="http://www.buzzfeed.com/evanmcsan/clinton-uses-presidents-day-to-accuse-sanders-of-disloyalty#.hroMQE3RY">Check out the full article on BuzzFeed</a>, and don&#8217;t forget to <a href="http://onereach.com/resources/10-things-about-text">download our whitepaper</a> on the 10 things you need to know when adding texting to your business.</strong></p>
+<p><em>The opinions expressed here are solely that of the contributor and don&#8217;t necessarily represent the views of OneReach.</em></p>
+<p>Photo by Flickr user <a href="https://www.flickr.com/photos/cornstalker/23575629583/">Matt A.J</a>. <a href="https://creativecommons.org/licenses/by/2.0/">CC2.0 License</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/clinton-uses-texting-and-voice-to-attack-sanders/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Ben &#038; Jerry’s and OneReach: A Sweet Combination</title>
+		<link>https://onereach.ai/ben-jerrys-and-onereach-a-sweet-combination/</link>
+				<comments>https://onereach.ai/ben-jerrys-and-onereach-a-sweet-combination/#respond</comments>
+				<pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Texting]]></category>
+		<category><![CDATA[Use Cases]]></category>
+		<category><![CDATA[Voice]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/ben-jerrys-and-onereach-a-sweet-combination/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>Climate justice is about to get a little bit sweeter.</p>
+<p>Ben &amp; Jerry’s is rallying climate activists (and anyone with a sweet tooth) to take action on climate change. The ice cream maker, a long-time supporter of climate justice, is urging citizens worldwide to contact world leaders in advance of the <a href="http://www.cop21.gouv.fr/en">United Nations Climate Change Conference</a> in Paris, which begins at the end of November.</p>
+<p><span id="more-7347"></span>Ben &amp; Jerry’s wants world leaders to commit to strong carbon reduction goals, and is supporting a transitioning to 100% clean energy by 2050. They’re currently offering citizens the ability reach out to decision makers over email, but that can be an easy channel for leaders to ignore.</p>
+<p>Phone calls—well, let’s just say they know how to grab your attention.</p>
+<p>For their current campaign, “Save Our Swirled,” Ben &amp; Jerry’s wanted to provide communication channels that were going to be the most impactful on this issue, and knew that direct calls would be a great, easy way to for citizens to take action. They decided to use voice calls to contact local leaders, specifically state governors to implement the US Clean Power Plan, and they turned to OneReach to help make their vision a reality.</p>
+<p>OneReach designed a click-to-call widget for the website that not only lets citizens call governors, but also lets them tweet at or email them. (<a href="http://www.benjerry.com/flavors/salted-caramel-brownie-ale-ice-cream">Check out the widget here</a>&#8211;you have to be over 21). For Ben &amp; Jerry’s, this secondary option means they can engage with state leaders on the channel they prefer, but also have the ability to contact state leaders multiple times.</p>
+<p>This isn’t Ben and Jerry’s only climate campaign, though. They produce a lot of content educating fans on climate justice, and have even taxed their own CO2 omissions to be used to reduce carbon impact. Their goal is to reduce their impact by 80% by 2050.</p>
+<p>We’re excited to have helped Ben &amp; Jerry’s and are glad we’re giving activists (and ice cream lovers) the chance to serve up climate justice.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/ben-jerrys-and-onereach-a-sweet-combination/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Smart and Fast Fixes for Your Business, Part 3 — Save Money and Reduce Hold Time With Channel Pivot</title>
+		<link>https://onereach.ai/smart-and-fast-fixes-for-your-business-part-3-save-money-and-reduce-hold-time-with-channel-pivot/</link>
+				<comments>https://onereach.ai/smart-and-fast-fixes-for-your-business-part-3-save-money-and-reduce-hold-time-with-channel-pivot/#respond</comments>
+				<pubDate>Thu, 20 Aug 2015 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Big Ideas]]></category>
+		<category><![CDATA[Channel Pivot]]></category>
+		<category><![CDATA[Texting]]></category>
+		<category><![CDATA[Voice]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/smart-and-fast-fixes-for-your-business-part-3-save-money-and-reduce-hold-time-with-channel-pivot/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p><em>To view the first post in the series, <a href="http://www.onereach.com/blog/?p=1373">click here</a>. To view the second post in the series, <a href="http://www.onereach.com/blog/?p=1471">click here</a>.</em></p>
+<p><span style="font-weight: 400;">What’s the one thing small businesses are most concerned about? If you said money, you’re on the right track: </span><a href="http://www.waspbarcode.com/small-business-report"><span style="font-weight: 400;">over 45% of small businesses</span></a><span style="font-weight: 400;"> cite growing revenue as their top concern.</span></p>
+<p><span id="more-7252"></span>However, money is too simple an answer to accurately represent the struggles of small businesses. There are three primary factors that relate to how much money a company ultimately makes:</p>
+<ul>
+<li><b>Operational efficiency </b><span style="font-weight: 400;">(What is my business doing to save time and effort?)</span></li>
+</ul>
+<ul>
+<li><b>Customer experience </b><span style="font-weight: 400;">(What is my business doing to keep customers coming back?)</span></li>
+</ul>
+<ul>
+<li><b>Cost-cutting </b><span style="font-weight: 400;">(What is my business doing to reduce costs?)</span></li>
+</ul>
+<p><span style="font-weight: 400;">When you relate these money concerns to business communications, small and medium businesses often  really struggle to find ways to convert standard business tools into mechanisms for reducing cost or driving more business. Take phone systems, for example &#8211; most businesses primarily rely on voice/calls and overlook the many ways that today’s communications tools can convert necessary evils like your phone system into tools that get results for you. </span></p>
+<h1><b>Why Relying on Voice/Calls Alone Isn’t Enough</b></h1>
+<p><span style="font-weight: 400;">It doesn’t matter whether you own a retail store or run a small customer support department—you’re probably using voice/calls. A recent Dimension Data report found that</span><a href="http://www.dimensiondata.com/Global/Downloadable%20Documents/2015%20Global%20Contact%20Centre%20Benchmarking%20Summary%20Report.pdf"> <span style="font-weight: 400;">65% of contact center interactions</span></a><span style="font-weight: 400;"> are voice-based. However, voice comes with a lot of hidden costs that relate to the above factors:</span></p>
+<ul>
+<li><b>Operational efficiency. </b><span style="font-weight: 400;">According to</span><a href="http://www.impactlearning.com/customer-service-by-the-numbers-average-call-duration/"> <span style="font-weight: 400;">BenchmarkPortal</span></a><span style="font-weight: 400;">, the average call center call duration is 5.97 minutes. In addition,</span><a href="http://www.researchgate.net/publication/4084604_Call-type_classification_and_unsupervised_training_for_the_call_center_domain"> <span style="font-weight: 400;">a call center study</span></a><span style="font-weight: 400;"> at the University of Colorado-Boulder found that over 30% of calls were either to adjust account settings (ie passwords) or fulfill other administrative tasks.  While this study was strictly focused on technology-based contact centers, </span><b>the point remains &#8211;  small businesses receive a lot of calls about pretty basic questions </b><span style="font-weight: 400;">(ie “What are your store hours?”, etc) that doesn’t require a real person fielding those calls (from a customer experience and operations/cost perspective). Fielding the same common questions over and over can cost businesses time, effort ($$$), which is hard to swallow when we’ve learned that for many of these questions, customers/callers just want an easy way to get the info they need.</span></li>
+</ul>
+<ul>
+<li><b>Customer experience. </b><a href="http://onereach.com/resources/high-demand-for-text-message-2014-report"><span style="font-weight: 400;">64% of customers</span></a><span style="font-weight: 400;"> prefer using text messaging to voice, and it’s easy to see why. Customers are </span><a href="http://www.parature.com/2013-customer-expectations/"><span style="font-weight: 400;">often frustrated</span></a><span style="font-weight: 400;"> by having to contact a company multiple times for the same reason (65%) or waiting on hold for a long time (62%)Some businesses have an IVR in place to manage calls, but only 7% of customers think the IVR delivers a better experience than speaking with a live person, according to a JD Power study.</span></li>
+</ul>
+<ul>
+<li><b>Cost-cutting. </b><span style="font-weight: 400;">Forrester research found that the average live agent call</span><a href="http://www.oracle.com/us/corporate/analystreports/enterprise-application/forrester-tei-atg-359304.pdf"> <span style="font-weight: 400;">costs $6-20 per interaction</span></a><span style="font-weight: 400;">. Most small businesses can’t afford the money to hire a receptionist to answer calls, let alone answer all these calls in person. And businesses that don’t have an IVR or voicemail set up can let important calls can fall through the cracks, potentially losing valuable customers.</span></li>
+</ul>
+<p><span style="font-weight: 400;">It sounds made up to say that there is a telephony/communication solution that saves small businesses money, automates processes, improves customer experience&#8230; and still routes to the right person when a real person is necessary. But it’s not made up. The solution is called Channel Pivot.</span></p>
+<h1><b>How Channel Pivot Can Benefit Your Organization</b></h1>
+<p><span style="font-weight: 400;">So what exactly is Channel Pivot, and what can it do for your business? Simply put, it gives</span><span style="font-weight: 400;"> your callers the choice to automatically pivot out of a call, your IVR, hold or auto-attendant and right into self-service or live support via text message. </span><span style="font-weight: 400;">Channel Pivot maintains the context of the conversation, addressing the frustrating experience of customers having to repeat themselves.</span></p>
+<p><span style="font-weight: 400;">Research conducted by Harris Poll found that</span><a href="http://onereach.com/resources/high-demand-for-text-message-2014-report"> <span style="font-weight: 400;">64% of customers</span></a><span style="font-weight: 400;"> would rather text your business for customer service. In addition, the study found that over 40% would prefer to press star to text with an agent immediately rather than wait on hold.</span></p>
+<p><span style="font-weight: 400;">Channel pivot also addresses the three main factors that contribute to a company’s bottom line in the following ways:</span></p>
+<ul>
+<li><b>Operational efficiency.</b><span style="font-weight: 400;">When callers pivot from voice to SMS, you notably increase the likelihood of self-service successfully getting customers what they need without a real person. In addition, if a customer still needs a live agent, your support team can manage multiple SMS conversations at once , instead of just a single phone conversation.</span></li>
+</ul>
+<ul>
+<li><b>Customer experience. </b><span style="font-weight: 400;">Some customers will prefer to use text, and some will prefer to use voice. Channel Pivot lets them choose the channel they want, and when they want it. For example, there are some situations where it makes sense to switching to text (loud background noise, sensitive information, etc) while others merit speaking with a live agent over the phone (complex problems, too long to type). By letting customers use channels they prefer or need in a certain situation, businesses with Channel Pivot can ensure that customers feel respected and are always having a good experience.</span></li>
+</ul>
+<ul>
+<li><b>Cost savings. </b><span style="font-weight: 400;">One of the great things about text messaging is that it costs significantly less than voice. While a supporting a customer over the phone </span><a href="http://www.oracle.com/us/corporate/analystreports/enterprise-application/forrester-tei-atg-359304.pdf"><span style="font-weight: 400;">costs an average of $13</span></a><span style="font-weight: 400;">, a text chat interaction (where the agents responds from a web interface) is much cheaper with automation and the ability to manage multiple conversations at once. </span></li>
+</ul>
+<p><span style="font-weight: 400;">But this is all theory, right? What does channel pivot look like in action?</span></p>
+<h1><b>Channel Pivot: A Case Study</b></h1>
+<p><span style="font-weight: 400;">One of our clients, a staffing agency, had been using a clunky IVR for several years and finally decided it was time to make a change. Associates and agents were frustrated by an IVR that was detached and difficult to navigate, and if that wasn’t enough, voice costs were going up 20% every year.</span></p>
+<p><span style="font-weight: 400;">After conducting some research, they found that adding a text channel would help reduce call volume. They liked the immediacy and mobility that came from using text messaging as well. Using OneReach, they were able to switch customers from calling  to SMS.</span></p>
+<p><span style="font-weight: 400;">Initially, they hoped to deflect 20% of calls to SMS. Unfortunately, they missed the mark&#8230;as </span><b>over 40% </b><span style="font-weight: 400;">of calls were deflected to SMS using channel pivot.</span></p>
+<p><span style="font-weight: 400;">They were ecstatic. By deflecting nearly half of their calls, the staffing agency was able to get significantly more results with exactly the same resources.. In addition, customers were also much happier using texting, even sending along smiley faces, and agents were able to answer more pressing calls while many customers get what they needed through  SMS self-service.</span></p>
+<h1><b>Conclusion</b></h1>
+<p><span style="font-weight: 400;">Channel pivot can save you money, while improving customer experience and your staff’s experience (multiple chats at once, and dealing with happier customers). All of these improvements can be amplified through thoughtful SMS self-service experiences and are easy, fast and affordable for your business to try.</span></p>
+<p><strong>To learn more about adding text messaging to your business, <a href="http://onereach.com/resources/10-things-about-text">download our whitepaper here</a>.</strong></p>
+<p><a href="http://www.premieremanagementllc.com/wp-content/uploads/2014/03/communication.jpeg">Photo credit</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/smart-and-fast-fixes-for-your-business-part-3-save-money-and-reduce-hold-time-with-channel-pivot/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>OneReach Crafts Unique Campaign With Stella Artois</title>
+		<link>https://onereach.ai/onereach-crafts-unique-campaign-with-stella-artois/</link>
+				<comments>https://onereach.ai/onereach-crafts-unique-campaign-with-stella-artois/#respond</comments>
+				<pubDate>Wed, 17 Jun 2015 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Big Ideas]]></category>
+		<category><![CDATA[IVR]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Use Cases]]></category>
+		<category><![CDATA[Voice]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/onereach-crafts-unique-campaign-with-stella-artois/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>Are you ready to say bonjour to the simple life? Stella Artois thinks so.</p>
+<p><a href="onereach.com">OneReach</a> recently collaborated with <a href="http://www.stellaartois.com/en_us/stella-artois-cidre/hamptons-picnic-properties.html">Stella Artois</a>, ad agency <a href="http://www.mothernewyork.com/">Mother New York</a> and production company <a href="http://www.stopp.se/">Stopp</a> to create a unique user experience for Stella Artois web visitors. To promote their Hamptons Picnic Properties sweepstakes, Stella Artois provided users with an interactive experience where users could chat with brand ambassador Le Président before entering to win the competition.</p>
+<p><span id="more-7242"></span>Users who visit the Stella Artois Cidre website can input their phone number and receive a call from the fictional Le Président. The user and Le Président can then engage in a conversation about hair care, the perfect date, and even selfies.</p>
+<p>Mother New York was responsible for the overall creative idea and campaign, while Stopp was responsible for the creative execution and development. OneReach facilitated the phone call and voice recognition through VoIP.</p>
+<p>Nicole Ferraris, interactive producer at Stopp, had this to say about the OneReach platform:</p>
+<blockquote><p>What caught our attention with OneReach was the turnkey solution for voice recognition and the graphical user interface, allowing us to design an interactive phone call very quickly. By leveraging an existing tool set like OneReach, we could devote more of our time to polishing the user experience instead of constructing the underlying system.</p></blockquote>
+<p>OneReach CEO Rich Weborg was equally impressed with this unique use case, saying:</p>
+<blockquote><p>We were really impressed by how the team at Stopp used IVR capabilities to create an engaging (and funny!) interactive video for their marketing program. Our product has a wide variety of use cases, but this was truly a first for us. Stopp’s creative use of our technology was really impressive. They did a great job of weaving the technology (voice and web) together for a seamless experience. We would love to work with them again on equally exciting programs.</p></blockquote>
+<p>Want to try out the experience for yourself? Give Le Président a call below! And to learn more about creating a personalized experience for customers, <a href="http://onereach.com/resources/omnichannel-seamless-experience">download our ebook here</a>.</p>
+<p><iframe src="http://hamptonspicnicproperties.com" width="750" height="422" frameborder="0" scrolling="yes" allowfullscreen="allowfullscreen"></iframe>Photo Credit: <a href="http://www.mothernewyork.com/news/hamptons-picnic-properties">Mother New York</a>. Edited.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/onereach-crafts-unique-campaign-with-stella-artois/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Smart and Fast Fixes For Your Business, Part 2&#8211;Answer Less Calls and Help More Customers</title>
+		<link>https://onereach.ai/smart-and-fast-fixes-for-your-business-part-2-answer-less-calls-and-help-more-customers/</link>
+				<comments>https://onereach.ai/smart-and-fast-fixes-for-your-business-part-2-answer-less-calls-and-help-more-customers/#respond</comments>
+				<pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Channel Pivot]]></category>
+		<category><![CDATA[Customer Experience]]></category>
+		<category><![CDATA[Customer Service]]></category>
+		<category><![CDATA[Texting]]></category>
+		<category><![CDATA[Voice]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/smart-and-fast-fixes-for-your-business-part-2-answer-less-calls-and-help-more-customers/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p><em>To view the first post in the series, <a href="http://www.onereach.com/blog/?p=1373">click here</a>.</em></p>
+<p>If you’re anything like me, you’re bothered (maybe even offended) by retail businesses answering the phone instead of helping patrons.</p>
+<p>We’ve all seen it happen. A customer is waiting  to check out when the clerk answers the phone (sometimes several times), often only to respond to the caller with store hours or the address. On behalf of the patron who’s standing there waiting and the caller, I’m annoyed by this.</p>
+<p><span id="more-7221"></span>Here’s a thought &#8211; we all text. You text and your customers text. So perhaps it’s time to look at text-enabling your retail business. <a href="http://onereachcontactcenter.com/high-demand-for-customer-service-via-text-message/">According to a study</a> conducted by Harris Poll and commissioned by OneReach, 64% of customers who text would rather text than call your business. If customers could text your business, the activities they would prefer to do the most would be:</p>
+<ul>
+<li>Check order status (38%)</li>
+<li>Schedule or change appointments (32%)</li>
+<li>Make or confirm reservations (31%)</li>
+<li>Ask a question (30%)</li>
+<li>Find a store location (30%)</li>
+<li>Check balances or due dates (30%)</li>
+<li>Refill orders (29%)</li>
+<li>Reset password (27%)</li>
+</ul>
+<p>Think how much easier it would be for your customers to do all these tasks over text. Instead of having to wait on hold or wait in line to get helped, you could solve problems with a text message or two.</p>
+<p>If your business was text-enabled&#8230;</p>
+<ol>
+<li><b>Customers who have predictable questions could get what they need without interrupting your staff</b> (or customers who are standing right there waiting for you to get off the phone!). One company that did a pilot with OneReach found that 65% of people were calling in just to reset their password. That’s a lot of time and money just to answer a simple question that could easily be automated. By letting people text in and reply with automated, actionable answers, retailers can save customers time while devoting effort to the people who are literally right in front of them.</li>
+</ol>
+<ul>
+<li>For example: &#8220;Thanks for texting Acme Co. For directions and hours reply 1…&#8221;</li>
+</ul>
+<ol start="2">
+<li><b>You could offer callers the ability to switch from calling you to continuing via text message. </b>We like to call this “the channel pivot.” One of OneReach’s customers was able to divert 40% of their calls to text by offering a text option, which drove up  satisfaction for customers and some really serious cost-reductions for our customer. In fact, our Harris Poll study found that 44% of customers would prefer to text with an agent rather than wait on hold. Letting customers switch to text is just more convenient for everyone &#8211; you can get on with your life while still getting what you need.</li>
+</ol>
+<ul>
+<li>For example: &#8220;Thanks for calling. Did you know you can text us now? To continue via text message, reply # or stay on the line to continue with this call.&#8221;</li>
+</ul>
+<ol start="3">
+<li><b>You could still help callers without interrupting customers in your store/business</b>. Callers/texters that need more than automated options could still chat live with your staff &#8211; customers could text from their mobile phone and your team could respond via web chat from a desktop, laptop or tablet. It’s far more convenient for both you and your customers, because they can stay on the device and channel they’re using rather than having to transfer to another one.</li>
+<li><b>You’d save money.</b> If you’re offering automated answers to the most commonly asked questions, all via SMS, then you’re cutting down on phone costs. Answering the phone costs money and gets in the way of other sales. If customers still  need live support via SMS (and you’re responding via web chat), you can chat with more than one customer at once, something you can’t do with voice. (You don’t have apologize to whoever’s standing in front of you when you answer the phone instead of helping them). Helping more customers means more money (and more return customers!).</li>
+<li><b>Customers will be more satisfied.</b> It sucks to wait on the phone while someone puts you on hold. Our Harris Poll study found that 64% of customers would be likely to have a positive perception of a company that offers texting, and 41% would be likely to feel the company understands their time is important. If customers could text you, they could get on with their lives instead of waiting around on hold, etc. The only thing that perhaps sucks more than being put on hold is standing at a cash register, wielding cash or plastic for your purchase, only to be ignored while a clerk answers a phone call.</li>
+</ol>
+<p>If you think even some of these possibilities are worth more than $65 bucks a month to you and your customers, then you have no excuse. You could be up and running in about as long as it took you to read this article.</p>
+<p><strong><i>To learn more about adding text to your business phone,</i><a href="http://onereachcontactcenter.com/10-sms-tips-for-companies/"> <i>download “10 Texting Tips” white paper here</i></a>.<i> If you want to learn more, consider </i><a href="http://onereachcontactcenter.com/high-demand-for-customer-service-via-text-message/"><i>downloading our 2014 Harris Report</i></a><i> to see why customers prefer text for customer service.</i></strong></p>
+<p>Image from <a href="http://science.opposingviews.com/comcast-internet-work-new-computer-13370.html">Opposing Views</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/smart-and-fast-fixes-for-your-business-part-2-answer-less-calls-and-help-more-customers/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Smart and Fast Fixes for Your Business, Part 1 &#8212; Make Your Business Phone Smarter</title>
+		<link>https://onereach.ai/smart-and-fast-fixes-for-your-business-part-1-make-your-business-phone-smarter/</link>
+				<comments>https://onereach.ai/smart-and-fast-fixes-for-your-business-part-1-make-your-business-phone-smarter/#respond</comments>
+				<pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Big Ideas]]></category>
+		<category><![CDATA[Voice]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/smart-and-fast-fixes-for-your-business-part-1-make-your-business-phone-smarter/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p dir="ltr">When it comes to balancing customer experience and operational efficiency, it can be really hard to get things right for your customers (and for your pockets). There are a lot of strategies, tools, consultants, methodologies and processes that you could be leveraging in order to operate your well-oiled machine (and of course you’re already doing all of those things, right?).</p>
+<p dir="ltr">But what if there were things right in front of your nose that aren’t complicated, expensive or time-consuming, and could really make things easier and better for you and your customers?</p>
+<p dir="ltr">That’s what we want to address in this series, and first up: making your business phone smarter.</p>
+<h1 dir="ltr"><span id="more-7215"></span><strong>Why you need to upgrade your business phone</strong></h1>
+<p dir="ltr">It’s no surprise that your non-compelling, old business tools are neglected, and sit way across the room from the brilliant, innovative stuff you’re doing to make your business better and better all the time. In fact, your company phone is likely the single most underutilized tool your business has (and pays for).</p>
+<p dir="ltr">First, there’s the question of whether or not you should even have a phone (and I mean, old-school, hardwired, costs-too-much-for-too-little telephone), but let’s save that for another time. Secondly, if you are going to pay for a phone, make it awesome for your business and customers &#8211; get as much as you possibly can out of it.</p>
+<p dir="ltr">And that&#8217;s the thing &#8211; if your phone isn’t doing more than just “being a phone,” it’s pretty darn likely that you’re paying too much and are missing some serious efficiency and customer experience opportunities.</p>
+<h1 dir="ltr"><strong>Making your business phone smarter</strong></h1>
+<p dir="ltr">Think about it—you’re probably paying more than you want to for your company phone. If you’re using a “sophisticated” tool, you might have more than just the ability to make and receive calls, and maybe you’ve got an auto-attendant, call-routing or even time-based call-routing. If you’ve got any of this stuff, you’re thinking smarter than most people, but you’re likely using tools  that are totally under delivering for your business.</p>
+<p dir="ltr">Your phone is a major pillar in your business, and it needs to be able to deliver the best service experience possible. Part of that comes with understanding your customer and their preferences, but the other part comes with the technology you use. It can’t and won’t cost you more to move into the future &#8211; in fact, it will probably be simpler to set up than even the Flintstones stuff you’ve got at your company (yeah, I’m talking about even you folks with fancy time-based routing).</p>
+<p dir="ltr">Here is just a sample of what you could be doing with your phone, for the same (if not better) prices:</p>
+<h2 dir="ltr"><strong>Configure your own custom IVR for yourself in minutes without writing a line of code</strong></h2>
+<p dir="ltr">Customers want an IVR that’s easy to navigate, but that’s not always what they get. What they usually get are long hold times, the chance to repeat themselves over and over and ridiculously long menus to deal with—all of which lead to a bad customer experience. By using systems like OneReach (<a href="http://www.onereach.com/blog/?p=955">and keeping best practices in mind</a>), businesses can build custom IVR flows without the need for a developer. And that’s not all: businesses can also draw on customer data to greet customers by name when they call, or ask if they’d like to speak to customer service &#8212; since that’s what they’ve called in for in the past</p>
+<h2 dir="ltr"><strong>Let your customers text your business number</strong></h2>
+<p dir="ltr">Phone numbers aren’t just for calling—they’re for texting, too. <a href="http://www.pewinternet.org/2013/09/19/cell-phone-activities-2013/">Over 80% of Americans text</a>, and a Harris Poll study commissioned by OneReach found that <a href="http://onereachcontactcenter.com/high-demand-for-customer-service-via-text-message/">64% of people who text</a> would prefer texting to calling for customer service. Text-enabling your business phone number also lets customers reach out to you on the channel they want, but also <a href="http://www.onereach.com/blog/?p=499">pivot from one channel to another</a> based on what best suits the situation. This is a much cheaper alternative than provisioning a short code number, which can cost thousands of dollars (and may not even be fully owned by you).</p>
+<p dir="ltr">Whether you’re wanting to leverage SMS for marketing, sales or customer support, there are a few basics you should know about using SMS as business communication channel. For example, you need to have a reply strategy &#8211; what should happen when customers reply to the texts your business sends? Should you have automation in place, or route to an agent who’s responding via web-chat? <a href="http://onereachcontactcenter.com/10-sms-tips-for-companies/">There are 10 things every company should know</a> about texting with their customers.</p>
+<p dir="ltr">Businesses can take things even further by quickly creating an  <a href="http://www.onereach.com/blog/?p=724">ITR (interactive text response)</a> system, where customers can text in and engage with an automated flow. This not only saves them time, but it also saves your business money (and it’s not hard or time-consuming to get in place!)</p>
+<h2 dir="ltr"><strong>Answer texts from customers on dashboard on your laptop/tablet/phone</strong></h2>
+<p dir="ltr">Letting customers text your business is a great step forward, but it’s not really feasible to answer all those incoming texts on your personal mobile phone. Do you really want customers texting you or your employees on their personal devices outside of business hours, while you’re on vacation or after a member of your team is no longer at your company? With OneReach’s Action Desk, as well as our integration with Desk.com, businesses of any size can manage inbound and outbound texts. This is a great solution for teams: agents receive a notification when there’s an incoming message, which anyone can pick up. Even better, businesses and agents manage these communications on any device with web access. You and your team will like it better than texting from your phones, and you’ll be able to serve your customers better.</p>
+<h2 dir="ltr"><strong>Use that same dashboard to make and receive calls</strong></h2>
+<p dir="ltr">Over 40% of customer experience professionals say their agents must use<a href="http://www.aspect.com/globalassets/aspect_com/sharepoint-resource-catalog/spanish/aspect-ngcc-forrester-wp.pdf"> multiple applications</a> to manage inquiries across channels. Your email, internet other business tools and customer data are likely on a laptop or desktop &#8211; so why is the phone separate?! Your business is smarter, right? By managing voice, text and other channels within one platform, businesses can respond to customer questions more effectively and efficiently, as well as track customer interactions across channels to deliver more targeted, personalized service. Managing calls and texts within the same tool allows agents to maintain context with customers who channel pivot, providing a better, faster customer experience.</p>
+<h1 dir="ltr"><strong>So&#8230;</strong></h1>
+<p dir="ltr">You might think it’s too hard or too expensive to revamp your business phone, but the truth is that not doing it is probably costing you more (in losses to customer experience and operational efficiency).</p>
+<p dir="ltr">Simply put, taking the little time and dollars it takes you to get your company’s communication channels to the next level will be one of the easiest, most impactful things you’ve ever done for your business.</p>
+<p dir="ltr"><em><strong>To learn more about adding text to your business phone, <a href="http://onereachcontactcenter.com/10-sms-tips-for-companies/">download our &#8220;10 Texting Tips&#8221; whitepaper here.</a></strong></em></p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/smart-and-fast-fixes-for-your-business-part-1-make-your-business-phone-smarter/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

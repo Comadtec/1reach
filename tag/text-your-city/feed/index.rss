@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>text your city &#8211; OneReach.ai</title>
+	<atom:link href="https://onereach.ai/tag/text-your-city/feed/" rel="self" type="application/rss+xml" />
+	<link>https://onereach.ai</link>
+	<description>Intelligently Automate Your Company</description>
+	<lastBuildDate>Fri, 26 Jul 2019 11:39:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://onereach.ai/wp-content/uploads/2018/04/cropped-OR-ICON-GOLD-W-DOTS-Larger-Background-02-32x32.png</url>
+	<title>text your city &#8211; OneReach.ai</title>
+	<link>https://onereach.ai</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Can You Text Your City?</title>
+		<link>https://onereach.ai/can-you-text-your-city/</link>
+				<comments>https://onereach.ai/can-you-text-your-city/#respond</comments>
+				<pubDate>Wed, 22 Oct 2014 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Big Ideas]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[Texting]]></category>
+		<category><![CDATA[Use Cases]]></category>
+		<category><![CDATA[text your city]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/can-you-text-your-city/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>Can you text your city? You could if you lived in <a href="http://www.cityofevanston.org/">Evanston, Ill.</a></p>
+<p>Just north of Chicago, Evanston is one of the most tech-savvy cities in the country. Ever since they launched long code texting a couple of months ago, they’ve been able to reach out to community members as well as allow the community to reach out to their city.</p>
+<p>Luke Stowe, digital services coordinator at the <a href="http://www.cityofevanston.org/">City of Evanston</a>, spoke with <a href="http://www.onereach.com">OneReach</a> to talk about how texting is transforming their community outreach efforts.</p>
+<h2><span id="more-7156"></span><b>First Time Isn’t Always a Charm</b></h2>
+<p>Evanston is a city ahead of the curve. They introduced shortcode texting as early as 2012, asking citizens to text the word “Evanston” to 311311 with questions or concerns.</p>
+<p>Unfortunately, things didn’t go exactly as projected.</p>
+<p>“It was a little bit clunky for people to use,” admits Stowe. “It didn’t get the adoption we were anticipating.”</p>
+<p>Stowe cites a difficult-to-remember short code and having to send a keyword as factors that deterred constituents. He also said people weren’t sure how to text a short code, and that it looked unusual compared to a regular 10-digit phone number.</p>
+<p>“It never quite took off,” says Stowe. “We asked ourselves, ‘Are there other ways?’”</p>
+<p>Luckily for Evanston, there were.</p>
+<h2><b> Truly Out and About</b></h2>
+<p>After working with OneReach on a long code text messaging program, Evanston quietly launched their new system in late summer. Residents can text the city’s 10-digit 311 phone number (847-448-4311) no matter whether they are.</p>
+<p>Stowe says they’ve already had dozens of text messages come in to 311, and he thinks he knows why: people want to report events as they’re happening.</p>
+<p>“Being able to SMS directly to 311 is even more real-time than web chat,” says Stowe. “Web chat could be about an issue that has already occurred, but with texting you’re truly out and about in the city.”</p>
+<p>Evanston believes text messaging is helping the city better respond to events in real-time.</p>
+<p>“The other day, someone sent a text message saying there were a couple of cars parked illegally,” says Stowe. “They were texting in the moment, at that particular place, and 311 was able to immediately assist them.”</p>
+<h2><b>How You Can Text Your City</b></h2>
+<p>So far, Evanston has been using SMS for both inbound and outbound messaging. Citizens can opt-in to receive emergency notifications, or they can text in to report issues or ask about different events in the city.</p>
+<p>But that’s not all Evanston is capable of doing with texting. They also use texting for:</p>
+<ul>
+<li><strong>Outbound messages</strong> – Traffic updates, snow alerts, beach status updates</li>
+<li><strong>Inbound messages</strong> – Report broken traffic lights, inquire about park activities</li>
+<li><strong>Surveying their residents</strong> to help improve services</li>
+<li><strong>Automated updates</strong> on events like such as art fairs, festivals, concerts, etc.</li>
+</ul>
+<h2><b>Back to the Future</b></h2>
+<p>Texting may be about 20 years old, but Stowe thinks its staying power will contribute to its success.</p>
+<p>“This technology has been around for a while,” says Stowe. “I think it’s safe to say that SMS texting isn’t going anywhere anytime soon.”</p>
+<p>Still, the city has a few ideas about updating text for a modern audience.  “We’ve been working with our restaurant inspection software vendor on setting up a OneReach number provided by Twilio,” says Stowe. “We want to create something where residents could text a restaurant name to the 311 phone number and it would send the latest inspection score.”</p>
+<p>The city also recently went live with restaurant inspection in the popular app and website Yelp.</p>
+<p>“It’s ‘Web 3.0’, where you get the right content at the right time on the right device, like when you’re walking into a restaurant and want to see inspection scores,” says Stowe.</p>
+<h2><b> On Being One of a Kind</b></h2>
+<p>Evanston is part the growing trend of cities offering a 311 service, joining the ranks of bigger cities such as New York and Minneapolis. However, Evanston is one of only a handful of cities in the U.S. that has live 311 operators responding to a customer’s text message.</p>
+<p>“As far as true, live texting with 311 services, I have only initially found New York City as the other comparable agency offering a similar service,” said Stowe.  Despite the rather open texting frontier (for now), Stowe thinks more cities will adopt texting going forward.</p>
+<p>“I think in government, we have a responsibility to go where our residents are.  If they prefer to text, call, web chat, use social media or email — we will respond.”</p>
+<p><i>Interested in text-enabling your own city? Visit </i><a href="http://onereach.com/"><i>onereach.com</i></a><i> to learn more.</i></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/can-you-text-your-city/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

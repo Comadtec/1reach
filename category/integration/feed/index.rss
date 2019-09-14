@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Integration &#8211; OneReach.ai</title>
+	<atom:link href="https://onereach.ai/category/integration/feed/" rel="self" type="application/rss+xml" />
+	<link>https://onereach.ai</link>
+	<description>Intelligently Automate Your Company</description>
+	<lastBuildDate>Fri, 26 Jul 2019 11:39:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://onereach.ai/wp-content/uploads/2018/04/cropped-OR-ICON-GOLD-W-DOTS-Larger-Background-02-32x32.png</url>
+	<title>Integration &#8211; OneReach.ai</title>
+	<link>https://onereach.ai</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What Can You Do to Kickstart Your Self-Service?</title>
+		<link>https://onereach.ai/what-can-you-do-to-kickstart-your-self-service/</link>
+				<comments>https://onereach.ai/what-can-you-do-to-kickstart-your-self-service/#respond</comments>
+				<pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Automation]]></category>
+		<category><![CDATA[Integration]]></category>
+		<category><![CDATA[Self-Service]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/what-can-you-do-to-kickstart-your-self-service/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>Today’s customer service is becoming increasingly digital—<a href="http://www.dimensiondata.com/Global/Global-Microsites/CCBenchmarking">35% of interactions</a> now take place on digital channels. In response, more and more businesses are providing support across a variety of digital channels, including but not limited to SMS, social media, and web chat. And while the use of these channels is growing rapidly, the use of digital self-service channels isn’t far behind.</p>
+<p>Case in point: In 2011, Gartner predicted over <a href="http://mktimages.gartner.com/pv_obj_cache/pv_obj_id_92DB197B681D1A1003F701CB30B626FF3B111B00/filename/brochure_crm_2011.pdf">85% of the customer experience</a> would be managed without a human by 2020. The industry is certainly trending in this direction—Forrester found that <a href="https://www.forrester.com/North+American+Consumer+Technographics+Customer+LifeCycle+Survey+1+2014/-/E-SUS2568">self-service usage increased </a>from 67% in 2012 to 76% in 2014. If we follow Forrester’s trajectory, by the end of 2016 self-service usage could reach 84% penetration, meaning Gartner’s prediction might come even sooner than realized. But let’s take a look at where self-service is now.</p>
+<h1><span id="more-7238"></span><b>Where self-service is now</b></h1>
+<p>Self-service use may be on the uptick, but most companies have not actively expanded self-service beyond the Web. Research from technology evaluation hub <a href="http://www.softwareadvice.com/crm/help-desk-comparison/" target="_blank" rel="noopener noreferrer">Software Advice</a> found that most industries <a href="http://www.softwareadvice.com/crm/industryview/self-service-channels-report-2014/" target="_blank" rel="noopener noreferrer">provide self-service predominantly online</a>. While<a href="http://www.intelliresponse.com/wp-content/uploads/2015/02/IR-State-of-Online-SS-WP-PROOF.pdf"> Web self-service</a> may have reached 100% penetration among businesses thanks to online knowledge bases and forums, businesses are lagging on other digital channels:</p>
+<ul>
+<li>39% offer email self-service</li>
+<li>30% offer Twitter self-service</li>
+<li>29% offer mobile self-service</li>
+<li>29% offer Facebook self-service</li>
+<li>25% offer chat self-service</li>
+<li>19% offer SMS self-service</li>
+<li>15% offer instant message self-service</li>
+</ul>
+<p>It’s important to consider that all of the channels listed above would require significant development to provide quality self-service. Web self-service is mostly made up of knowledge bases and forums, meaning businesses only have to add a new webpage, but <a href="http://www.slideshare.net/stevenvanbelleghem/the-self-serving-economy">include customer data</a> to make the experience better and more relevant. It’s also important to remember that self-service isn’t a channel itself&#8211;it’s an extension of an <i>existing</i> channel. However, only <a href="http://www.intelliresponse.com/the-state-of-online-self-service/">56% of companies</a> have added self-service, and that’s not even on every channel.</p>
+<p>Regardless of where companies are with self-service, over <a href="http://cdn.zendesk.com/resources/whitepapers/Omnichannel-Customer-Service-Gap.pdf">50% of customers</a> think it’s important to solve issues themselves, and despite companies’ modest self-service offerings, As mentioned, Forrester found<a href="https://www.forrester.com/North+American+Consumer+Technographics+Customer+LifeCycle+Survey+1+2014/-/E-SUS2568"> self-service use</a> increased to 76% in 2014. Companies that add self-service stand to benefit in the following ways:</p>
+<ul>
+<li>Over 60% of businesses found self-service improved or considerably improved the call abandonment rate (<a href="http://www.softwareadvice.com/crm/industryview/self-service-channels-report-2014/?layout=var_ch1">Software Advice</a>)</li>
+<li>Over 75% of businesses found self-service improved or considerably improved the speed to answer (<a href="http://www.softwareadvice.com/crm/industryview/self-service-channels-report-2014/?layout=var_ch1">Software Advice</a>)</li>
+<li>45% of companies offering web or mobile self-service have reported an increase in site traffic and a decrease in phone calls. (<a href="http://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=90678">Destination CRM</a>)</li>
+<li>By adding self-service, a typical utility could see $1-3 million in annual savings. (<a href="http://www.cpwerx.de/SiteCollectionDocuments/PDF/Accenture_Utilities_MultiChannelSelfService.pdf">Accenture</a>)</li>
+</ul>
+<p>So how can businesses go about adding self-service and receive better even better ROI than the stats above? In two ways: they can implement integration and automation.</p>
+<h1><strong>Automation</strong></h1>
+<p>Today’s customers hate to wait for coffee, let alone customer service. A study conducted by Harris Interactive and commissioned by OneReach found that<a href="http://onereach.com/resources/high-demand-for-text-message-2014-report"> 81% of customers</a> are frustrated waiting on hold over the phone or on the computer. Similarly, Accenture research found that<a href="http://www.accenture.com/sitecollectiondocuments/pdf/accenture-global-consumer-pulse-research-study-2013-key-findings.pdf"> 88% of customers</a> consider speed one of the most important parts of their customer experience.</p>
+<p>Luckily, customers don’t need to wait on hold or weave through an IVR to get answers. Oftentimes, they’ll have questions that can be resolved without the help of an agent, like asking for store hours or resetting a password. By adding automation, companies can get customers the answers they need in a timely manner while letting agents handle more pressing cases. What we’ve found is that many call centers have a high percentage of calls that can be handled through automation. For example, some of our customers have found one use case equates to 40% or higher call volume&#8211;either to “reset password” or ask “where&#8217;s my order.” Both cases could be automated and have huge cost saving and time saving benefits—<a href="http://www.oracle.com/us/corporate/analystreports/enterprise-application/forrester-tei-atg-359304.pdf">Forrester research</a> found that a live agent call can cost between $6-12, while an automated interaction can cost as little as 25 cents.</p>
+<p>But automation doesn’t just have to be used for simple, inbound interactions—it can also be used for more complicated interactions.</p>
+<p><a href="http://onereach.ai/wp-content/uploads/2019/07/automation-07annotated.png"><img class="aligncenter wp-image-1622" src="http://onereach.ai/wp-content/uploads/2019/07/automation-07annotated.png" alt="automation-07annotated" width="600" height="269" /></a></p>
+<p>&nbsp;</p>
+<p>For example, let’s say Bob is due for his annual physical. An automated communication flow could 1) send out a text notification to anyone who hasn’t been in for 11 months, 2) recognize the last doctor they talked to and the time the last appointment was scheduled to try, and 3) make the interaction as quick and seamless as possible. This lets Bob get an appointment set up quickly without needing to interact with staff. Of course, patients prefer different channels, so the same could happen via automated call or email.</p>
+<p>How to add automation: You could hire a developer to add self-service to your existing channels, but a more cost-effective solution is to find software that lets you build automated logic on the channels customers use. A good solution would provide the following capabilities:</p>
+<ul>
+<li>reporting/analytics for individual and cross-channel experiences</li>
+<li>seamless integration with other channels</li>
+<li>the ability to create omnichannel experiences which allows multichannel use at the same time</li>
+</ul>
+<h1><strong>Integration</strong></h1>
+<p>Sometimes, customers will want to switch with a live agent, and that’s completely fine. What they don’t want to do is start their conversation over—Accenture found that<a href="http://www.accenture.com/SiteCollectionDocuments/PDF/Accenture-Global-Consumer-Pulse-Research-Study-2013-Key-Findings.pdf"> 91% of customers</a> are frustrated by having to contact a company multiple times for the same reason. Similarly, 89% are frustrated by having to repeat their issue to multiple representatives. Equally bad:<a href="http://www.dimensiondata.com/Global/Global-Microsites/CCBenchmarking"> over 53% of contact centers</a> don’t pass information when a customer drops out of self-service.</p>
+<p>Integration usually means “lots of time and money,” scaring off businesses that could potentially benefit from it. By using a platform like OneReach, businesses can let customers switch between channels and still maintain context, quickly and without high costs of development. If a customer switches from text message to voice, an integrated (or omnichannel solution) would track where the conversation left off so that the agent knows where to start. This creates a more seamless experience for the customer and a more informed experience for the agent, which ultimately creates a better overall customer experience.</p>
+<p>As mentioned above, most businesses are primarily providing Web service. However, the use cases are endless&#8211;You could send customers to a web or text channel to avoid hold times by using <a href="http://www.onereach.com/blog/?p=499">channel pivot</a>, which lets customers seamlessly switch channels without losing context. Similarly, you could <a href="http://www.onereach.com/blog/?p=1351">promote adoption of mobile apps</a> with messages in the IVR or over SMS.</p>
+<p>But integration isn’t just limited to channels—it also means integrating channels with existing data sources. Let’s take another look at the example above.</p>
+<p><a href="http://onereach.ai/wp-content/uploads/2019/07/automation08-annotated.png"><img class="aligncenter wp-image-1623" src="http://onereach.ai/wp-content/uploads/2019/07/automation08-annotated.png" alt="automation08 annotated" width="600" height="269" /></a></p>
+<p>The automated text message 1) greeted Bob by name, 2) asked if he wanted to schedule an appointment, 3) presented him with a time his doctor was available based around the doctor&#8217;s schedule, 4) then set up a follow-up message. The automated text messages couldn’t deliver that information without 5) being integrated with a CRM (for Bob’s name and attending physician) and 6) a scheduling system (for Bob’s doctor’s appointment times). This integration goes both ways, however—the information from the texts has to be passed back to the CRM and scheduling system so that Bob’s appointment is on record.</p>
+<p>How to add integration: Currently,<a href="http://www.dimensiondata.com/Global/Global-Microsites/CCBenchmarking"> 60.6% of contact center technology systems</a> aren’t integrated, and over 48% of contact centers said one of the greatest challenges in implementing successful self-service was integrating different systems. Find solutions like OneReach that let you integrate with many systems. That way, you have an out of the box solution that is ready to roll out, but can also be customized to your needs.We’ve found that some integrations that aren’t available out of the box can be done in minutes or just a few weeks to get what is needed, based on the scale of the project and the overall goal.</p>
+<h1><strong>Conclusion</strong></h1>
+<p>Customer use of self-service is increasing, and the fact that businesses are adding self-service is a promising sign. Still, there’s some work to be done to provide the experience your customers are expecting while  reaching Gartner’s magic number of 85%. By adding powerful automation and integration to their self-service initiatives to provide quick and relevant answers to customers (or to the consumers), businesses will be able to bring the customer experience of the future into the present.</p>
+<p><strong> <em>To learn more about automating and integrating your self-service, <a href="http://onereach.com/resources/omnichannel-seamless-experience">download our new ebook here</a>.</em></strong></p>
+<p>Photo credit: <a class="author" href="https://stocksnap.io/author/471"><span class="author-name">Jan Vašek</span></a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/what-can-you-do-to-kickstart-your-self-service/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>What Is An API And What Can It Do For My Business?</title>
+		<link>https://onereach.ai/what-is-an-api-and-what-can-it-do-for-my-business/</link>
+				<comments>https://onereach.ai/what-is-an-api-and-what-can-it-do-for-my-business/#respond</comments>
+				<pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Integration]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/what-is-an-api-and-what-can-it-do-for-my-business/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p dir="ltr">I was recently at an industry event in London and found myself speaking with a highly qualified and experienced developer. This is the kind of guy who has been building voice applications for decades. And he was pissed.</p>
+<p dir="ltr">He was pissed that the years of experience he had building voice apps didn’t mean anything anymore, that younger programmers were just as good at building apps as he was. That’s because today you don’t need to build as much thanks to APIs (application programming interfaces) that work with seemingly everything. All of the skills that used to be his competitive advantage have been productized by companies who have created easy-to-use APIs and charge fractions of a cent for usage.</p>
+<p dir="ltr"><span id="more-7162"></span>Organizations should take this lesson to heart- it’s no longer about what you can build, but what can be built by everyone else. We have entered a “composable” economy- one in which competitive advantage is established simply through customer service and composing available technologies in new and creative ways, rather than building them from scratch</p>
+<h2 dir="ltr">What is an API?</h2>
+<p dir="ltr">APIs (application programming interfaces) can be a tough concept to wrap your head around, but essentially they’re programming instructions and standards that allow web applications to work together.</p>
+<p dir="ltr">Take Yelp as another example. When you type in a restaurant on Yelp, it shows you the location of the restaurant on top of Google Maps.</p>
+<p style="text-align: center;"><img src="http://onereach.ai/wp-content/uploads/2019/07/yelpmap.jpg" alt="" width="447" height="246" /></p>
+<p dir="ltr">Instead of creating their own mapping system, Yelp works off of Google Maps’ existing API, telling it to display a map with the restaurant location and rating. APIs allow Yelp to add Google Maps to their own site, without making customers leave the site altogether. Yelp developers can also edit the code provided by Google to create something new tailored to their needs, in this case, displaying restaurants and their reviews.</p>
+<h2 dir="ltr">What API Can Do For Your Business</h2>
+<p dir="ltr">If it sounds complicated, don’t worry. What you need to know is that by using existing APIs, you can:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr"><strong>Improve time to market.</strong> By using web applications that leverage APIs, entire solutions can be created in a fraction of the time it would take to build them from scratch. This approach also demotes the need to understand best-practices for certain capabilities, since the company providing the API understands them for you.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><strong>Reduce risk.</strong> Your company may only be able to hire one developer, but big companies like YouTube and Twilio have a lot more developers on hand. As a result, their APIs are tried and tested, meaning that when you add their API to your application, you can rely on the strength of the larger company.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><strong>Control costs.</strong> It’s cheaper to work off of an existing API than to develop the functionality you need from scratch. You’ll also save costs related to development and deployment.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><strong>Be flexible.</strong> There are many open APIs, meaning they’re available to anyone interested in integrating a service like Twitter into their app or website. Developers can add APIs to their site that tell two different web apps how to interact, then customize it.</p>
+</li>
+</ul>
+<p dir="ltr">What is your strategy for this API economy? Are you getting the most out of the APIs that are available to you? Consider using the resources that are already out there to build something new, amazing, and unique to your company. That’s what OneReach and Twilio have done, allowing us to manage toll-free Twilio numbers with our OneReach app.</p>
+<p dir="ltr">If the technology you are using doesn’t speak API, it might be time to move on.</p>
+<p dir="ltr"><em>To learn more about API integration for your business, visit <a href="http://onereach.com">onereach.com</a>.</em></p>
+<p dir="ltr">Photo by Flickr user <a href="https://www.flickr.com/photos/icco/2246383366/in/photostream/">Nat Welch</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/what-is-an-api-and-what-can-it-do-for-my-business/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Back to Basics &#8211; How Text And Live Chat Integrate</title>
+		<link>https://onereach.ai/back-to-basics-how-text-and-live-chat-integrate/</link>
+				<comments>https://onereach.ai/back-to-basics-how-text-and-live-chat-integrate/#respond</comments>
+				<pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Integration]]></category>
+		<category><![CDATA[Live Chat]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/back-to-basics-how-text-and-live-chat-integrate/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p dir="ltr">Customer service is more important today than at any point in recent history. Multiple studies, such as one by<a href="http://about.americanexpress.com/news/docs/2012x/axp_2012gcsb_us.pdf"> American Express</a> in 2012, indicate that consumers are increasingly valuing companies that provide exceptional customer service. Companies have been progressively integrating technology (such as smartphone and computers) into their customer service strategy, often with varying levels of success.</p>
+<p dir="ltr"><span id="more-7123"></span>Recently, a bank reached out to us about an <a href="http://www.onereach.com/blog/?p=153">article we wrote</a> discussing the use of text-messaging features in customer service. The bank had been using a system for quite some time that incorporated a “text us” feature into their online banking and smartphone banking application, which they believed made it easier and more convenient for their customers to contact them with questions, concerns, or service requests.</p>
+<p dir="ltr">However, it turned out the bank was manually processing all the customer texts that came in. Every time the bank received a text, an employee was responsible for opening, reading, and responding to the messages. While the bank should be commended for even including a “text us” feature, the way they ended up approaching it was in inefficient and time-consuming for employees and customers. Fortunately, there are alternatives available that work far more effectively than that bank’s approach, like text chat.</p>
+<p dir="ltr">Text chat is just what it sounds like: customers text message a company and can live chat with an agent. With platforms like <a href="http://onereachcontactcenter.com">OneReach’s</a>, consumers can transfer from an automated conversation to a live agent conversation with the push of a button. Agents are notified when there is a customer who needs help and are able to send responses real time using their current chat solutions. The customer then receives the agent’s message as a text on their phone and continues the conversation.</p>
+<p dir="ltr">Integrating text chat into your existing customer service system increases the number the options that are available to your customers. For example, when a consumer reaches out to your contact center, they would be able to speak with a live representative, use a web chat system, or text a customer service agent who can respond using their computer’s chat software.</p>
+<p dir="ltr">Combining text and live chat can also deliver potential financial savings. The average phone call with a live agent costs anywhere between $6-20 depending on the type of call; web chat pushes that cost down to $2-5 per session. And automated texts end up being 10x cheaper than web chat: they only cost 25 cents per session. If you crunch the numbers, a contact center that manages one-third of their calls with automated texts and web chat can will see an immediate 25% savings.</p>
+<p dir="ltr">On its own, text-based customer service decreases wait times and significantly reduces the cost of providing high-quality customer service. <a href="http://livehelp.stardevelop.com/benefits.htm">Live text chat allows customer service representatives to help more customers simultaneously</a>, decreasing the cost per call down to $2-5 per session. Live chat also dramatically increases conversion rates: <a href="http://www.ladesk.com/blog/article/title/5-reasons-why-live-chat-is-important-for-your-business-website/">up to 44% of online consumers</a> say that being able to use live chat during an online purchase increased the likelihood that they would actually complete the transaction.</p>
+<p dir="ltr">The integration of live chat and text combines the adaptability of an agent with the speed of text, providing the customer with an optimized experience and the business with a 25% cost savings.  So, what’s stopping you?</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/back-to-basics-how-text-and-live-chat-integrate/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Healthcare &#8211; OneReach.ai</title>
+	<atom:link href="https://onereach.ai/category/healthcare/feed/" rel="self" type="application/rss+xml" />
+	<link>https://onereach.ai</link>
+	<description>Intelligently Automate Your Company</description>
+	<lastBuildDate>Fri, 26 Jul 2019 11:39:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://onereach.ai/wp-content/uploads/2018/04/cropped-OR-ICON-GOLD-W-DOTS-Larger-Background-02-32x32.png</url>
+	<title>Healthcare &#8211; OneReach.ai</title>
+	<link>https://onereach.ai</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Why Texting Is Great for Medical Appointment Reminders and Medication Adherence</title>
+		<link>https://onereach.ai/why-texting-is-great-for-medical-appointment-reminders-and-medication-adherence/</link>
+				<comments>https://onereach.ai/why-texting-is-great-for-medical-appointment-reminders-and-medication-adherence/#respond</comments>
+				<pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Automation]]></category>
+		<category><![CDATA[Healthcare]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/why-texting-is-great-for-medical-appointment-reminders-and-medication-adherence/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>I recently got an appointment reminder from my eye doctor asking me to confirm my appointment over text messaging (see below).</p>
+<p><span id="more-7417"></span></p>
+<p><img class="aligncenter wp-image-2593 size-medium" src="http://onereach.ai/wp-content/uploads/2019/07/texting-medical-appointment-reminders-250x300.png" alt="texting medical appointment reminders" width="250" height="300" /></p>
+<p>It was quick and easy to confirm my appointment—all I had to do was type “C” and that was that. (It was also a great way for me to remember that I had an appointment!)</p>
+<p>But texting medical appointment reminders didn’t just help me—it’s helped a lot of other patients. In fact, science shows that texting medical appointment reminders is a great way to reduce the no-show rate.</p>
+<h2><strong>Texting for medical appointment reminders</strong></h2>
+<p>As we’ve discussed before, text messages have a 98% open rate and a 45% response rate. This makes them an ideal channel for patient communication, since you want to make sure patients are attending the appointments they need to and communicating their availability back to you. In fact, research has shown that <a href="http://www.sciencedirect.com/science/article/pii/S165836121300084X">no-show rates</a> can range from 5.4% to 50.2% in hospital outpatient clinics.</p>
+<p>Several studies have demonstrated the power of texting for medical appointment reminders:</p>
+<ul>
+<li>A study published in the Journal of Taibah University Medical Sciences found that <a href="http://www.sciencedirect.com/science/article/pii/S165836121300084X">nonattendance rates</a> at general medicine and neurology clinics were “significantly lower” compared to the control groups that didn’t receive appointment reminders.</li>
+<li>A study published in the International Journal of Medical Informatics found that <a href="http://www.sciencedirect.com/science/article/pii/S1386505609001336">nonattendance reduction rates</a> for outpatient clinics were as high as 14% for groups that received an appointment reminder.</li>
+<li>A literature review in the Journal of Telemedicine and Telecare found that <a href="http://jtt.sagepub.com/content/17/7/358.full">did not attend (DNA) rates</a> improved 39% when messages were sent manually, and 29% when messages were sent using automation.</li>
+</ul>
+<p>Texting is a great way to reduce no-show rates, given its familiarity, ease of use and high open rate. But in addition to being used for medical appointment reminders, texting can also be used for medication adherence.</p>
+<h2><strong>Texting for medication adherence</strong></h2>
+<p>Taking medicine on a consistent basis is an important part of most healthcare regimens. However, research has shown that <a href="http://archinte.jamanetwork.com/article.aspx?articleid=2484905">medication adherence is often poor</a> for people with chronic diseases, <a href="http://www.medscape.com/viewarticle/838328">affecting 50 to 60% of patients</a>. This <a href="http://archinte.jamanetwork.com/article.aspx?articleid=2484905">poor medication adherence</a> costs patients about $2,000 a year for extra visits to the doctor, and causes a $100 billion increase in healthcare costs in North America every year.</p>
+<p>Texting’s high open rate and response rate, as well as <a href="http://onereach.com/resources/mobile-strategy-infographic">its low cost compared to mobile apps</a>, makes it a great medication adherence tool. One study found that 93% of participants in <a href="http://www.medscape.com/viewarticle/838328_4">medical adherence studies</a> read messages reminding them to take their medicine. In addition, studies have actually documented the power of SMS and how it improves medication adherence. Check out a few summaries below:</p>
+<ul>
+<li>A study published in the Journal of the American Medical Association, Internal Medicine found that <a href="http://archinte.jamanetwork.com/article.aspx?articleid=2484905">texting doubles the odds of medication adherence</a> in patients with chronic diseases. The study was conducted in 16 clinical trials—five of the 16 trials used personalization, eight of the trials used two-way communication, and eight of them sent daily text messages.</li>
+<li>Another study published in the Journal of the American Medical Association, Internal Medicine tested <a href="http://archinte.jamanetwork.com/article.aspx?articleid=2495276">how text messaging impacted smoking cessation</a> between participants around 21 to 30 years old. The participants in the intervention group received 157 texts over 12 weeks, while the control group only received one text every two weeks. Over 25% of intervention group participants had abstained from smoking eight weeks later, while only 14.6% in the control group did.</li>
+<li>A study published in the Journal of the American Medical Informatics Association found that text reminders, electronic reminder devices and pager notifications for patients with various medical conditions helped improve their medication adherence. <a href="http://www.medscape.com/viewarticle/762754">Reminders sent over text message</a> were “especially effective,” according to the researchers.</li>
+<li>In a medical literature review, researchers found that in one study, patients who received medication reminders and educational messages strongly agreed that <a href="http://www.medscape.com/viewarticle/838328_3">text message reminders helped them take their medication</a>.</li>
+<li>One study published in the British Journal of Health Psychology tested the effectiveness of personalized asthma preventer <a href="https://www.researchgate.net/profile/John_Weinman/publication/51820766_A_text_message_programme_designed_to_modify_patients_illness_and_treatment_beliefs_improves_self-reported_adherence_to_asthma_preventer/links/54e5c9d80cf2bff5a4f1c53e.pdf">medication reminders</a> over a sixth month period. They found that average self-reported adherence over all time points for the intervention group was 57.8%, compared to 43.2% for the control group.</li>
+</ul>
+<p>Using text messaging for medication adherence can help <a href="http://www.fiercemobilehealthcare.com/story/smartphone-interventions-help-copd-patients-avoid-hospital-readmissions/2015-10-12">keep patients out of the hospital</a> after their treatment, as well as help patients <a href="http://www.fiercemobilehealthcare.com/story/health-system-uses-mhealth-sustain-dialogue-patients-reduce-readmissions/2015-11-25">maintain an active healthcare regimen</a> after being in the hospital.</p>
+<h2><strong>Conclusion</strong></h2>
+<p>In today’s busy world, it can be hard for patients to remember to go to an appointment or take their medicine on time. Practices that leverage the power of text messaging to communicate with their patients will be able to provide a great patient experience and meet their business goals.</p>
+<p><strong>To learn more about adding texting to your business, <a href="http://onereach.com/resources/10-things-about-text">download our whitepaper here</a>.</strong></p>
+<p>Image of<a href="https://stocksnap.io/photo/RAW1RLRTM7"> stethoscope</a> courtesy of StockSnap. CC0 License.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/why-texting-is-great-for-medical-appointment-reminders-and-medication-adherence/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Patients Want to Communicate With You, Even When They&#8217;re Healthy</title>
+		<link>https://onereach.ai/patients-want-to-communicate-with-you-even-when-theyre-healthy/</link>
+				<comments>https://onereach.ai/patients-want-to-communicate-with-you-even-when-theyre-healthy/#respond</comments>
+				<pubDate>Thu, 05 Feb 2015 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Communication]]></category>
+		<category><![CDATA[Healthcare]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/patients-want-to-communicate-with-you-even-when-theyre-healthy/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p><a href="http://www.healthcareitnews.com/news/patients-want-texts-and-emails-sickness-and-health">A 2013 study</a> found that 80 percent of patients say it is their doctors job to keep them healthy, not just to treat them when they are ill, and “70 percent of respondents say their doc has never checked on them when they weren’t sick in order to help them stay healthy.”</p>
+<p><span id="more-7205"></span>Here are some other key findings:</p>
+<ol>
+<li>Just 25 percent of those polled said they felt their healthcare provider was accessible to them when they have questions or concerns.</li>
+<li>50 percent of respondents said they believed texts, emails or smartphone apps with tips, reminders and encouragement could have helped them avoid a past health problem.</li>
+<li>And 68 percent said their doctor has never sent them a text message or email regarding upcoming appointment reminders, discharge information or electronic health resources.</li>
+<li>25 percent of people forget to take their medications on a regular basis, costing the industry an estimated $300b annually.</li>
+</ol>
+<p>This study, and several others like it, show that while healthcare is using technology in some truly incredible ways- at least in a clinical sense (imaging, diagnostics, etc.)- the industry has been late to employ some of the most basic principles in terms of managing relationships.</p>
+<p>By leveraging technology to supplement the human aspects of medicine, providers would be more effective and more efficient. This would lead to increased levels of care, lower overall costs, and an improved patient experience.</p>
+<p>While the healthcare industry is truly unique, we would be remiss to assume that lessons learned in other industries don’t apply. For example, many successful business uses CRM (customer relationship management) software to improve their relationships with customers. Why don’t doctors use similar tools to manage their relationships with patients? One might say that tools like these don’t account for privacy laws and don’t work within the inherent hierarchical nature of medical communication. But that doesn’t mean that creative new technologies are not being built to solve these problems (hint, hint).</p>
+<p><em><strong>To learn more about how consumers want to communicate with you, <a href="http://onereachcontactcenter.com/high-demand-for-customer-service-via-text-message/">download the 2014 Harris Report here</a>.</strong></em></p>
+<p>Photo by <a href="https://www.flickr.com/photos/neccorp/14445634744/in/set-72157645174046966">NEC Corporation of America</a> with CC License.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/patients-want-to-communicate-with-you-even-when-theyre-healthy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Patients Are Shopping. Are You On Their List?</title>
+		<link>https://onereach.ai/patients-are-shopping-are-you-on-their-list/</link>
+				<comments>https://onereach.ai/patients-are-shopping-are-you-on-their-list/#respond</comments>
+				<pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Customer Experience]]></category>
+		<category><![CDATA[Healthcare]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/patients-are-shopping-are-you-on-their-list/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>Now more than ever, patients are behaving like empowered healthcare consumers. Rising deductibles associated with the Affordable Care Act (<a href="http://http//www.bloomberg.com/news/2013-11-15/obamacare-deductibles-26-higher-make-cheap-rates-a-risk.html">up by 26%</a>), for example, are causing patients to pay closer attention to their healthcare decisions. It’s no surprise, then, that research from <a href="http://www.deloitte.com/view/en_US/us/Industries/life-sciences/Center-for-Health-Solutions-Life-Sciences/health-care-consumerism/517f54995c0e7310VgnVCM2000001b56f00aRCRD.htm?id=us_furl_chs_2012consumers_061112">Deloitte</a> shows an increasing number of people that are going online to find information to help them make educated medical purchases.</p>
+<p><span id="more-7202"></span>While there is no shortage of online destinations to find health care related information, the role of patient reviews and sites that rate doctors is on the rise. In fact, <a href="http://www.onereachhealth.com/wp-content/uploads/2013/11/Social-Ratings.png">eMarketer</a> found that 52% of U.S. Internet users are likely to use websites that offer quality rankings, satisfaction ratings, and patient reviews for specific doctors and hospitals. Perhaps even more telling are the findings from the <a href="http://www.uofmhealth.org/news/archive/201302/when-selecting-child%E2%80%99s-doctor-families-prefer-grapevine-over">University of Michigan’s Mott Children’s Hospital</a> national poll on children’s health:</p>
+<blockquote><p>30 percent of parents who have gone online in their quest for a doctor have based their final decision on a doctor’s online ratings, while 30 percent have ruled out a doctor because of poor online ratings or reviews…data suggest that younger families are more likely to rely on online ratings, which means over time we’d expect the use of these websites will keep increasing.</p></blockquote>
+<p>So what does this mean for doctors and hospitals? The first step is to understand how satisfied  your patients are <em>before</em> reading about it on Yelp. While there are many ways to collect patient feedback, the simplest and most powerful way to do it may be to use a text-message or automated telephone call campaign that measures “<a href="http://www.netpromoter.com/why-net-promoter/know/">Net Promoter Score</a>.” This metric was developed by Bain &amp; Company and measures customer/patient loyalty. The single question that matters the most is, “How likely are you to recommend our practice/hospital to your friends and colleagues.” Based on the answer to that question you can group patients into the following categories:</p>
+<ul>
+<li><strong>Promoters (score 9-10):</strong> loyal enthusiasts who will promote you to others</li>
+<li><strong>Passives (score 7-8):</strong> satisfied but unenthusiastic and are vulnerable to competitive offerings.</li>
+<li><strong>Detractors (score 0-6):</strong> unhappy customers who can damage your brand through negative word-of-mouth</li>
+</ul>
+<p>From there, you can take action based on what category each patient falls into. For example, you could ask all of the passives and detractors additional questions that will identify why they are unsatisfied, and let them know that you will be working to improve your relationship with them in the future. For the promoters, you could still ask for more details, or simply ask that they post a review on your Yelp page, for example. Or better yet, have the system automatically send a link to your Yelp page, thus increasing the likelihood that they will post a positive review.</p>
+<p>At the end of the day, satisfied patients are a great way to grow your practice, and activating their positive sentiment can get you on prospective patient’s shopping lists.</p>
+<p><em><strong>To learn more about what kind of service your customers want, <a href="http://onereachcontactcenter.com/high-demand-for-customer-service-via-text-message/">download our 2014 Harris report here</a>.</strong></em></p>
+<p>Photo by Flickr user <a href="https://www.flickr.com/photos/juhansonin/10734681393/in/set-72157649909476559">Juhan Sonin</a>. Edited.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/patients-are-shopping-are-you-on-their-list/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>3 Reasons Your Practice Needs SMS</title>
+		<link>https://onereach.ai/3-reasons-your-practice-needs-sms/</link>
+				<comments>https://onereach.ai/3-reasons-your-practice-needs-sms/#respond</comments>
+				<pubDate>Thu, 22 Jan 2015 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Healthcare]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/3-reasons-your-practice-needs-sms/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>As published by <a href="http://www.nielsen.com/us/en/newswire/2008/in-us-text-messaging-tops-mobile-phone-calling.html">Nielsen Mobile</a>, “the typical U.S. mobile subscriber sends and receives more SMS text messages than telephone calls.” This may not come as a surprise. However, the fact that this has been the case since 2008 might. So why haven’t service oriented companies adopted this communication channel to deliver a more delightful experience for their customers? And why are you reading about this on a blog from a healthcare technology company?</p>
+<p><span id="more-7200"></span>One reason is that the <a href="http://www.forbes.com/sites/johnnosta/2013/03/07/digital-health-and-dinosaurs-a-word-of-warning-from-john-sculley/">consumerization of healthcare</a> is among us. As mentioned in a report from Booz &amp; Co., now more than ever patients are behaving like healthcare consumers, and those entities that are able to “develop strategies and market offerings that fulfill their needs and preferences and fully engage them in an end-to-end customer experience” are going to be the most successful. So where does text messaging fit in to all of this?</p>
+<div>
+<p>First, medical practices and hospitals should understand that <strong>texting is a very intimate activity</strong>. People are used to texting their friends, family, and co-workers. The idea of texting a business or entity is still a new concept, which means that these conversations should be handled with care. The good news is that those that honor the intimacy of this channel will benefit from the inherent trust that comes along with it.</p>
+</div>
+<p>Second, <strong>text messaging allows for convenient self-service</strong>. Texting a keyword such as ‘appointment’ to the same number that a patient is used to calling can result in an automated response with a patient’s upcoming appointment information. What’s more, identity verification can be included to ensure compliance with privacy and security guidelines (HIPAA). For example, the patient may have to respond with a specific piece of information (e.g. date of birth) before the appointment information is sent.</p>
+<p>Finally, by allowing a patient to text their care team and have the staff reply via web chat (text-to-chat), <strong>both parties end up benefiting from texting</strong>. The patient gets to use his or her preferred communication channel (sms), while the staff gets to reply with the convenience of a web-chat client. That means that the staff is more productive (the asynchronous nature of text-to-chat reduces the need for voicemail and phone tag), and the practice or hospital saves money.</p>
+<p>In the end, text messaging is a great way to increase patient satisfaction and make your hospital or practice more profitable.</p>
+<p><em>To learn more about Americans&#8217; preference for text support, <a href="http://onereachcontactcenter.com/high-demand-for-customer-service-via-text-message/">download the report here</a>.</em></p>
+<p>Photo by <a href="https://www.flickr.com/photos/neccorp/14260314227">NEC Corporation of America</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/3-reasons-your-practice-needs-sms/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Are Patients Texting Your Practice?</title>
+		<link>https://onereach.ai/are-patients-texting-your-practice/</link>
+				<comments>https://onereach.ai/are-patients-texting-your-practice/#respond</comments>
+				<pubDate>Thu, 18 Dec 2014 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Healthcare]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/are-patients-texting-your-practice/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>It’s not uncommon to find a OneReach team member wearing a bright blue t-shirt with the words “Can I Text Your Business” in big block letters on the front of it. My colleague and I were both wearing them at the <a href="http://www.icmi.com/">International Customer Managment Institute</a> conference in San Diego a couple months ago, when a woman who manages a contact center said- “No, you can’t!” from across the way. While that may seem like a pretty normal statement, the ensuing conversation brought a couple key elements into focus for us both.</p>
+<h2><span id="more-7191"></span><b>You can’t stop someone from texting your business</b></h2>
+<p><b></b>After engaging with this woman who is widely considered an expert in her field, we agreed that there is nothing you can do to stop someone from getting out their cell phone and sending a text message to your business phone number. Even your toll-free number. The only thing you can control is what happens next. For almost all companies, that text message will not be received and the customer will get no response at all. Let’s just call that the worst customer experience ever.</p>
+<h2><b>You can control what happens when someone texts your business</b></h2>
+<p>There are a lot of different ways to handle inbound text messages that are being sent to your business phone number(s). The easiest thing to do would be to use OneReach to create an auto response. Even something as simple as “Thanks for contacting us! Unfortunately we don’t monitor our text traffic at this time, so please give us a call if you’d like to speak with us” would create a better customer experience than no response at all. Other options include developing fully interactive responses (think of an IVR, but for text messages) that would allow your patients to serve themselves. For example, someone could text your office and get a reply with their upcoming appointment details, balance details, or any other relevant information that you decided. You could even go as far as to offer your patients the ability to text chat with your practice. That is where a patient texts in and a staff member replies through a web chat interface. Truth be told, the winning recipe may combine both automation and live agent conversations.</p>
+<p>If you’d like to learn more about this, or to sign up for a free trial so you can determine if patients are texting you now, <a href="http://www.onereachhealth.com/contact-us/">click here</a> or contact us at (303) 974-7351.  And of course, you can call or text that number!</p>
+<p>Photo by Pixabay user <a href="http://pixabay.com/en/doctor-medical-medicine-health-563428/">DarkoStojanovic</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/are-patients-texting-your-practice/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>How to Give Your Healthcare Communications a Boost</title>
+		<link>https://onereach.ai/how-to-give-your-healthcare-communications-a-boost/</link>
+				<comments>https://onereach.ai/how-to-give-your-healthcare-communications-a-boost/#respond</comments>
+				<pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Customer Satisfaction]]></category>
+		<category><![CDATA[Healthcare]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/how-to-give-your-healthcare-communications-a-boost/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>Having observed dozens of providers and staff members in their natural work environment, we have seen and heard a lot. But some of the personal stories that we’ve heard are hard to forget and worth sharing. These stories shed light on the truth about healthcare communications and the workflows of these dedicated, and often over-worked, staff members.</p>
+<p><span id="more-7187"></span>For example, a back-office administrator once told me that on a daily basis he would leave his desk and go sit in his car in order to escape the incessant ringing of the office telephone. Let’s think about that- the sheer volume of phone calls to this office is enough to drive the employee off premises. If we consider leaving the office to be the extreme end of the spectrum, think about how much stress and dissatisfaction occurred along the way to that breaking point. Imagine how that stress manifests itself. Is it fair to ask that employee to provide a high level of service for all 200 calls that he needs to take in a day? Could you provide a high level of service if you had to take a phone call from a patient ever 2 minutes for your 8 hour shift? And what about the voicemail queue that is building? And the additional paperwork that is also part of your job description?</p>
+<p>Another example was a staff member who told me that it often took 2-3 phone calls to complete the rescheduling of an appointment. Why? Because 80% of the time the patient did not answer their call. When the patient calls back, the staff member was on the other line so the patient left a voicemail. It takes several rounds of “phone tag” to actually connect. That is inherently a problem with synchronous communications (see this <a href="http://www.hl7standards.com/blog/2013/08/22/healthcares-new-os-shifting-health-communications-from-a-liability-to-an-asset/" target="_blank" rel="noopener noreferrer"><b>article </b></a>for the benefits of using asynchronous communication technologies), and is compounded in larger offices that have multiple staff members answering the phone (“But I just spoke with Sam about rescheduling my appointment! What do you mean I have to hold on…”).</p>
+<p>The truth is these employees are being told by their bosses that they need to create a positive patient experience, but often are not given the support and tools they need to be successful. Another way to think about it is to understand that <b>staff satisfaction is directly related to patient satisfaction</b>. One practice told us that all of their negative reviews on <a href="http://www.onereachhealth.com/patients-are-shopping-are-you-on-their-list/"><b>social rating sites</b></a> (Yelp! HealthGrades, etc.) had nothing to do with the doctor or the care their patients received, but focused on the administrative challenges their patients had (the waiting room experience, trouble making appointments, lack of communication, etc.).</p>
+<p>So who’s to blame? It’s hard to blame the doctors- after all, many of them just want to practice medicine. And it’s hard to blame the practice administrators- they can’t help that the phone is the front door to their practice, and they often can’t afford to hire yet another employee- that’s an expensive way to scale a business. So maybe it is our fault- the technology companies who work in this space. Despite all of the innovation in healthcare (especially in diagnostics and imaging), we have neglected the primary way that patients and their care team communicate- through the telephone.</p>
+<p>OneReach is working hard to lead the way and create change that will enhance the patient experience, improve the lives of staff members, help to reduce the costs of healthcare, and ultimately contribute to better health outcomes. <a href="http://www.onereachhealth.com">Let us know if you want to help us, or if we can help you</a>. We are in this together. After all, we are patients, too.</p>
+<p>Photo by Flickr user <a href="https://www.flickr.com/photos/juhansonin/7701382388/in/photostream/">Juhan Sonin</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/how-to-give-your-healthcare-communications-a-boost/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>One Simple Tool That Will Make Your Practice More Efficient</title>
+		<link>https://onereach.ai/one-simple-tool-that-will-make-your-practice-more-efficient/</link>
+				<comments>https://onereach.ai/one-simple-tool-that-will-make-your-practice-more-efficient/#respond</comments>
+				<pubDate>Fri, 14 Nov 2014 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Communication]]></category>
+		<category><![CDATA[Healthcare]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/one-simple-tool-that-will-make-your-practice-more-efficient/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p dir="ltr">You may not be a doctor, but you’ve been a patient. And you’ve definitely had to call in to a doctor’s office before. How do you recall that experience going? Was it simple, quick, and effortless? Was the staff member you spoke with warm, friendly, and helpful? Or was it a rushed experience, lacking of context and generally unpleasant?</p>
+<p dir="ltr">Unfortunately, it was probably the latter. And no matter how unpleasant it was for you, just imagine what it must be like for that staff member whose job is to handle dozens or even hundreds of those encounters a day.</p>
+<p dir="ltr">Given the hierarchical nature of healthcare communications, where each provider is surrounded by a layer of full-time employees, who collectively serve a patient population that could number in the thousands, the communication process is inherently challenging. To make matters worse, staff are given rudimentary tools to communicate with patients, referring physicians, pharmacies, and payers. How can they be expected to manage everything?</p>
+<p dir="ltr"><span id="more-7176"></span>With screen pops.</p>
+<p dir="ltr">Doctors’ offices aren’t the only places that receive a lot of calls&#8211;contact centers do, too. One of the tools they’ve created to help manage calls is the screen pop. It’s a visual representation of the inbound caller that shows their basic information and past interactions. Here’s what one might look like:</p>
+<p dir="ltr" style="text-align: center;"><a href="http://onereach.ai/wp-content/uploads/2019/07/screen-pop.png"><img class=" wp-image-1028 aligncenter" src="http://onereach.ai/wp-content/uploads/2019/07/screen-pop.png" alt="screen-pop" width="437" height="274" /></a></p>
+<p dir="ltr">Healthcare professional can harness the power of screen pops to:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr"><strong>Visually triage the call</strong>&#8211;The front desk can look at who is calling and decide how they want to respond (answer, transfer, voicemail, etc). For example, if the front desk sees that the patient has an outstanding balance, they can transfer them to the billing department without having to pick up the phone.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><strong>Programmatically triage the call</strong>&#8211;Practices see additional benefits from automation. Instead of manually transferring a patient with an outstanding balance to billing, practices can create a routing rule that states that every caller with an outstanding balance gets routed to billing first.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><strong>Answer the call in a prepared way</strong>&#8211;Screen pops can provide valuable context by giving practices a better idea of who is calling in and why. If Patient A is calling and has an appointment scheduled for the next day, there’s a good chance they are calling to either confirm or reschedule.. Increased context saves practices time and increases patient satisfaction.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><strong>Reduce inbound calls with text messaging</strong>&#8211;Letting patients text in for simple tasks like scheduling appointments or paying a bill can significantly decrease the amount of incoming calls. Practices can then dedicate their time to patients with more in-depth questions.</p>
+</li>
+</ul>
+<p dir="ltr">Healthcare is advanced in a lot of ways (diagnostics, imaging, etc.), but there are still some areas where it can improve. Screen pop is just one way to enhance the patient experience and make communication easier for everyone.</p>
+<p dir="ltr"><em>To learn more about adding screen pops to your business communications, visit <a href="http://onereach.com">onereach.com</a>.</em></p>
+<p>Photo by <a href="https://www.flickr.com/photos/neccorp/4113488974/in/set-72157622602745789">NEC Corporation of America</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/one-simple-tool-that-will-make-your-practice-more-efficient/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

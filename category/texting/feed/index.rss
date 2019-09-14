@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Texting &#8211; OneReach.ai</title>
+	<atom:link href="https://onereach.ai/category/texting/feed/" rel="self" type="application/rss+xml" />
+	<link>https://onereach.ai</link>
+	<description>Intelligently Automate Your Company</description>
+	<lastBuildDate>Fri, 26 Jul 2019 11:39:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://onereach.ai/wp-content/uploads/2018/04/cropped-OR-ICON-GOLD-W-DOTS-Larger-Background-02-32x32.png</url>
+	<title>Texting &#8211; OneReach.ai</title>
+	<link>https://onereach.ai</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>You Don&#8217;t Need An App for That</title>
+		<link>https://onereach.ai/you-dont-need-an-app-for-that/</link>
+				<comments>https://onereach.ai/you-dont-need-an-app-for-that/#respond</comments>
+				<pubDate>Tue, 21 Feb 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Automation]]></category>
+		<category><![CDATA[Benefits]]></category>
+		<category><![CDATA[Big Ideas]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Communication]]></category>
+		<category><![CDATA[ITR]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Mobile Payments]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/you-dont-need-an-app-for-that/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p><span style="font-weight: 400;">In July of 2013 Toby Shapshak, the South African speaker, strategist and editor of Stuff Magazine, did a TED talk called </span><a href="https://www.ted.com/talks/toby_shapshak_you_don_t_need_an_app_for_that?language=en"><span style="font-weight: 400;">You Don’t Need An App For That</span></a><span style="font-weight: 400;">. Business leaders, innovators and experience designers would soon realize how profound this TED talk was to the rest of the world. Shapshak’s astute observations and message to the rest of the world was years ahead of a revolution that Forbes would call </span><a href="http://www.forbes.com/sites/parmyolson/2016/02/23/chat-bots-facebook-telegram-wechat/#5c9ad9142633"><span style="font-weight: 400;">“the new way we’ll be interacting with computers.”</span></a></p>
+<p><span style="font-weight: 400;">Toby’s 2013 Ted talk touted that “while the rest of the world is updating statuses and playing games on smartphones, Africa is developing useful SMS-based solutions to everyday needs”. Since 2013 his TED talk has been viewed 1,438,046 times as of July 19, 2016.</span></p>
+<p><span style="font-weight: 400;">Fast forward a couple of years and we see more apps than anyone knows what to do with, as well as a notable decrease in</span><a href="http://onereach.com/blog/infographic-mobile-apps-vs-text-messaging/"><span style="font-weight: 400;"> usage and app-downloads</span></a><span style="font-weight: 400;">. This has businesses confused and frustrated. Meanwhile, around the world, messaging (SMS and the ever-encroaching uptake of IP messaging &#8211; Facebook Messenger, Spark, Slack, Kik, SnapChat, etc) is by far the most used function or app on mobile phones &#8211; smart phone or not.</span></p>
+<p><span style="font-weight: 400;">2016 brought a wave of new businesses and products that fall into the category of </span><a href="http://onereach.com/blog/why-your-business-needs-a-bot/"><span style="font-weight: 400;">bots</span></a><span style="font-weight: 400;">; chat bots, messaging-bots, </span><a href="http://uxmag.com/articles/humans-ai-and-the-user-interface-of-the-future"><span style="font-weight: 400;">conversational-bots</span></a><span style="font-weight: 400;">, “invisible apps” or &#8220;conversational commerce”. Messaging-bots are popping up for everything, increasingly displacing mobile-apps. New bots are being brought to life daily by startups and household brands alike. Whether the experiences are where they need to be or not, bots existing today which allow you to order a </span><a href="http://onereach.com/blog/i-tried-ordering-dominos-over-text-message-and-it-was-a-total-disaster/"><span style="font-weight: 400;">pizza</span></a><span style="font-weight: 400;">, make a payment, read the </span><a href="http://money.cnn.com/2016/08/04/media/new-york-times-text-message/"><span style="font-weight: 400;">news</span></a><span style="font-weight: 400;">, be reminded of an appointment or even make an appointment. Even </span><a href="http://onereach.com/blog/cities-offer-text-311/"><span style="font-weight: 400;">city and county municipalities</span></a><span style="font-weight: 400;"> are seeing the value, for example, Washington DC uses a </span><a href="https://onereach.com/bots/#dc"><span style="font-weight: 400;">bot for their 311</span></a><span style="font-weight: 400;">-public services hotline. </span></p>
+<p><span style="font-weight: 400;">Silicon Valley and other capital ventures hubs around the world have already backed several startups that leverage, if not rely entirely on, bots. Benedict Evans, Partner at the Venture Capital Firm, </span><span style="font-weight: 400;">Andreessen Horowitz (&#8216;</span><a href="http://www.a16z.com/"><span style="font-weight: 400;">a16z</span></a><span style="font-weight: 400;">&#8216;) </span><span style="font-weight: 400;">tweeted &#8220;I genuinely can&#8217;t remember the last time a concept blew up as quickly as bots&#8221;.</span></p>
+<p><span style="font-weight: 400;">For years, I’ve been part of a business that, like Toby Shapshak, was ahead of the “bot” curve that’s now consuming the business and customer experience worlds. Expedia, Bosch, DHL, Unilever, Stella Artois, HomeAdvisor, The National Domestic Violence Hotline, Red Cross and many others use </span><a href="http://t.yesware.com/tt/40cc1fc6e25c0e6b6c473b6e5d7078c28afa0f2a/489eb37184cda59ba3c43d567cdd0d3e/ac7788ed6176abd000e4ebc066e9c752/l.gbtrck.com/1ab15380-e2b7-425a-9ad9-959cef88b9b1"><span style="font-weight: 400;">OneReach</span></a><span style="font-weight: 400;"> to create (and manage) self-service messaging bots and live communications with their customers. The most popular use-cases include live and automated customer support, proactive order status notifications or order updates, payments/purchasing and text or chat-enabled IVRs (now called chat-bots). Who’d have thought that a bot could reduce 40% of a major brand’s customer support costs, increase revenue by 30% or boost NPS scores?</span></p>
+<p><span style="font-weight: 400;">Toby Shapshak seems to have been the oracle that foretold one of the most prolific changes in how consumers and businesses communicate and do commerce. He suggested that bots are “effectively an intersection of the most basic and sophisticated communication. It&#8217;s remarkable that the very rich (in the developed world) and poor (in the developing world) have effectively ended up in the same place (both using bots)”</span></p>
+<p><span style="font-weight: 400;">Years have past since his Ted Talk and we thought it would be valuable to see what Toby thinks of today’s climate and where things go from here. </span></p>
+<h2><b>Our interview with Toby Shapshak</b></h2>
+<p><b>Elias: </b><i><span style="font-weight: 400;">Messenger Bots are impacting the everyday life and habits of consumers &#8211; in commerce, purchasing, managing one’s time, getting news and so on. You’ve been watching the impact of messenger bots in Africa for sometime. With this in mind, what perspective would you offer to business leaders and experience-designers on the impact that messenger bots have on consumer habits &#8211; in commerce and purchasing or donations, customer support, managing one’s time, getting news and so on?</span></i></p>
+<p><b>Toby:</b><span style="font-weight: 400;"> Business leaders and UX designers should be aware of how chatbots can have an impact on consumer habits; both positively and negatively.</span></p>
+<p><span style="font-weight: 400;">For the youth of the world, who have grown up using chat, it&#8217;s a logical extension to communicate through this channel, ask questions, even make purchases. Pew Research found that American teenagers were only using email to communicate with &#8220;authority figures&#8221; &#8211; adults, parents and teachers. Now chatting is so dominant that WhatsApp has over a 1 billion users and Facebook Messenger has some 800 million users and 50 million businesses. WeChat has some 800 million users, mostly in China, and has been using bots in a very sophisticated way for a lot longer. Wechat is the future of chatting mingled with commerce. </span></p>
+<p><span style="font-weight: 400;">The great thing about SMS &#8211; which is arguably the greatest communication medium the world has ever seen; and the most expensive &#8211; is that it works on every single cellphone, no matter how sophisticated. The other key thing is SMS has a 100% read rate &#8211; even the spam.</span></p>
+<p><span style="font-weight: 400;">In this context, doing new things like search or shopping via messaging/chat seems obvious to a generation of youngsters that prefer chat to email or anything else. Chat is cheaper and it&#8217;s a paradigm that people understand. It also doesn&#8217;t have a learning curve, the way that conventional apps do. </span></p>
+<p><b>Elias: </b><i><span style="font-weight: 400;">In 2013 you commented that &#8220;while the rest of the world is updating statuses and playing games on smartphones, Africa is developing useful SMS-based solutions to everyday needs”. Is the current wave of messenger bots solving real problems or this just the new version of &#8220;updating statuses and playing games on smartphones”?</span></i></p>
+<p><b>Toby: </b><span style="font-weight: 400;">Right now, a lot of chatbots seem like a nice-to-have. Give them some maturity and we&#8217;ll see if they are a flash-in-the-pan hype or something that will be continuingly useful.</span></p>
+<p><b>Elias: </b><i><span style="font-weight: 400;">Is the rest of the world catching up or is Africa still ahead and in what ways? What has the rest of the world yet to learn still from African innovation?</span></i></p>
+<p><b>Toby: </b><span style="font-weight: 400;">Africa is forced to innovate the way it does because there are no other alternatives. it&#8217;s the purest form of innovation out of necessity. More people in Africa have access to a cellphone than to electricity. Because of this there are brilliant power solutions, including solar-power systems like M-Kopa. If you have a pressing problem, it&#8217;s the best incentive in the world to solve it. If you have electricity, what are you likely to do? Watch TV or YouTube. it&#8217;s sadly that simple.</span></p>
+<p><b>Elias: </b><i><span style="font-weight: 400;">What are your predictions for where messaging and bots go next, in Africa and elsewhere?</span></i></p>
+<p><b>Toby: </b><span style="font-weight: 400;">The sky really is the limit, isn&#8217;t it. Text-based services are revolutionary in Africa, offering everything from Google search via SMS to important health information via South Africa&#8217;s mHealth initiatives. </span></p>
+<p><span style="font-weight: 400;">Kevin Kelly, the founding executive editor of Wired magazine, said some very interesting things at SXSW this year about how artificial intelligence will become part of our lives. Right now, he says, “it&#8217;s like the early days of cloud computing, but it will ultimately be as sophisticated a service as cloud-based offerings are now”. He called it &#8220;intelligence as a services&#8221;. “Like electricity, which you now buy in what we now call an on-demand model”, Kelly says &#8220;you won’t have to make your AI, you will just purchase it. It will flow like electricity from the grid to wherever you want it. &#8221; He says: &#8220;Artificial intelligence will soon be a commodity&#8221;. AI services at low cost will spur the chatbot industry and make offerings increasingly sophisticated. </span></p>
+<p><span style="font-weight: 400;">There is also the network effect to consider. Part of the reason Google&#8217;s search algorithms are so fast &#8211; and can predict or suggest answers so quickly &#8211; is because of the volume of search queries it has already performed. This inventory of queries and searches mean there is a greater volume of info to reference. As the volume of chatbot data increases, they will also become more effective.</span></p>
+<h2><b>Reflection &amp; Looking Forward</b></h2>
+<p><span style="font-weight: 400;">In reflecting on Toby Shapshak’s 2013 Ted Talk it’s evident that he saw something revolutionary emerging amidst the noise in the world of experience design, business and technology. </span></p>
+<p><span style="font-weight: 400;">Similar to the concept of hindsight being 20/20, until 2016 the business world largely ignored the opportunity to leverage the most ubiquitous communication channels in the world (text messaging and IP messaging) for customer support. </span></p>
+<p><a href="http://www.edn.com/electronics-blogs/edn-moments/4402146/1st-text-message-is-sent--December-3--1992"><span style="font-weight: 400;">The first text message was sent in 1992</span></a><span style="font-weight: 400;"> and </span><a href="https://en.wikipedia.org/wiki/Text_messaging"><span style="font-weight: 400;">by 2007 </span><span style="font-weight: 400;">74% of all mobile phone users worldwide</span><span style="font-weight: 400;"> used text messaging</span></a><span style="font-weight: 400;">. It took the western business world roughly another 10 years to accept the notion that just maybe they should consider communicating with their customers over the single most prefered communication channel in the world &#8211; SMS. </span></p>
+<p><span style="font-weight: 400;">For the last 6 years at </span><a href="http://www.onereach.com"><span style="font-weight: 400;">OneReach,</span></a><span style="font-weight: 400;"> I’ve been lucky enough to see startups and huge international brands alike use our tools to easily create and iterate on fully reportable and integrated bots. It’s been 3 years since Toby Shapshak’s TED talk and it’s great to finally see so many companies designing for the channels consumers actually prefer (messaging). </span></p>
+<p><span style="font-weight: 400;">Now that we’re here, let’s not be foolish enough to think that leveraging chat bots to drive business impact is any easier because the interface is an ‘old’ technology. The businesses world learned that building any old mobile app really isn’t all that hard. Similar to mobile apps, the success of a today’s chat bots will not be defined by whether or not your company offers chatbots. Success will rest on whether or not your chatbot experiences achieve desired outcomes for your business while being meaningful to your customer.</span></p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/you-dont-need-an-app-for-that/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Sharing the Love:  Amy Krouse Rosenthal and the Emerging Connection between Author and Reader</title>
+		<link>https://onereach.ai/sharing-the-love-amy-krouse-rosenthal-and-the-emerging-connection-between-author-and-reader/</link>
+				<comments>https://onereach.ai/sharing-the-love-amy-krouse-rosenthal-and-the-emerging-connection-between-author-and-reader/#respond</comments>
+				<pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Automation]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Customer Satisfaction]]></category>
+		<category><![CDATA[Texting]]></category>
+		<category><![CDATA[AI in publishing]]></category>
+		<category><![CDATA[Artificial intelligence]]></category>
+		<category><![CDATA[bot]]></category>
+		<category><![CDATA[customer experience]]></category>
+		<category><![CDATA[customer service]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/sharing-the-love-amy-krouse-rosenthal-and-the-emerging-connection-between-author-and-reader/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>Throughout much of history, authors have maintained a distance from readers, their experiences separated by both time and place. As novelist Paolo Coelho noted, writing is “a solitary experience.” The work of the author was often created in isolation—seemingly forged in the rarified air of their literary mountain before being handed down to the waiting masses.</p>
+<p>Now, not so much.</p>
+<p>Modern writers are encouraged to engage with their readers and, thanks to technology, have numerous possible channels to choose from. This makes the modern author more a reachable human, and less a remote mystic.</p>
+<p>This may seem grievous to the lone wolf author who would prefer to remain isolated and mysterious. But the reality in our connected world is that readers expect a level of access to authors, and success in the literary world depends on it. In his editorial piece “<a href="http://www.forbes.com/sites/daviddisalvo/2012/05/10/the-aloof-author-is-dead-long-live-the-writer/#48b4eb3e2649" target="_blank" rel="noopener noreferrer">The Aloof Author Is Dead, Long Live the Writer</a>,” David DiSalvo of Forbes Magazine writes:</p>
+<p>Technology has riddled the barriers between authors and readers full of holes. Ignoring the multiple ways readers can interface with writers isn’t an option — but more to the point, why would anyone want to ignore them? In the new economy, writers must build brands for themselves and maintain them over time. Every mode of interaction with readers offers opportunities to strengthen the brand.</p>
+<p>As novelist and blogger Kate Pullinger described in her article “<a href="http://www.katepullinger.com/website_archive/index.php/blog/comments/connecting-readers-to-writers-the-only-possible-future-of-publishing" target="_blank" rel="noopener noreferrer">Connecting Readers to Writers: the only possible future of publishing</a>,” “(T)he only important question left, really, is how to connect writers to readers. Any publisher who isn’t addressing this directly and urgently will be in trouble soon.”</p>
+<p>While blogs and eBooks have begun providing a somewhat interactive experience, printed literature has remained in the same static place it has for centuries. After all, how can the ancient medium of paper provide a modern interactive experience?</p>
+<p>Enter author Amy Krouse Rosenthal.</p>
+<p>Amy is bending the world of print media towards truer interactivity by partnering with OneReach to use text-based audience participation. Written in a wry, memoir style, her new book <a href="https://www.textbookamykr.com/" target="_blank" rel="noopener noreferrer">Textbook Amy Krouse Rosenthal</a> invites readers to actively join in the discussion.</p>
+<p>At the beginning of the book, readers are encouraged to text “Hello” to a Chicago number (the author’s hometown). A cheery greeting comes back from the author, which sets up a relationship of sorts between author and reader.</p>
+<p>At various intervals in the book, Amy prompts the reader to engage by using text inputs to the previously used number. Information either flows from the reader to the author (such as self-portraits and photos) or from the author to the reader (such as audio files of a poet reading his work). All of these inputs are then posted on the author’s website.</p>
+<p>This unique immersive experience was done very intentionally. Amy Krouse Rosenthal <a href="http://www.chicagotribune.com/lifestyles/books/ct-prj-amy-krouse-rosenthal-textbook-20160803-story.html" target="_blank" rel="noopener noreferrer">says</a> “the text-messaging aspect of the book, at the end of the day, is about connecting with people.” This human need for connection is well-documented and has even been recently called “as fundamental as our need for food and water” by neuroscientist <a href="https://www.youtube.com/watch?v=NNhk3owF7RQ" target="_blank" rel="noopener noreferrer">Matthew Lieberman</a>.</p>
+<p>We are only just beginning to see this connection between author and reader. What OneReach has done is create an interactive and immersive experience that has been lacking up until now. Future writers may be able to construct an entirely new way of providing details or even compel an interaction with their story lines. The possibilities are limited only by the author’s imagination. Consider these:</p>
+<p>• Choose Your Own Adventure books. Remember those? Also known as “gamebooks,” they used to let the reader choose different endings and options as they progressed through the pages of the book. How cool would it be to adapt that in a more technologically immersive way? A reader could text their choices and receive instructions for the next step in the story.</p>
+<p>• Interactive mysteries. Readers would need to solve part of the mystery before getting a text with the next clue. This would make them almost a character in the story as they help to solve the crime.</p>
+<p>• Immersive talk tracks. Imagine going on the Boston walking tour and getting texts showing images of what you’re looking at, but from the colonial period. Bot technology could also be used so you could ask questions about what you’re seeing and get a real-time answer.</p>
+<p>• Scavenger hunts. Thanks to the proliferation of activities like Pokemon Go and geocaching, scavenging has never been more popular. Authors can include location-specific or theme-specific clues and readers can respond with the correct answer or upload an image of the item.</p>
+<p>• Personalized books. When I was a child, one of my favorite books was a personalized one, where my own name had been included in the storyline. Admittedly, it was done with old technology, and looked like someone had just clumsily fed the template through a typewriter. That didn’t matter to me. I loved the idea that I was part of the story, and felt so very important! Using texts, an author could now give prompts for names, details, and image uploads, essentially having the reader build the story as they go. At the end, readers could even get a digital or printed copy of the story they created.</p>
+<p>These are just a few ideas, limited only by the imagination of writers now and in the future. As culture changes, so must the authors and publishing companies operating within it. Although really, no matter how much technology changes, people are—as always—still just earnestly searching for connection. And a writer like Amy Krouse Rosenthal gives them just that.</p>
+<p>Try it for yourself and let us know what you think!</p>
+<p>&nbsp;</p>
+<p>Image courtesy of www.whoisamy.com, taken by Brooke Hummer</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/sharing-the-love-amy-krouse-rosenthal-and-the-emerging-connection-between-author-and-reader/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Weekly Review: 07/18</title>
+		<link>https://onereach.ai/weekly-review-07-18/</link>
+				<comments>https://onereach.ai/weekly-review-07-18/#respond</comments>
+				<pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Customer Experience]]></category>
+		<category><![CDATA[Customer Satisfaction]]></category>
+		<category><![CDATA[Customer Service]]></category>
+		<category><![CDATA[Infographic]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[Miscellaneous]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[OmniChannel]]></category>
+		<category><![CDATA[Texting]]></category>
+		<category><![CDATA[Weekly Review]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/weekly-review-07-18/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>Happy Friday! Here’s our picks for the best customer service, customer experience, bot and mobile articles of the week, in no particular order.</p>
+<h2><span id="more-7441"></span></h2>
+<h2><span style="font-size: x-large;"><a href="http://www.mycustomer.com/service/channels/four-ways-to-leverage-omnichannel-to-drive-customer-loyalty">Four Way to Leverage Omnichannel to Drive Customer Loyalty</a> &#8211;<a href="http://@Taylor_Reach"> by Colin Taylor </a></span></h2>
+<p>Everyone knows that the experience the customer has when interacting with a company, impacts their opinions, views and perceptions of the brand. With omnichannel, you can distinguish customers based on their segment across all channels including: voice calls, chat, emails, social and IVR. Find out why omnichannel plans support the overall corporate priorities with customer experience being the most important.</p>
+<h2><span style="font-size: x-large;"><a href="http://venturebeat.com/2016/07/18/why-pokemon-go-could-be-a-groundbreaking-model-for-chatbots/">Why Pokemon Go Could Be A Groundbreaking Model For Bots-</a> <a href="http://@robotsNpencils">by Ryley Moskal </a></span></h2>
+<p><span style="font-size: medium;">This has been the year of bots and most definitely the month for Pokemon! This article</span> talks about a real opportunity that exists to combine augmented reality (AR) and bots to alter businesses and heighten experiences in incomparable ways.</p>
+<h2><a href="http://www.business2community.com/marketing/6-reasons-sms-marketing-powerful-investment-01597222#zyDA3T38QU0URJH0.97">6 Reasons SMS Marketing is Such a Powerful Investment</a>&#8211;<a href="http://@B2Community">by Siphon Chhay </a></h2>
+<p>SMS is such a powerful tool for many reasons, one of those is this: 80% of people are now using text messaging for business in some form or fashion. SMS marketing allows for your audience to tap the screen to connect with you. Read on to find out the 6 reasons SMS marketing should be your next business investment.</p>
+<h2><span style="color: #000000;"><a href="http://www.mycustomer.com/experience/engagement/infographic-how-to-better-engage-with-customers">How to Better Engage with Customers (Infographic)</a>&#8211; <a href="http://@neilcdavey">by Neil Davey </a></span></h2>
+<p>Today customer service is so important that it actually could cost you more to lose a customer. Each stage in the customer journey so important because it is an opportunity to use all the right channels to engage them and build customer loyalty.</p>
+<p>&nbsp;</p>
+<p><strong>To learn more about providing a great customer experience across channels, <a href="https://onereach.com/resources/omnichannel-seamless-experience">download our whitepaper here</a>.</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/weekly-review-07-18/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Why Your Mobile Strategy Isn&#8217;t Complete Without Text Messaging</title>
+		<link>https://onereach.ai/why-your-mobile-strategy-isnt-complete-without-text-messaging-3/</link>
+				<comments>https://onereach.ai/why-your-mobile-strategy-isnt-complete-without-text-messaging-3/#respond</comments>
+				<pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/why-your-mobile-strategy-isnt-complete-without-text-messaging-3/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p><span class="post-featured-img"><img class="attachment-full size-full wp-post-image" title="" src="http://onereach.ai/wp-content/uploads/2015/12/mobile-strategy.png" sizes="(max-width: 800px) 100vw, 800px" srcset="http://onereach.ai/wp-content/uploads/2015/12/mobile-strategy.png 800x, http://onereach.com/blog/wp-content/uploads/2015/12/mobile-strategy-300x169.png 300x, http://onereach.com/blog/wp-content/uploads/2015/12/mobile-strategy-546x307.png 546x" alt="mobile strategy" width="800" height="450" /></span></p>
+<p>In today’s world, customer service is no longer restricted to a simple phone call. A recent report from<a href="http://www.dimensiondata.com/Global/Global-Microsites/CCBenchmarking"> Dimension Data</a> found that <i>digital</i> interactions account for 35% of all contact center interactions.</p>
+<p>In fact, customers are so vested in the idea of emerging channels that contact centers have ranked it their number one priority. As digital use climbs, nearly 75% of contact centers predict an increase in non-voice interactions within two years. Over 40% expect a decrease in voice traffic in that same time period.</p>
+<p>Some of this digital dominance can be attributed to smartphones, which have exploded in popularity over the past few years.<a href="http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/#smartphones">According to Pew Research</a>, over 64% of American adults now own a smartphone, up from 35% in 2011. But it’s not just limited to the U.S.—one in five people across the globe own a smartphone.</p>
+<p><span id="more-2279"></span>Global smartphone users typically spend 2 hours and 30 minutes a day on their phone, trumping<a href="http://bgr.com/2014/05/29/smartphone-computer-usage-study-chart/"> tablets, computers and even television</a> for the most time spent in front of a screen. Smartphones are also dominating the connected device market, and are predicted to surpass<a href="http://www.statista.com/chart/777/global-connected-device-shipments/"> 1.7 billion units</a> in global sales by 2017.</p>
+<p>And customers are certainly app happy—there are<a href="http://www.searchenginejournal.com/2014-mobile-landscape-25-statistics-will-drive-future-mobile-marketing-infographic/89507/"> 224 million active app users</a> in the U.S, a little over 70% of the population. And over<a href="http://techcrunch.com/2014/04/01/mobile-app-usage-increases-in-2014-as-mobile-web-surfing-declines/">85% of time spent</a> on a smartphone is spent in apps.</p>
+<p>But let’s break this down a little bit.</p>
+<h2>Why Your Mobile Strategy Can’t Rely on Apps Alone</h2>
+<p>Of the 85% of time spent in apps, <a href="http://www.smartinsights.com/mobile-marketing/mobile-marketing-analytics/mobile-marketing-statistics/">32% of this is games and 18% is Facebook</a>. The rest of the time is broken up between news, productivity, and other apps (see below). And while it’s true that <a href="http://www.theguardian.com/technology/appsblog/2011/oct/28/branded-apps">91% of top brands</a> have an app, unless you’re a big hitter like Facebook or Amazon, you’re going to have a hard time getting a customer’s attention.</p>
+<p>Part of this is because <a href="http://techcrunch.com/2014/08/21/majority-of-digital-media-consumption-now-takes-place-in-mobile-apps/">42% of all app time</a> spent on smartphones takes place within an individual’s most-used app, and 75% of time is spent in their top 4 apps. For the average person, those are most likely going to be social networking apps and games. Think about it–what are the most commonly used apps on your phone?</p>
+<p>In addition, apps aren’t exactly a high-earning channel for companies. Gartner predicted that<a href="http://www.infoworld.com/article/2615270/mobile-apps/gartner--93-percent-of-all-mobile-apps-will-be-free-by-2016.html"> 93% of mobile apps</a> will be free by 2016, and for those apps that do generate revenue Apple and Google also take a 30% cut. Granted, most enterprise apps are free for existing customers, but creating these apps can be a time-consuming process that cost an average of <a href="http://resources.kinvey.com/docs/State+of+Enterprise+Mobility+Survey+2014+-+Kinvey.pdf">$270,000</a> to develop and deploy Creating apps for different platforms (iOS, Android, even Blackberry) and deploying regular updates can significantly increase costs.</p>
+<p>For companies that do develop an app, there’s no guarantee that customers will use them. Four out of five customers spend most of their time in<a href="http://marketingland.com/report-mobile-users-spend-80-percent-time-just-five-apps-116858"> their top five apps</a>, meaning a service app may be overlooked altogether. Customers may have 30-40 apps installed on their phone, but Google research found customers only use<a href="https://think.withgoogle.com/mobileplanet/en/downloads/"> about 12 of those apps</a> within a 30-day period.</p>
+<p>And apps aren’t always guaranteed to work—according to Pew Research,<a href="https://info.dynatrace.com/rs/compuware/images/Mobile_App_Survey_Report.pdf"> over 50% of consumers</a> have experienced a problem with a mobile app. But, perhaps the most worrisome fact for businesses is that<a href="https://info.dynatrace.com/rs/compuware/images/Mobile_App_Survey_Report.pdf"> 79% of consumers</a> will only retry an app once or twice before abandoning it. Despite the fact that every day over 50 million mobile apps are downloaded, <a href="http://www.nuance.com/ucmprod/groups/enterprise/@web-enus/documents/collateral/nc_020218.pdf">95% are abandoned</a> within a month.</p>
+<p>The good news is that you don’t have to rely on an app to provide great customer service or self-service.</p>
+<h2>Why Texting Needs to Be Part of Your Mobile Strategy</h2>
+<p>A recent study by <a href="http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/#smartphones">Pew Research</a> found that text messaging is “the most widely-used smartphone feature.” Not only do 97% of American smartphone owners use text messaging, but they use it more frequently than any other channel. On a global scale, 90% of people text at least once a day, sending over<a href="http://www.openuniversity.edu/news/news/2014-text-messaging-usage-statistics"> 11 billion texts daily</a>. With usage like this, why haven’t more businesses picked it up?</p>
+<p>To their credit, some businesses have. Over<a href="http://www.dimensiondata.com/Global/Global-Microsites/CCBenchmarking"> 37% of contact centers offer SMS</a>, with 23% planning to add it in the coming year.</p>
+<p>Your company can begin adopting text messaging using these following steps:</p>
+<ol>
+<ol>
+<li>Guide agents on proper use.</li>
+<li>Integrate it with other channels.</li>
+<li>Decide between long codes and short codes.</li>
+<li>Find a balance between automation and live agents.</li>
+<li>Identify text support targets.</li>
+<li>Create text support discovery mechanisms.</li>
+<li>Identify what success looks like.</li>
+<li>Recognize customer problems.</li>
+<li>Have a customer experience plan.</li>
+<li>Create a text support rollout plan.</li>
+</ol>
+</ol>
+<p>Companies that have adopted texting have received an overwhelmingly positive response from customers. Customers shipping packages with UPS or FedEx can opt-in to receive automated texts that track their shipment and medical organizations can send patients reminders about when they should take their medication. Contact centers can send customers personalized texts based on service history and past interactions, increasing customer satisfaction.</p>
+<h2>Conclusion</h2>
+<p>Apps are a highly-used communication channel, but for most businesses, the upfront cost and predominant use of gaming/social apps don’t justify the investment. That’s why texting is such an essential part of your mobile strategy–it can do almost anything apps can do. It’s fast, it can be professional but personal, it’s easy to use, it’s in real-time, it picks up where you left off, it connects to the Internet, etc. There are some situations where an app will work better, and that’s okay. But before you move ahead with a mobile app, ask yourself one question:</p>
+<p><i>Can I use text for that?</i></p>
+<p>To learn more about why texting is an essential part of your mobile strategy, <a href="http://onereach.com/resources/mobile-strategy">download the whitepaper here</a>.</p>
+<p>Image from <a href="http://pixshark.com/woman-looking-at-iphone.htm">Pixshark</a>. Edited. Labeled for reuse with modification.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/why-your-mobile-strategy-isnt-complete-without-text-messaging-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Weekly Review: 5/31 Edition</title>
+		<link>https://onereach.ai/weekly-review-5-31-edition/</link>
+				<comments>https://onereach.ai/weekly-review-5-31-edition/#respond</comments>
+				<pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Customer Service]]></category>
+		<category><![CDATA[Miscellaneous]]></category>
+		<category><![CDATA[Texting]]></category>
+		<category><![CDATA[artificial intelligence in business]]></category>
+		<category><![CDATA[customer service]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/weekly-review-5-31-edition/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>Happy Friday! Here’s our picks for the best customer service, customer experience, bot and mobile articles of the week, in no particular order.</p>
+<h2><span id="more-7434"></span></h2>
+<h2><a href="http://www.cmswire.com/customer-experience/combine-ai-and-the-human-touch-for-exceptional-customer-service/">Combine AI and the Human Touch for Exceptional Customer Service</a>&#8211;<strong> by <a href="https://twitter.com/Chris_HGS">Chris Lord</a></strong></h2>
+<p>Customer service has evolved a lot in the past few decades. Support interactions used to be limited to just a phone call, but now customers can reach a company over email, social media and even text message. Self-service is an option to make customers’ lives easier, but it&#8217;s not a substitute for good customer service.</p>
+<h2></h2>
+<h2><strong>Au<a href="http://www.1to1media.com/view.aspx?docid=35796&amp;utm_content=title&amp;utm_source=1to1weekly&amp;utm_medium=email&amp;utm_campaign=05232016">tomate or Humanize</a>&#8211; by <a href="http://twitter.com/JudithAquino">Judith Aquino</a> </strong></h2>
+<p>As technology continues to advance, machines will be able to carry out a big number of tasks normally handled by humans. Businesses should really prioritize where robots are best used vs humans who have innovated solutions.</p>
+<h2><strong><a href="https://www.b2bmarketing.net/resources/blog/why-sms-your-most-powerful-b2b-marketing-tool">Why SMS is your most Powerful B2B Marketing Tool</a> by Roxanne Abercrombie </strong></h2>
+<p>It&#8217;s really pretty simple, SMS is the easiest and quickest way to get your information in front of your consumer. If you&#8217;re not using text messaging in your business you might be missing one of the most valuable tools in marketing.</p>
+<h2></h2>
+<h2 class="alpha tweet-title"><a href="http://Nearly 1 in 4 people abandon mobile apps after only one use">Nearly 1 in 4 people abandon mobile apps after only one use</a>&#8211; by <a href="https://twitter.com/sarahintampa">Sarah Perez </a></h2>
+<p class="alpha tweet-title">At OneReach, we’ve worked with many consumers who are in high demand for customer service via text messaging. As reseach shows, apps are expensive to drive adoption, not used much and deleted after one time use.</p>
+<h2><strong>To learn more about providing a great customer experience across channels, <a href="https://onereach.com/resources/omnichannel-seamless-experience">download our whitepaper here</a>. </strong></h2>
+<p>&nbsp;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/weekly-review-5-31-edition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>How to Write Automated Texts That Sound Human</title>
+		<link>https://onereach.ai/how-to-write-automated-texts-that-sound-human/</link>
+				<comments>https://onereach.ai/how-to-write-automated-texts-that-sound-human/#respond</comments>
+				<pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Automation]]></category>
+		<category><![CDATA[Best Practices]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/how-to-write-automated-texts-that-sound-human/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p><em>This post is co-written with Leslie O&#8217;Flahavan of <a href="http://www.ewriteonline.com/">E-WRITE</a>.</em></p>
+<p>If your customers have opted-in to receive texts from your company, they probably realize that some of your texts are going to be automated. They understand that sometimes texts from your company were sent by an automated system and that you don’t actually have a human employee, chained to a desk, hand-typing each appointment confirmation or loyalty program welcome message!</p>
+<p>However, even if your texts to customers are automated, they shouldn’t sound mechanical. Here are ten tips to help you write automated texts that sound human and build rapport with your customers.</p>
+<h2><span id="more-7430"></span><strong>1. Use familiar, conversational words. </strong></h2>
+<p>Text is closer to speech than any other written form of customer service, so choose words that you’d use if you were talking to a customer. This text from ZocDoc uses “info” and “Just remind,” which makes this text sound like it’s coming from a friendly company. (It also fits nicely within the 160 character limit).</p>
+<table>
+<tbody>
+<tr>
+<td width="300">&nbsp;</p>
+<p>Your info has been sent to your healthcare provider. Just remind the office that you completed your forms online thru ZocDoc! Problems? Reply “s” for support.</p>
+<p><strong> </strong></td>
+</tr>
+</tbody>
+</table>
+<h2><strong>2. Be concise</strong>.</h2>
+<p>Wordy texts read like form letters, and no customer thinks, “Oh, you wrote this form letter just for me?” Cut the word count and you’ll come across as more personal.</p>
+<p><strong>Original &#8211; Not concise </strong></p>
+<table>
+<tbody>
+<tr>
+<td width="300">&nbsp;</p>
+<p>AT&amp;T Free Msg: Welcome abroad! Our AT&amp;T Passport app is required to use in Wi-Fi in participating hotspots. If you have not already done so, please visit <a href="http://www.att.com/getpassportapp">www.att.com/getpassportapp</a> for iPhone, iPad or Android devices. Data charges may apply for download.</p>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Revised &#8211; Concise</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="300">&nbsp;</p>
+<p>AT&amp;T Free Msg: Welcome abroad! You’ll need our AT&amp;T Passport app to use Wi-Fi in participating hotspots. Please visit <a href="http://www.att.com/getpassportapp">www.att.com/getpassportapp</a> to download it on your iPhone, iPad or Android device. Data charges may apply.</p>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h2><strong>3. Give consistent instructions about how to text back</strong>.</h2>
+<p>You’re going to reuse those automated texts repeatedly, so write them right. Don’t explain the same task two different ways in the same text—you don’t want to confuse your customer.</p>
+<p><strong>Original &#8211; Confusing instructions about how to text back</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="300">&nbsp;</p>
+<p>Salon H20: Reply “C” to confirm Brenda’s appt on Fri, Dec 18 at 12:30 PM. If you have questions, call 301-774-7999. HELP = Help STOP = End msgs</p>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Revised – Consistent instructions</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="300">&nbsp;</p>
+<p>Salon H20: Reply C to confirm Brenda’s appt on Fri, Dec 18 at 12:30 PM. If you have questions, call 301-774-7999. Reply “help” for help or “stop” to end msgs</p>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h2><strong>4. Use feeling words</strong>.</h2>
+<p>One way to offset the automated quality of automated texts is to use words that indicate feelings. (Everyone knows robots don’t have feelings!) Words like “sorry,” “love,” and “happy” all evoke an emotional response in the reader.</p>
+<table>
+<tbody>
+<tr>
+<td width="300">&nbsp;</p>
+<p>A&amp;F: Sorry to see you go! You’ve been unsubscribed from texts. You will no longer receive messages. Contact 866-712-1032 or <u>http://bit.ly/WW3WWw</u> for more info.</p>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>While this automated text—from a presidential candidate whose name begins with an H—doesn’t use a word that names a feeling, such as “sorry,” it uses intense, connected words to build a feeling of connection, including, “at the heart,” and “you’re with me.”</p>
+<table>
+<tbody>
+<tr>
+<td width="300">&nbsp;</p>
+<p>To South Carolina, the volunteers at the heart of our campaign and the supporters who power it: thank you. If you’re with me, chip in now: <a href="http://hrc.ms/bb">http://hrc.ms/bb</a> &#8212; H</p>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h2><strong>5. Use personal pronouns</strong>.</h2>
+<p>If you want your automated texts to connect to your customer, use pronouns such as “we,” “you,” and “us.” Personal words make your texts sound, well, personal.</p>
+<p><strong>Original – Personal pronouns build the relationship</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="300">&nbsp;</p>
+<p>We noticed it’s your first time participating! FYI: Your phone number is completely private and we’ll never spam you.</p>
+<p>&#8212;</p>
+<p>Powered by <u>PollEverywhere.com</u></p>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Revised – Without personal pronouns, the text sounds cold</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="300">&nbsp;</p>
+<p>Thanks for participating for the first time! FYI: Phone numbers are kept completely private and <u>PollEverywhere.com</u> doesn’t send spam.</p>
+<p>&#8212;</p>
+<p>Powered by <u>PollEverywhere.com</u></p>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h2><strong>6. Consider using humor if it’s consistent with your brand.</strong></h2>
+<p>If your brand voice is light, hip, or irreverent, try humor in your automated texts. Don’t try humor if it gets in the way of your message, however. (Local governments texting citizens about severe weather, I’m talking to you.)</p>
+<table>
+<tbody>
+<tr>
+<td width="300">&nbsp;</p>
+<p>Breaking News! Your GrubHub order is being prepared. Our crystal ball estimates your delivery time <u>between 1:25 PM and 1:35 PM</u>.</p>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h2><strong>7. Use the conventions for writing text, not email</strong>.</h2>
+<p>Your automated texts to customers don’t need to resemble the other ways you write. In fact, they shouldn’t. Texts rarely use “From” to identify the sender, and they don’t need subject lines. The wording in this text makes the sender sound both automated and unaware of how texts are commonly written.</p>
+<table>
+<tbody>
+<tr>
+<td width="300">&nbsp;</p>
+<p>FROM: Headlines Hair Designers</p>
+<p>SUBJ: Appt Reminder</p>
+<p>MSG: Fri, Feb 12 3:00 pm – Female Hair Cut @ Headlines Hair Designers</p>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>The writing in this text has two other problems:</p>
+<ul>
+<li>“<strong>Female Hair Cut</strong>.” That’s just not what the customer would call it. She’d call it a haircut. She knows she’s female. If Headlines books a longer time for “female” haircuts than it does for “male” haircuts, that’s not information the customer needs to deal with. And the phrase “female hair cut” is just all kinds of wrong.</li>
+<li>“<strong>@ Headlines Hair Designers</strong>.” Avoid using the @ sign when you need to write “at.” It makes your text look like it includes a Twitter handle, which could be confusing.</li>
+</ul>
+<h2><strong>8. Avoid bureaucratic words</strong>.</h2>
+<p>Text is a casual customer service channel, even when automated. Don’t use words that make you sound like a lawyer (“ensure,” “advise,” etc.)</p>
+<p><strong>Original – Bureaucratic wording</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="300">&nbsp;</p>
+<p>SAFETY MESSAGE: Please ensure your phone is now switched off. Your cabin crew will advise when phones may be switched on again. Thank you for flying Emirates.</p>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Revised – Plain language</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="300">&nbsp;</p>
+<p>SAFETY MESSAGE: Please check to be sure your phone is now switched off. Your cabin crew will let you know when you may switch your phone on again. Thanks for flying Emirates!</p>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h2><strong>9. Avoid weird abbreviations and capitalizations</strong>.</h2>
+<p>Automated texts need to be short, given the fact that space is at a premium. However, don’t abbreviate things in a manner no one would recognize. What will most customers think the “S:” means in the flood warning text? Be as clear as possible.</p>
+<p><strong>Weird abbreviation</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="300">&nbsp;</p>
+<p>S: Alert Montgomery Flood Warning &#8211; The National Weather Service has issued a FLOOD WARNING for Montgomery County as of 6pm (2/24/16). Flash flooding of streams, creeks, and low-lying areas is occurring or imminent. Do not drive through flooded areas. Do not drive through flood barriers.</p>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>Most texts use sentence case (“You qualify for more minutes”), not title case (“You Qualify for More Minutes,”) because most texts are written in short sentences. There’s no reason to write “Msg &amp; Data Rates May Apply” in title case. It makes this text seem more robot-written than human-written.</p>
+<p><strong>Weird capitalization</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="300">&nbsp;</p>
+<p>AMC: Conf #123456789. 7 tickets to see Interstellar on 11/29/2016 at 3:25 PM <u>http://bit.ly/ABC1dEf</u>  Msg &amp; Data Rates May Apply</p>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>In the text below, the customer is probably wondering, “Why are you screaming at me?” and “Isn’t an LPN a Licensed Practical Nurse?” I’d write out “license plate” this time, or at least do “Plate #.”</p>
+<p><strong>Weird capitalization and abbreviation</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="300">&nbsp;</p>
+<p>PARKING SESSION DEACTIVATION REMINDER. Will deactivate: 9:59 PM. Activated: 3/20/2015 7:29 PM. Zone:12345 Space: n/a LPN: 2AB1234</p>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h2><strong>10. Paraphrase the customer’s question or need in the automated response</strong>.</h2>
+<p>The best way to show someone you’re listening (or reading) closely is to restate what he or she asked for or wanted to know. In live customer service, we paraphrase to confirm that we understood the customer’s request. In automated customer service, paraphrasing is only possible when you’re sending specific, not generic, responses.</p>
+<p>Though automated, this text comes across as genuine because the second sentence paraphrases the customer’s question or need.</p>
+<table>
+<tbody>
+<tr>
+<td width="300">&nbsp;</p>
+<p>Thanks for contacting Evanston 311. Please reply with the name of a restaurant that you are interested in seeing a health score for.</p>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h2><strong>Conclusion</strong></h2>
+<p>So, to wrap up, even if you’re sending automated texts you should write them in a personal, friendly, connected style. Every text to a customer represents a chance to build a relationship.</p>
+<p><strong>To learn what or what not to do when adding texting to your business, <a href="https://onereach.com/resources/10-things-about-text">download the whitepaper here</a>.</strong></p>
+<p>Image of <a href="https://pixabay.com/en/business-technology-cell-phone-690675/">business texting</a> courtesy of Pixabay. CC0 License.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/how-to-write-automated-texts-that-sound-human/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>5 Reasons Why Your Customer Service Should Include Chatbots</title>
+		<link>https://onereach.ai/5-reasons-why-your-customer-service-should-include-chatbots/</link>
+				<comments>https://onereach.ai/5-reasons-why-your-customer-service-should-include-chatbots/#respond</comments>
+				<pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Automation]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Communication]]></category>
+		<category><![CDATA[Customer Service]]></category>
+		<category><![CDATA[Live Chat]]></category>
+		<category><![CDATA[Self-Service]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/5-reasons-why-your-customer-service-should-include-chatbots/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>It’s an exciting time to be involved the customer service and communications space. There are more ways to interact with a brand than ever before (email, Twitter, even Snapchat), but one of the most new and exciting advancements is chatbots.</p>
+<p><span id="more-7420"></span>In a recent article, The Guardian described chatbots as:</p>
+<blockquote><p>“Chat bots are computer programs that mimic conversation with people using artificial intelligence. They can transform the way you interact with the internet from a series of self-initiated tasks to a quasi-conversation.”</p></blockquote>
+<p>In the customer service space, chatbots are using the growing power of artificial intelligence to allow customers to interact with a brand as they would with a customer service representative. However, there are some marked benefits to managing conversations with chatbots. Read on to find out why.</p>
+<h2><strong>Chatbots are where the market is trending. </strong></h2>
+<p>Last year, Uber’s director of experience Chris Messina wrote a post hailing the rise of something he called <a href="https://medium.com/chris-messina/2016-will-be-the-year-of-conversational-commerce-1586e85e3991#.jzhm93htd">conversational commerce</a>. He described it as:</p>
+<blockquote><p>“Utilizing chat, messaging, or other natural language interfaces (i.e. voice) to interact with people, brands, or services and bots that heretofore have had no real place in the bidirectional, asynchronous messaging context.”</p></blockquote>
+<p>His vision of conversational commerce has come to fruition this year with the exciting and not unrelated rise of bots. Messaging platforms like Facebook Messenger and Kik recently doubled down on chatbots, rolling out their own bot stores where developers can go in and code their own conversational chatbots.</p>
+<p>While initial reaction to the chatbots has been somewhat lukewarm (their ability to handle natural language leaves something to be desired), we have to remember we’re just at the beginning of a very exciting evolution of B2C communications. In fact, Gartner made a prediction a few years back that by 2020, <a href="http://mktimages.gartner.com/pv_obj_cache/pv_obj_id_92DB197B681D1A1003F701CB30B626FF3B111B00/filename/brochure_crm_2011.pdf">85% of customer interactions</a> would be managed without a human. The rise of chatbots dovetails nicely into this prediction.</p>
+<h2><strong>Customers are open to the idea of chatbots.</strong></h2>
+<p>While there’s still something to be said for a human touch in customer service, research has shown that 40% of <a href="http://www.slideshare.net/stevenvanbelleghem/the-self-serving-economy">customers prefer self-service</a>. In addition, Zendesk found that <a href="http://cdn.zendesk.com/resources/whitepapers/Omnichannel-Customer-Service-Gap.pdf">over 50% of customers</a> think it’s important that they can solve their problems themselves without having to rely on customer service agents.</p>
+<p>Customers are also interested in interacting with your business over messaging (and already are). <a href="https://onereach.com/resources/high-demand-for-text-message-2014-report">A study</a> conducted by Harris Poll and commissioned by OneReach found that 64% of customers would rather text than call your business, and insights released during the <a href="http://www.edelman.com/83621/2016/04/15/facebook-messenger-for-business-brands-chatbots/">recent F8 Conference</a> showed that more than one billion messages are sent to businesses each month.</p>
+<p>Combine the two approaches (self-service and texting/messaging) and you arrive at chatbots. Chatbots leverage a channel that customers are already using (texting/messaging) and blend it with their desire for a self-service experience.</p>
+<h2><strong>Chatbots are cheaper and faster than live agents.</strong></h2>
+<p>We’ve talked before about how much cheaper an automated interaction is compared to a live agent interaction (25 cents vs. $6-20). But in addition to being cheaper than live agents, chatbots are also an efficient way to deliver customer service—customers can type in their question and get a response back almost immediately based on pre-programmed logic.</p>
+<p>For instance, I recently tried out Spring, one of the first Facebook Messenger bots to go public. It asked me if I wanted women’s or men’s items, then asked what kind of clothing I was looking for, all in rapid succession. Soon I was scrolling through results quickly and easily.<img class="aligncenter wp-image-2601 size-medium" src="http://onereach.ai/wp-content/uploads/2019/07/chatbots2-250x300.png" alt="chatbots2" width="250" height="300" /></p>
+<p>Just like with Spring, most people will and are using chatbots for simple requests (getting a ride via Uber, ordering flowers, etc.), but sometimes customers may have more complex queries than the bot can understand. Going back to the Spring example, I found a cardigan I liked (it’s still kind of chilly in Denver, okay?) but wanted to know if they had it in a different color. When I asked the chatbot if they had it in white, the bot kindly told me they’d get back to me soon with an answer.<br />
+<img class="wp-image-2600 size-medium aligncenter" src="http://onereach.ai/wp-content/uploads/2019/07/chatbots-250x300.png" alt="chatbots" width="250" height="300" /></p>
+<p>By pivoting to a conversation with a live agent from within the bot conversation, you can ensure that every customer has a great experience.</p>
+<h2><strong>Chatbots can incorporate visual media.</strong></h2>
+<p>Humans are very visual creatures—in fact, <a href="http://info.shiftelearning.com/blog/bid/350326/Studies-Confirm-the-Power-of-Visuals-in-eLearning">we process images 60,000 times faster</a> than we do text. Images are a quick and easy way to communicate information, so that’s why it’s great that chatbots can incorporate rich media like picture and GIFs into conversation. While chatbots primarily communicate through text, images can help chatbots seem more human or showcase a product that’s easier to display than describe.</p>
+<p>When I was talking with the Spring bot, once I had determined what types of products I was looking for, it pulled up a few options that I could click on and expand to get more information. There was also the option to add in images and GIFs on my end, and while the chatbot itself didn’t add in an image, I think it could have benefitted the interaction quite a bit and made it seem a little more human.</p>
+<h2><strong>It’s almost indistinguishable from a human (when written correctly).</strong></h2>
+<p>Your worst fear about chatbots might be that they deliver a clunky, robotic user experience (or, on a more existential level, that they’re coming for all of us and our jobs). However, bots can actually deliver a really seamless, natural human experience when written correctly.</p>
+<p>It really depends on what your brand’s voice is, though. If you’re a more informal brand, using slang and casual language (“like,” “love,” etc.) and referring to your brand as “we” or “I” will work well. If you’re a more formal brand, referring to yourself in third person and dropping the slang is probably a better bet.</p>
+<p>Spring was more informal, so when the chatbot greeted me with “Hey there!” and referred to itself as “We,” it sounded pretty similar to a human. I almost couldn’t tell the difference between the bot’s responses (left) and the human’s responses (right) when they stepped in.<br />
+<img class="size-large wp-image-2607 aligncenter" src="http://onereach.ai/wp-content/uploads/2019/07/chatbots5-546x308.png" alt="chatbots" width="546" height="308" /></p>
+<h2><strong>Conclusion</strong></h2>
+<p>Brands are increasingly receptive to using chatbots in their B2C communications. While we’ll have to wait a little bit to see how the chatbot wave plays out over the next few months, early responses and clear benefits just might indicate the rise of chatbots in customer service.</p>
+<p><strong>To learn more about providing a great experience across channels, <a href="https://onereach.com/resources/omnichannel-seamless-experience">download our whitepaper here</a>.</strong></p>
+<p>Image of <a href="https://www.pexels.com/photo/smartphone-technology-typing-person-7395/">person typing</a> courtesy of Pexels. CC0 License.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/5-reasons-why-your-customer-service-should-include-chatbots/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Why Texting Is Great for Medical Appointment Reminders and Medication Adherence</title>
+		<link>https://onereach.ai/why-texting-is-great-for-medical-appointment-reminders-and-medication-adherence/</link>
+				<comments>https://onereach.ai/why-texting-is-great-for-medical-appointment-reminders-and-medication-adherence/#respond</comments>
+				<pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Automation]]></category>
+		<category><![CDATA[Healthcare]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/why-texting-is-great-for-medical-appointment-reminders-and-medication-adherence/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>I recently got an appointment reminder from my eye doctor asking me to confirm my appointment over text messaging (see below).</p>
+<p><span id="more-7417"></span></p>
+<p><img class="aligncenter wp-image-2593 size-medium" src="http://onereach.ai/wp-content/uploads/2019/07/texting-medical-appointment-reminders-250x300.png" alt="texting medical appointment reminders" width="250" height="300" /></p>
+<p>It was quick and easy to confirm my appointment—all I had to do was type “C” and that was that. (It was also a great way for me to remember that I had an appointment!)</p>
+<p>But texting medical appointment reminders didn’t just help me—it’s helped a lot of other patients. In fact, science shows that texting medical appointment reminders is a great way to reduce the no-show rate.</p>
+<h2><strong>Texting for medical appointment reminders</strong></h2>
+<p>As we’ve discussed before, text messages have a 98% open rate and a 45% response rate. This makes them an ideal channel for patient communication, since you want to make sure patients are attending the appointments they need to and communicating their availability back to you. In fact, research has shown that <a href="http://www.sciencedirect.com/science/article/pii/S165836121300084X">no-show rates</a> can range from 5.4% to 50.2% in hospital outpatient clinics.</p>
+<p>Several studies have demonstrated the power of texting for medical appointment reminders:</p>
+<ul>
+<li>A study published in the Journal of Taibah University Medical Sciences found that <a href="http://www.sciencedirect.com/science/article/pii/S165836121300084X">nonattendance rates</a> at general medicine and neurology clinics were “significantly lower” compared to the control groups that didn’t receive appointment reminders.</li>
+<li>A study published in the International Journal of Medical Informatics found that <a href="http://www.sciencedirect.com/science/article/pii/S1386505609001336">nonattendance reduction rates</a> for outpatient clinics were as high as 14% for groups that received an appointment reminder.</li>
+<li>A literature review in the Journal of Telemedicine and Telecare found that <a href="http://jtt.sagepub.com/content/17/7/358.full">did not attend (DNA) rates</a> improved 39% when messages were sent manually, and 29% when messages were sent using automation.</li>
+</ul>
+<p>Texting is a great way to reduce no-show rates, given its familiarity, ease of use and high open rate. But in addition to being used for medical appointment reminders, texting can also be used for medication adherence.</p>
+<h2><strong>Texting for medication adherence</strong></h2>
+<p>Taking medicine on a consistent basis is an important part of most healthcare regimens. However, research has shown that <a href="http://archinte.jamanetwork.com/article.aspx?articleid=2484905">medication adherence is often poor</a> for people with chronic diseases, <a href="http://www.medscape.com/viewarticle/838328">affecting 50 to 60% of patients</a>. This <a href="http://archinte.jamanetwork.com/article.aspx?articleid=2484905">poor medication adherence</a> costs patients about $2,000 a year for extra visits to the doctor, and causes a $100 billion increase in healthcare costs in North America every year.</p>
+<p>Texting’s high open rate and response rate, as well as <a href="http://onereach.com/resources/mobile-strategy-infographic">its low cost compared to mobile apps</a>, makes it a great medication adherence tool. One study found that 93% of participants in <a href="http://www.medscape.com/viewarticle/838328_4">medical adherence studies</a> read messages reminding them to take their medicine. In addition, studies have actually documented the power of SMS and how it improves medication adherence. Check out a few summaries below:</p>
+<ul>
+<li>A study published in the Journal of the American Medical Association, Internal Medicine found that <a href="http://archinte.jamanetwork.com/article.aspx?articleid=2484905">texting doubles the odds of medication adherence</a> in patients with chronic diseases. The study was conducted in 16 clinical trials—five of the 16 trials used personalization, eight of the trials used two-way communication, and eight of them sent daily text messages.</li>
+<li>Another study published in the Journal of the American Medical Association, Internal Medicine tested <a href="http://archinte.jamanetwork.com/article.aspx?articleid=2495276">how text messaging impacted smoking cessation</a> between participants around 21 to 30 years old. The participants in the intervention group received 157 texts over 12 weeks, while the control group only received one text every two weeks. Over 25% of intervention group participants had abstained from smoking eight weeks later, while only 14.6% in the control group did.</li>
+<li>A study published in the Journal of the American Medical Informatics Association found that text reminders, electronic reminder devices and pager notifications for patients with various medical conditions helped improve their medication adherence. <a href="http://www.medscape.com/viewarticle/762754">Reminders sent over text message</a> were “especially effective,” according to the researchers.</li>
+<li>In a medical literature review, researchers found that in one study, patients who received medication reminders and educational messages strongly agreed that <a href="http://www.medscape.com/viewarticle/838328_3">text message reminders helped them take their medication</a>.</li>
+<li>One study published in the British Journal of Health Psychology tested the effectiveness of personalized asthma preventer <a href="https://www.researchgate.net/profile/John_Weinman/publication/51820766_A_text_message_programme_designed_to_modify_patients_illness_and_treatment_beliefs_improves_self-reported_adherence_to_asthma_preventer/links/54e5c9d80cf2bff5a4f1c53e.pdf">medication reminders</a> over a sixth month period. They found that average self-reported adherence over all time points for the intervention group was 57.8%, compared to 43.2% for the control group.</li>
+</ul>
+<p>Using text messaging for medication adherence can help <a href="http://www.fiercemobilehealthcare.com/story/smartphone-interventions-help-copd-patients-avoid-hospital-readmissions/2015-10-12">keep patients out of the hospital</a> after their treatment, as well as help patients <a href="http://www.fiercemobilehealthcare.com/story/health-system-uses-mhealth-sustain-dialogue-patients-reduce-readmissions/2015-11-25">maintain an active healthcare regimen</a> after being in the hospital.</p>
+<h2><strong>Conclusion</strong></h2>
+<p>In today’s busy world, it can be hard for patients to remember to go to an appointment or take their medicine on time. Practices that leverage the power of text messaging to communicate with their patients will be able to provide a great patient experience and meet their business goals.</p>
+<p><strong>To learn more about adding texting to your business, <a href="http://onereach.com/resources/10-things-about-text">download our whitepaper here</a>.</strong></p>
+<p>Image of<a href="https://stocksnap.io/photo/RAW1RLRTM7"> stethoscope</a> courtesy of StockSnap. CC0 License.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/why-texting-is-great-for-medical-appointment-reminders-and-medication-adherence/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>7 Reasons Why Texting Is Great for Customer Service [SLIDESHARE]</title>
+		<link>https://onereach.ai/7-reasons-why-texting-is-great-for-customer-service-slideshare/</link>
+				<comments>https://onereach.ai/7-reasons-why-texting-is-great-for-customer-service-slideshare/#respond</comments>
+				<pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Customer Experience]]></category>
+		<category><![CDATA[Customer Service]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/7-reasons-why-texting-is-great-for-customer-service-slideshare/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>At OneReach, we&#8217;ve long been supporters of texting for customer service. There are a few key reasons why.</p>
+<p><span id="more-7416"></span></p>
+<ol>
+<li>Texting is used by 97% of Americans.</li>
+<li>There are 500 million tweets sent each day, compared to 23 billion texts.</li>
+<li>Research has found that 64% of customers would prefer to text your business.</li>
+<li>Texting is the highest rated channel in terms of customer satisfaction.</li>
+<li>Texting has a 98% open rate and 45% response rate.</li>
+<li>Texting converts expensive phone conversations into affordable automated interactions.</li>
+<li>Almost 40% of contact centers are already using text messaging, and 60% will use it by 2017.</li>
+</ol>
+<p>Check out the Slideshare below to learn why texting is a great fit for customer service.</p>
+<p><iframe title="7 Reasons Why Texting Is Great for Customer Service " src="https://www.slideshare.net/slideshow/embed_code/key/xv6Z07dplEDtCD" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> </p>
+<div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/onereach_content/7-reasons-why-texting-is-great-for-customer-service-60830270" title="7 Reasons Why Texting Is Great for Customer Service " target="_blank">7 Reasons Why Texting Is Great for Customer Service </a> </strong> from <strong><a href="https://www.slideshare.net/onereach_content" target="_blank">OneReach </a></strong> </div>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/7-reasons-why-texting-is-great-for-customer-service-slideshare/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>The Perfect Tool(s) for Joining the SMS Bot Gold Rush</title>
+		<link>https://onereach.ai/the-perfect-tools-for-joining-the-sms-bot-gold-rush/</link>
+				<comments>https://onereach.ai/the-perfect-tools-for-joining-the-sms-bot-gold-rush/#respond</comments>
+				<pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Automation]]></category>
+		<category><![CDATA[Big Ideas]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Mobile Payments]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/the-perfect-tools-for-joining-the-sms-bot-gold-rush/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>Through the history of the Internet, we’ve seen a bots of all flavors (scrapers, viruses, worms), all often giving bots a bad name. They’re small bits of code that can carry out a host of malicious actions&#8211;stealing web content, screwing up web analytics, and encouraging click fraud.</p>
+<p><span style="font-weight: 400;">This all sounds pretty dire, but more recently, the concept of bots has been harnessed for more and more good. And one of its new and improved forms is  conversational SMS bots.</span><span id="more-7406"></span></p>
+<p><span style="font-weight: 400;">But what precipitated their rise? Well, there’s a whole movement spawning from the concept that “You don’t need an app for that.”  Back in 2013, South African technology writer and TED speaker Toby Shapshak </span><a href="https://www.ted.com/talks/toby_shapshak_you_don_t_need_an_app_for_that?language=en"><span style="font-weight: 400;">gave a talk</span></a><span style="font-weight: 400;"> extolling the virtues of mobile, calling it “the gold of today,” and highlighting how Africans are using SMS in particular to innovate and solve problems. </span></p>
+<p><span style="font-weight: 400;">Want to learn how to get the most milk from your cow? Join iCow’s texting program. Want to use SMS for mobile commerce? Try M-PESA. It’s so powerful, in fact, that as Shapshak explains:</span></p>
+<blockquote><p><span style="font-weight: 400;">“Something like 25 million dollars a day is transacted through M-Pesa. Forty percent of Kenya&#8217;s GDP moves through M-Pesa using [feature phones].”</span></p></blockquote>
+<p><span style="font-weight: 400;">It seems like now the U.S. is finally catching up with Africa on the use of SMS for business, putting its own Silicon Valley, bot-powered spin on things. </span><a href="http://techcrunch.com/2016/01/06/assist-bot/"><span style="font-weight: 400;">TechCrunch</span></a><span style="font-weight: 400;"> even cited 2016 as the year of the chat bot, citing conversational SMS bot </span><a href="http://www.assi.st/"><span style="font-weight: 400;">Assist</span></a><span style="font-weight: 400;">. Assist lets you text in for a variety of different tasks&#8211;getting a ride, sending flowers, ordering food, etc. It seems simple enough, but this company has taken Silicon Valley by storm, drawing in over </span><a href="http://techcrunch.com/2016/01/06/assist-bot/"><span style="font-weight: 400;">$5.5 million</span></a><span style="font-weight: 400;"> in seed funding.</span></p>
+<p><span style="font-weight: 400;">So, similar to during the great American gold rush, if you’re going jump on this wave and contribute an awesome conversational SMS bot to the business world or to consumers, you’ll need the right tools. Maybe you can code and have time, or maybe you can code but don’t have time. More likely, you’re part of the majority that can’t code and doesn’t have time. Either way, here’s an off-the shelf tool that will make your SMS-bot-dreams suddenly more real. </span><i><span style="font-weight: 400;">Wait, “SMS bot-dreams”? Did we just make up a new term?</span></i></p>
+<p><span style="font-weight: 400;">OneReach has  created the perfect tool for this important moment, wherein the world is harnessing bots for good &#8211; conversational bots that help businesses and consumers to get what they need.</span> <span style="font-weight: 400;">We’ve created software that makes it easy, fast and affordable for anyone to create conversational phone or SMS bots that can do almost anything &#8211; it all comes down to what you program them to do. And the best part is that no coding is required and it’s all automatically reportable (sounds like a lie, I know). So when I say anyone can create their own conversational SMS or voice app, I really mean it. </span></p>
+<p><span style="font-weight: 400;">Bots are hot and they’re  where the communication conversation is heading this year. Whether you’re replacing a mobile app with clever automated SMS, or putting automated (or live) SMS concierge service in place for a boutique hotel, OneReach just made it way easier to create your SMS bot.</span></p>
+<p><span style="font-weight: 400;">If you’ve got “SMS bot dreams” &#8211; simple or complex &#8211; I’d love to take on the challenge of seeing how easy OneReach makes it to bring your vision to life.</span></p>
+<p><strong>To learn more about adding texting to your business, <a href="http://onereach.com/resources/10-things-about-text">download our whitepaper here</a>.</strong></p>
+<p>Image of gold iPhone courtesy of <a href="https://picjumbo.com/iphone-5s-backside/">Picjumbo</a>. CC0 License. Edited</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/the-perfect-tools-for-joining-the-sms-bot-gold-rush/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

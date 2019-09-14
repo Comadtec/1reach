@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mobile Payments &#8211; OneReach.ai</title>
+	<atom:link href="https://onereach.ai/category/mobile/mobile-payments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://onereach.ai</link>
+	<description>Intelligently Automate Your Company</description>
+	<lastBuildDate>Fri, 26 Jul 2019 11:39:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://onereach.ai/wp-content/uploads/2018/04/cropped-OR-ICON-GOLD-W-DOTS-Larger-Background-02-32x32.png</url>
+	<title>Mobile Payments &#8211; OneReach.ai</title>
+	<link>https://onereach.ai</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>You Don&#8217;t Need An App for That</title>
+		<link>https://onereach.ai/you-dont-need-an-app-for-that/</link>
+				<comments>https://onereach.ai/you-dont-need-an-app-for-that/#respond</comments>
+				<pubDate>Tue, 21 Feb 2017 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Automation]]></category>
+		<category><![CDATA[Benefits]]></category>
+		<category><![CDATA[Big Ideas]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Communication]]></category>
+		<category><![CDATA[ITR]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Mobile Payments]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/you-dont-need-an-app-for-that/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p><span style="font-weight: 400;">In July of 2013 Toby Shapshak, the South African speaker, strategist and editor of Stuff Magazine, did a TED talk called </span><a href="https://www.ted.com/talks/toby_shapshak_you_don_t_need_an_app_for_that?language=en"><span style="font-weight: 400;">You Don’t Need An App For That</span></a><span style="font-weight: 400;">. Business leaders, innovators and experience designers would soon realize how profound this TED talk was to the rest of the world. Shapshak’s astute observations and message to the rest of the world was years ahead of a revolution that Forbes would call </span><a href="http://www.forbes.com/sites/parmyolson/2016/02/23/chat-bots-facebook-telegram-wechat/#5c9ad9142633"><span style="font-weight: 400;">“the new way we’ll be interacting with computers.”</span></a></p>
+<p><span style="font-weight: 400;">Toby’s 2013 Ted talk touted that “while the rest of the world is updating statuses and playing games on smartphones, Africa is developing useful SMS-based solutions to everyday needs”. Since 2013 his TED talk has been viewed 1,438,046 times as of July 19, 2016.</span></p>
+<p><span style="font-weight: 400;">Fast forward a couple of years and we see more apps than anyone knows what to do with, as well as a notable decrease in</span><a href="http://onereach.com/blog/infographic-mobile-apps-vs-text-messaging/"><span style="font-weight: 400;"> usage and app-downloads</span></a><span style="font-weight: 400;">. This has businesses confused and frustrated. Meanwhile, around the world, messaging (SMS and the ever-encroaching uptake of IP messaging &#8211; Facebook Messenger, Spark, Slack, Kik, SnapChat, etc) is by far the most used function or app on mobile phones &#8211; smart phone or not.</span></p>
+<p><span style="font-weight: 400;">2016 brought a wave of new businesses and products that fall into the category of </span><a href="http://onereach.com/blog/why-your-business-needs-a-bot/"><span style="font-weight: 400;">bots</span></a><span style="font-weight: 400;">; chat bots, messaging-bots, </span><a href="http://uxmag.com/articles/humans-ai-and-the-user-interface-of-the-future"><span style="font-weight: 400;">conversational-bots</span></a><span style="font-weight: 400;">, “invisible apps” or &#8220;conversational commerce”. Messaging-bots are popping up for everything, increasingly displacing mobile-apps. New bots are being brought to life daily by startups and household brands alike. Whether the experiences are where they need to be or not, bots existing today which allow you to order a </span><a href="http://onereach.com/blog/i-tried-ordering-dominos-over-text-message-and-it-was-a-total-disaster/"><span style="font-weight: 400;">pizza</span></a><span style="font-weight: 400;">, make a payment, read the </span><a href="http://money.cnn.com/2016/08/04/media/new-york-times-text-message/"><span style="font-weight: 400;">news</span></a><span style="font-weight: 400;">, be reminded of an appointment or even make an appointment. Even </span><a href="http://onereach.com/blog/cities-offer-text-311/"><span style="font-weight: 400;">city and county municipalities</span></a><span style="font-weight: 400;"> are seeing the value, for example, Washington DC uses a </span><a href="https://onereach.com/bots/#dc"><span style="font-weight: 400;">bot for their 311</span></a><span style="font-weight: 400;">-public services hotline. </span></p>
+<p><span style="font-weight: 400;">Silicon Valley and other capital ventures hubs around the world have already backed several startups that leverage, if not rely entirely on, bots. Benedict Evans, Partner at the Venture Capital Firm, </span><span style="font-weight: 400;">Andreessen Horowitz (&#8216;</span><a href="http://www.a16z.com/"><span style="font-weight: 400;">a16z</span></a><span style="font-weight: 400;">&#8216;) </span><span style="font-weight: 400;">tweeted &#8220;I genuinely can&#8217;t remember the last time a concept blew up as quickly as bots&#8221;.</span></p>
+<p><span style="font-weight: 400;">For years, I’ve been part of a business that, like Toby Shapshak, was ahead of the “bot” curve that’s now consuming the business and customer experience worlds. Expedia, Bosch, DHL, Unilever, Stella Artois, HomeAdvisor, The National Domestic Violence Hotline, Red Cross and many others use </span><a href="http://t.yesware.com/tt/40cc1fc6e25c0e6b6c473b6e5d7078c28afa0f2a/489eb37184cda59ba3c43d567cdd0d3e/ac7788ed6176abd000e4ebc066e9c752/l.gbtrck.com/1ab15380-e2b7-425a-9ad9-959cef88b9b1"><span style="font-weight: 400;">OneReach</span></a><span style="font-weight: 400;"> to create (and manage) self-service messaging bots and live communications with their customers. The most popular use-cases include live and automated customer support, proactive order status notifications or order updates, payments/purchasing and text or chat-enabled IVRs (now called chat-bots). Who’d have thought that a bot could reduce 40% of a major brand’s customer support costs, increase revenue by 30% or boost NPS scores?</span></p>
+<p><span style="font-weight: 400;">Toby Shapshak seems to have been the oracle that foretold one of the most prolific changes in how consumers and businesses communicate and do commerce. He suggested that bots are “effectively an intersection of the most basic and sophisticated communication. It&#8217;s remarkable that the very rich (in the developed world) and poor (in the developing world) have effectively ended up in the same place (both using bots)”</span></p>
+<p><span style="font-weight: 400;">Years have past since his Ted Talk and we thought it would be valuable to see what Toby thinks of today’s climate and where things go from here. </span></p>
+<h2><b>Our interview with Toby Shapshak</b></h2>
+<p><b>Elias: </b><i><span style="font-weight: 400;">Messenger Bots are impacting the everyday life and habits of consumers &#8211; in commerce, purchasing, managing one’s time, getting news and so on. You’ve been watching the impact of messenger bots in Africa for sometime. With this in mind, what perspective would you offer to business leaders and experience-designers on the impact that messenger bots have on consumer habits &#8211; in commerce and purchasing or donations, customer support, managing one’s time, getting news and so on?</span></i></p>
+<p><b>Toby:</b><span style="font-weight: 400;"> Business leaders and UX designers should be aware of how chatbots can have an impact on consumer habits; both positively and negatively.</span></p>
+<p><span style="font-weight: 400;">For the youth of the world, who have grown up using chat, it&#8217;s a logical extension to communicate through this channel, ask questions, even make purchases. Pew Research found that American teenagers were only using email to communicate with &#8220;authority figures&#8221; &#8211; adults, parents and teachers. Now chatting is so dominant that WhatsApp has over a 1 billion users and Facebook Messenger has some 800 million users and 50 million businesses. WeChat has some 800 million users, mostly in China, and has been using bots in a very sophisticated way for a lot longer. Wechat is the future of chatting mingled with commerce. </span></p>
+<p><span style="font-weight: 400;">The great thing about SMS &#8211; which is arguably the greatest communication medium the world has ever seen; and the most expensive &#8211; is that it works on every single cellphone, no matter how sophisticated. The other key thing is SMS has a 100% read rate &#8211; even the spam.</span></p>
+<p><span style="font-weight: 400;">In this context, doing new things like search or shopping via messaging/chat seems obvious to a generation of youngsters that prefer chat to email or anything else. Chat is cheaper and it&#8217;s a paradigm that people understand. It also doesn&#8217;t have a learning curve, the way that conventional apps do. </span></p>
+<p><b>Elias: </b><i><span style="font-weight: 400;">In 2013 you commented that &#8220;while the rest of the world is updating statuses and playing games on smartphones, Africa is developing useful SMS-based solutions to everyday needs”. Is the current wave of messenger bots solving real problems or this just the new version of &#8220;updating statuses and playing games on smartphones”?</span></i></p>
+<p><b>Toby: </b><span style="font-weight: 400;">Right now, a lot of chatbots seem like a nice-to-have. Give them some maturity and we&#8217;ll see if they are a flash-in-the-pan hype or something that will be continuingly useful.</span></p>
+<p><b>Elias: </b><i><span style="font-weight: 400;">Is the rest of the world catching up or is Africa still ahead and in what ways? What has the rest of the world yet to learn still from African innovation?</span></i></p>
+<p><b>Toby: </b><span style="font-weight: 400;">Africa is forced to innovate the way it does because there are no other alternatives. it&#8217;s the purest form of innovation out of necessity. More people in Africa have access to a cellphone than to electricity. Because of this there are brilliant power solutions, including solar-power systems like M-Kopa. If you have a pressing problem, it&#8217;s the best incentive in the world to solve it. If you have electricity, what are you likely to do? Watch TV or YouTube. it&#8217;s sadly that simple.</span></p>
+<p><b>Elias: </b><i><span style="font-weight: 400;">What are your predictions for where messaging and bots go next, in Africa and elsewhere?</span></i></p>
+<p><b>Toby: </b><span style="font-weight: 400;">The sky really is the limit, isn&#8217;t it. Text-based services are revolutionary in Africa, offering everything from Google search via SMS to important health information via South Africa&#8217;s mHealth initiatives. </span></p>
+<p><span style="font-weight: 400;">Kevin Kelly, the founding executive editor of Wired magazine, said some very interesting things at SXSW this year about how artificial intelligence will become part of our lives. Right now, he says, “it&#8217;s like the early days of cloud computing, but it will ultimately be as sophisticated a service as cloud-based offerings are now”. He called it &#8220;intelligence as a services&#8221;. “Like electricity, which you now buy in what we now call an on-demand model”, Kelly says &#8220;you won’t have to make your AI, you will just purchase it. It will flow like electricity from the grid to wherever you want it. &#8221; He says: &#8220;Artificial intelligence will soon be a commodity&#8221;. AI services at low cost will spur the chatbot industry and make offerings increasingly sophisticated. </span></p>
+<p><span style="font-weight: 400;">There is also the network effect to consider. Part of the reason Google&#8217;s search algorithms are so fast &#8211; and can predict or suggest answers so quickly &#8211; is because of the volume of search queries it has already performed. This inventory of queries and searches mean there is a greater volume of info to reference. As the volume of chatbot data increases, they will also become more effective.</span></p>
+<h2><b>Reflection &amp; Looking Forward</b></h2>
+<p><span style="font-weight: 400;">In reflecting on Toby Shapshak’s 2013 Ted Talk it’s evident that he saw something revolutionary emerging amidst the noise in the world of experience design, business and technology. </span></p>
+<p><span style="font-weight: 400;">Similar to the concept of hindsight being 20/20, until 2016 the business world largely ignored the opportunity to leverage the most ubiquitous communication channels in the world (text messaging and IP messaging) for customer support. </span></p>
+<p><a href="http://www.edn.com/electronics-blogs/edn-moments/4402146/1st-text-message-is-sent--December-3--1992"><span style="font-weight: 400;">The first text message was sent in 1992</span></a><span style="font-weight: 400;"> and </span><a href="https://en.wikipedia.org/wiki/Text_messaging"><span style="font-weight: 400;">by 2007 </span><span style="font-weight: 400;">74% of all mobile phone users worldwide</span><span style="font-weight: 400;"> used text messaging</span></a><span style="font-weight: 400;">. It took the western business world roughly another 10 years to accept the notion that just maybe they should consider communicating with their customers over the single most prefered communication channel in the world &#8211; SMS. </span></p>
+<p><span style="font-weight: 400;">For the last 6 years at </span><a href="http://www.onereach.com"><span style="font-weight: 400;">OneReach,</span></a><span style="font-weight: 400;"> I’ve been lucky enough to see startups and huge international brands alike use our tools to easily create and iterate on fully reportable and integrated bots. It’s been 3 years since Toby Shapshak’s TED talk and it’s great to finally see so many companies designing for the channels consumers actually prefer (messaging). </span></p>
+<p><span style="font-weight: 400;">Now that we’re here, let’s not be foolish enough to think that leveraging chat bots to drive business impact is any easier because the interface is an ‘old’ technology. The businesses world learned that building any old mobile app really isn’t all that hard. Similar to mobile apps, the success of a today’s chat bots will not be defined by whether or not your company offers chatbots. Success will rest on whether or not your chatbot experiences achieve desired outcomes for your business while being meaningful to your customer.</span></p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/you-dont-need-an-app-for-that/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>The Perfect Tool(s) for Joining the SMS Bot Gold Rush</title>
+		<link>https://onereach.ai/the-perfect-tools-for-joining-the-sms-bot-gold-rush/</link>
+				<comments>https://onereach.ai/the-perfect-tools-for-joining-the-sms-bot-gold-rush/#respond</comments>
+				<pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Automation]]></category>
+		<category><![CDATA[Big Ideas]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Mobile Payments]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/the-perfect-tools-for-joining-the-sms-bot-gold-rush/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>Through the history of the Internet, we’ve seen a bots of all flavors (scrapers, viruses, worms), all often giving bots a bad name. They’re small bits of code that can carry out a host of malicious actions&#8211;stealing web content, screwing up web analytics, and encouraging click fraud.</p>
+<p><span style="font-weight: 400;">This all sounds pretty dire, but more recently, the concept of bots has been harnessed for more and more good. And one of its new and improved forms is  conversational SMS bots.</span><span id="more-7406"></span></p>
+<p><span style="font-weight: 400;">But what precipitated their rise? Well, there’s a whole movement spawning from the concept that “You don’t need an app for that.”  Back in 2013, South African technology writer and TED speaker Toby Shapshak </span><a href="https://www.ted.com/talks/toby_shapshak_you_don_t_need_an_app_for_that?language=en"><span style="font-weight: 400;">gave a talk</span></a><span style="font-weight: 400;"> extolling the virtues of mobile, calling it “the gold of today,” and highlighting how Africans are using SMS in particular to innovate and solve problems. </span></p>
+<p><span style="font-weight: 400;">Want to learn how to get the most milk from your cow? Join iCow’s texting program. Want to use SMS for mobile commerce? Try M-PESA. It’s so powerful, in fact, that as Shapshak explains:</span></p>
+<blockquote><p><span style="font-weight: 400;">“Something like 25 million dollars a day is transacted through M-Pesa. Forty percent of Kenya&#8217;s GDP moves through M-Pesa using [feature phones].”</span></p></blockquote>
+<p><span style="font-weight: 400;">It seems like now the U.S. is finally catching up with Africa on the use of SMS for business, putting its own Silicon Valley, bot-powered spin on things. </span><a href="http://techcrunch.com/2016/01/06/assist-bot/"><span style="font-weight: 400;">TechCrunch</span></a><span style="font-weight: 400;"> even cited 2016 as the year of the chat bot, citing conversational SMS bot </span><a href="http://www.assi.st/"><span style="font-weight: 400;">Assist</span></a><span style="font-weight: 400;">. Assist lets you text in for a variety of different tasks&#8211;getting a ride, sending flowers, ordering food, etc. It seems simple enough, but this company has taken Silicon Valley by storm, drawing in over </span><a href="http://techcrunch.com/2016/01/06/assist-bot/"><span style="font-weight: 400;">$5.5 million</span></a><span style="font-weight: 400;"> in seed funding.</span></p>
+<p><span style="font-weight: 400;">So, similar to during the great American gold rush, if you’re going jump on this wave and contribute an awesome conversational SMS bot to the business world or to consumers, you’ll need the right tools. Maybe you can code and have time, or maybe you can code but don’t have time. More likely, you’re part of the majority that can’t code and doesn’t have time. Either way, here’s an off-the shelf tool that will make your SMS-bot-dreams suddenly more real. </span><i><span style="font-weight: 400;">Wait, “SMS bot-dreams”? Did we just make up a new term?</span></i></p>
+<p><span style="font-weight: 400;">OneReach has  created the perfect tool for this important moment, wherein the world is harnessing bots for good &#8211; conversational bots that help businesses and consumers to get what they need.</span> <span style="font-weight: 400;">We’ve created software that makes it easy, fast and affordable for anyone to create conversational phone or SMS bots that can do almost anything &#8211; it all comes down to what you program them to do. And the best part is that no coding is required and it’s all automatically reportable (sounds like a lie, I know). So when I say anyone can create their own conversational SMS or voice app, I really mean it. </span></p>
+<p><span style="font-weight: 400;">Bots are hot and they’re  where the communication conversation is heading this year. Whether you’re replacing a mobile app with clever automated SMS, or putting automated (or live) SMS concierge service in place for a boutique hotel, OneReach just made it way easier to create your SMS bot.</span></p>
+<p><span style="font-weight: 400;">If you’ve got “SMS bot dreams” &#8211; simple or complex &#8211; I’d love to take on the challenge of seeing how easy OneReach makes it to bring your vision to life.</span></p>
+<p><strong>To learn more about adding texting to your business, <a href="http://onereach.com/resources/10-things-about-text">download our whitepaper here</a>.</strong></p>
+<p>Image of gold iPhone courtesy of <a href="https://picjumbo.com/iphone-5s-backside/">Picjumbo</a>. CC0 License. Edited</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/the-perfect-tools-for-joining-the-sms-bot-gold-rush/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>What the U.S. Can Learn from Mobile Payments in Africa</title>
+		<link>https://onereach.ai/what-the-u-s-can-learn-from-mobile-payments-in-africa/</link>
+				<comments>https://onereach.ai/what-the-u-s-can-learn-from-mobile-payments-in-africa/#respond</comments>
+				<pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Big Ideas]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Mobile Payments]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/what-the-u-s-can-learn-from-mobile-payments-in-africa/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p><span style="font-weight: 400;">Mobile payments have exploded in popularity just within the past year—40% of U.S. consumers have used mobile payments in 2015, compared to just 8% in 2014. In fact,</span><a href="http://www.statista.com/statistics/226530/mobile-payment-transaction-volume-forecast/"> <span style="font-weight: 400;">mobile transactions</span></a><span style="font-weight: 400;"> are expected to surpass half a trillion dollars ($560 billion) in 2016, and Gartner predicts that</span><a href="http://www.gartner.com/newsroom/id/2971917"> <span style="font-weight: 400;">mobile commerce</span></a><span style="font-weight: 400;"> will make of 50% of all U.S. digital commerce by 2017.</span></p>
+<p><span style="font-weight: 400;">So why the startling change?</span></p>
+<p><span id="more-7361"></span><span style="font-weight: 400;">Part of this mobile payment boom can be attributed to the popularity of Near Field Communications (NFC), which uses a specialized receiver to read a chip in customer’s phone. The most well-known examples of NFC are</span><a href="http://www.statista.com/statistics/323422/starbucks-mobile-app-transactions-weekly/"> <span style="font-weight: 400;">Starbucks’ mobile payment app</span></a><span style="font-weight: 400;">, which manages more than 8 million transactions a week, and ApplePay, whose October 2014 debut even reignited interest in</span><a href="http://www.creditcards.com/credit-card-news/mobile-payment-statistics-1276.php"> <span style="font-weight: 400;">competing mobile pay platforms</span></a><span style="font-weight: 400;"> like Google Wallet.</span></p>
+<p><span style="font-weight: 400;">However, mobile payments in the U.S. haven’t seen the success these numbers might lead you to believe.</span><a href="http://www.pymnts.com/in-depth/2015/apple-pay-adoption-improving-but-still-a-long-way-to-go/#.VRFxzu6sVXp"> <span style="font-weight: 400;">Over 80% of iPhone users</span></a><span style="font-weight: 400;"> still haven’t tried Apple Pay, and although Starbucks manages millions of transactions a week, they’re just a fraction of the mobile payment market. Mobile money has gained predominance out of circumstance rather than convenience’s sake outside of the U.S., and they’ve seen great success.</span></p>
+<p><span style="font-weight: 400;">It turns out the most successful mobile payment company has eschewed mobile apps altogether in favor of something far simpler: the text message.</span></p>
+<h2><b>Mobile payments in Africa and the rise of M-Pesa</b></h2>
+<p><span style="font-weight: 400;">Companies like Magic have already proved that</span><a href="http://www.onereach.com/blog/magic-model-instantly-build-sms-concierge-service/"> <span style="font-weight: 400;">texting is a great way to pay for things</span></a><span style="font-weight: 400;">, but they weren’t the first ones to pioneer this concept. Vodafone had already thought of it first.</span></p>
+<p><span style="font-weight: 400;">Launched in 2007, M-Pesa (M for mobile, </span><i><span style="font-weight: 400;">pesa</span></i><span style="font-weight: 400;"> the Swahili word for money) was created by Vodafone for Safaricom and Vodacom as way to</span><a href="http://www.cck.go.ke/news/2012/sector_statistics.html"> <span style="font-weight: 400;">transfer money over mobile phones</span></a><span style="font-weight: 400;">, as well to serve as a microfinancing service. The service lets users send, receive and deposit money into their accounts, all of which is managed through text messages secured by PIN numbers.</span></p>
+<p><span style="font-weight: 400;">M-Pesa has grown to become Africa’s mobile payment giant, boasting more than</span><a href="http://techcrunch.com/2012/10/28/the-sleeping-giants-of-african-mobile-payments/"> <span style="font-weight: 400;">15 million users</span></a><span style="font-weight: 400;"> and handling US $21 million in transactions every day.</span><a href="http://www.safaricom.co.ke/personal/m-pesa/m-pesa-services"> <span style="font-weight: 400;">M-Pesa users</span></a><span style="font-weight: 400;"> can</span><a href="http://www.bbc.com/news/business-28061813"> <span style="font-weight: 400;">use the service</span></a><span style="font-weight: 400;"> to:</span></p>
+<ul>
+<li><span style="font-weight: 400;">Make bulk payments</span></li>
+<li><span style="font-weight: 400;">Buy Safaricom airtime</span></li>
+<li><span style="font-weight: 400;">Deposit cash into their account</span></li>
+<li><span style="font-weight: 400;">Manage their account</span></li>
+<li><span style="font-weight: 400;">Pay bills</span></li>
+<li><span style="font-weight: 400;">Send (transfer) money</span></li>
+<li><span style="font-weight: 400;">Withdraw money</span></li>
+<li><span style="font-weight: 400;">Pay for goods like solar lighting, water, and groceries</span></li>
+</ul>
+<p><span style="font-weight: 400;">But why the reliance on mobile and text messaging for payments? As Vanessa Clark points out in</span><a href="http://techcrunch.com/2012/10/28/the-sleeping-giants-of-african-mobile-payments/"> <span style="font-weight: 400;">her Techcrunch article</span></a><span style="font-weight: 400;">, there are three factors that have driven the use of mobile money in Africa:</span></p>
+<blockquote><p><span style="font-weight: 400;">Firstly…there were fewer than two million mobile phones users in Africa in 1998. This number grew to more than 400 million by 2009…Secondly, there are a large number of unbanked, and underbanked, people in Africa. A 2009 World Bank report puts this figure at as high as 70% of Africans…Finally, much of the continent’s population lives in rural areas, with very little access to banking infrastructure.</span></p></blockquote>
+<p><span style="font-weight: 400;">The proliferation of mobile payments over text message in Africa can’t be understated.</span><a href="http://www.pewglobal.org/2015/04/15/cell-phones-in-africa-communication-lifeline/"> <span style="font-weight: 400;">Over 80% of Africans</span></a><span style="font-weight: 400;"> use their cell phones to text, and 30% use their phone to make and receive payments. This last number more than doubles in Kenya (where M-Pesa originated), with 61% of Kenyans using their phone for mobile payments. In contrast, only 2% of Africans have a working landline phone, further accentuating the prevalence and importance of mobile there.</span></p>
+<p><span style="font-weight: 400;">All of which raises the question: If texting to pay is so successful in Africa, who’s to say it won’t see the same success here?</span></p>
+<h2><b>Why Companies Need to Offer Text to Pay</b></h2>
+<p><span style="font-weight: 400;">In the U.S., mobile is also a part of everyday life, but mobile payments haven’t seen nearly the same amount of success as they have in Kenya. And while the most common ways to</span><a href="http://www.creditcards.com/credit-card-news/mobile-payment-statistics-1276.php"> <span style="font-weight: 400;">make mobile payments</span></a><span style="font-weight: 400;"> include mobile wallets (which rely on NFC for transactions), mobile browsers and payment applications, all of these payments are predicated on the fact that customers have a reliable internet connection, or a specific chip in their phone. It’s a lot to expect of a customer, especially when internet use (which is needed for mobile payments in the U.S.) isn’t even</span><a href="http://www.pewinternet.org/2015/04/01/chapter-three-a-week-in-the-life-analysis-of-smartphone-users"> <span style="font-weight: 400;">the most popular feature on a smartphone</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">That honor goes to text messaging.</span></p>
+<p><img class="size-full wp-image-2295 aligncenter" src="http://onereach.ai/wp-content/uploads/2019/07/mobile-pay.png" alt="mobile pay in africa" width="294" height="224" /></p>
+<p style="text-align: center;"><span style="font-weight: 400;"><a href="http://www.pewinternet.org/2015/04/01/chapter-three-a-week-in-the-life-analysis-of-smartphone-users">Image credit Pew Research</a></span></p>
+<p><span style="font-weight: 400;">Now imagine if businesses applied the same excitement that they did for mobile apps to text messaging. </span><b>They could make mobile payments more accessible to a larger percentage of their client base. </b><span style="font-weight: 400;">Not everyone has a smartphone or access to an internet connection, so businesses that don’t offer texting might be shutting potential customers out. For customers that do have a smartphone, they won’t always want to download an app for each specific store or chain they visit, so businesses could make sure they were still reaching all of their customers with text messaging.</span></p>
+<p><span style="font-weight: 400;">Texting is also a secure way to pay—all businesses would have to do is direct customers to a secured webpage where they can enter their payment details. Customers also don’t have to be in the same location as their purchase to make a mobile payment, and they can still get the details of their purchase with pictures and descriptions of the items they’re interested in.</span></p>
+<h2><b>Conclusion</b></h2>
+<p><span style="font-weight: 400;">There’s nothing wrong with the way mobile payments are currently being processed in the U.S. NFC, online payments and applications all have a role to play in how we pay. But imagine what we could learn from mobile payments in Africa, if we opened up accessibility to more customers with texting.</span></p>
+<p><span style="font-weight: 400;">The payoff would be huge.</span></p>
+<p><strong>To learn more about the benefits of adding texting to your mobile strategy, <a href="http://onereach.com/resources/mobile-strategy">download our whitepaper here</a>.</strong></p>
+<p>Image from <a href="http://afritorial.com/2013-africa-innovation-prize/">Afritorial</a>. Edited.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/what-the-u-s-can-learn-from-mobile-payments-in-africa/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>I Tried To Text Domino&#8217;s for Pizza And Had a Horrible Customer Experience</title>
+		<link>https://onereach.ai/i-tried-to-text-dominos-for-pizza-and-had-a-horrible-customer-experience/</link>
+				<comments>https://onereach.ai/i-tried-to-text-dominos-for-pizza-and-had-a-horrible-customer-experience/#respond</comments>
+				<pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Automation]]></category>
+		<category><![CDATA[Big Ideas]]></category>
+		<category><![CDATA[Communication]]></category>
+		<category><![CDATA[Customer Experience]]></category>
+		<category><![CDATA[Customer Satisfaction]]></category>
+		<category><![CDATA[Customer Service]]></category>
+		<category><![CDATA[Gripes]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Mobile Payments]]></category>
+		<category><![CDATA[Texting]]></category>
+		<category><![CDATA[Use Cases]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/i-tried-to-text-dominos-for-pizza-and-had-a-horrible-customer-experience/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>Tired of ordering pizza over the phone? Domino’s understands—that’s why they’ve launched <a href="anyware.dominos.com">AnyWare</a>, letting you “order your favorite oven-baked goodness on your favorite devices.”</p>
+<p><span style="font-weight: 400;">I’m not going to lie—this is a pretty awesome use case (in theory). With AnyWare, you can text, tweet and even use your Smart TV to order pizza and more, and all you have to do is send a pizza emoji.</span></p>
+<p><span id="more-7253"></span></p>
+<p><iframe src="https://www.youtube.com/embed/D1SrOjuBSEU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Easy as (pizza) pie, right?</p>
+<p><span style="font-weight: 400;">Not so much, which kinda sucks because I was really excited by the prospect of being able to text to order a pizza. (No really, I was).</span></p>
+<p><a href="http://onereach.ai/wp-content/uploads/2019/07/dominos-text-1.png"><img class="aligncenter wp-image-1743 size-medium" src="http://onereach.ai/wp-content/uploads/2019/07/dominos-text-1-264x300.png" alt="dominos text 1" width="264" height="300" /></a></p>
+<p><span style="font-weight: 400;">See, the key to ordering pizza from Domino’s on any of your smart devices lies in creating a Pizza Profile apparently, where you have to input your name, email address, and phone number to get your hands on that slice of cheese. By creating an account, you’re able to Easy Order based off of past purchases and skip entering your personal payment information every time.</span></p>
+<p><span style="font-weight: 400;">We’re all about text messaging and effortless service at OneReach, so this seemed like a great use case to test out. Pizza + texting = success, right?!?</span></p>
+<p><span style="font-weight: 400;">Excited with the thought of pizza for lunch, and with my stomach growling, I went off to create my Pizza Profile. However, hitting the site should have been my first clue as to what I was about to experience because apparently you have to divulge your deepest, darkest secrets to order a pizza. After logging in to enable text ordering, I was presented with a whole lot of pizza legalese asking for my consent.</span></p>
+<p><strong><strong><a href="http://onereach.ai/wp-content/uploads/2019/07/dominos1.png"><img class="aligncenter size-large wp-image-1744" src="http://onereach.ai/wp-content/uploads/2019/07/dominos1-546x331.png" alt="dominos1" width="546" height="331" /></a></strong></strong></p>
+<p><span style="font-weight: 400;">I entered my phone number and saved my settings. Next, I had to double opt-in to confirm that I did, in fact, want to order pizza.  </span></p>
+<p><strong><strong><a href="http://www.onereach.com/blog/wp-content/uploads/2015/08/dominos-text-2.png"><img class="aligncenter wp-image-1741 size-medium" src="http://onereach.ai/wp-content/uploads/2019/07/dominos-text-2-e1440719073409-289x300.png" alt="dominos text 2" width="289" height="300" /></a></strong></strong></p>
+<p><span style="font-weight: 400;">Then, I had to set up an Easy Order (oh, how I wish it had been) so the system knew what to query. </span></p>
+<p><strong><strong><a href="http://onereach.ai/wp-content/uploads/2019/07/dominos-double-optin.png"><img class="aligncenter wp-image-1745 size-large" src="http://onereach.ai/wp-content/uploads/2019/07/dominos-double-optin-546x255.png" alt="dominos double optin" width="546" height="255" /></a></strong></strong></p>
+<p><span style="font-weight: 400;">Almost done? I wish! The pop-up told me I had to place my order </span><i><span style="font-weight: 400;">online</span></i><span style="font-weight: 400;"> before I could use text messaging. Honestly, I kind of got the feeling this was a cash grab to get everyone to order way more pizzas than they need, all for supposed convenience’s sake.</span></p>
+<p><span style="font-weight: 400;">I was at a loss. I didn’t even know </span><i><span style="font-weight: 400;">where </span></i><span style="font-weight: 400;">to place my Easy Order. Luckily, my phone came to my rescue when I opted in to receive messages and I could start placing my Easy Order.</span></p>
+<p><a href="http://www.onereach.com/blog/wp-content/uploads/2015/08/dominos-text-3.png"><img class="aligncenter wp-image-1746 size-medium" src="http://onereach.ai/wp-content/uploads/2019/07/dominos-text-3-e1440719007201-269x300.png" alt="dominos text 3" width="269" height="300" /></a></p>
+<p><span style="font-weight: 400;">Just kidding&#8211;I had to go back online </span><i><span style="font-weight: 400;">again</span></i><span style="font-weight: 400;">. So far, not so easy.</span></p>
+<p><a href="http://www.onereach.com/blog/wp-content/uploads/2015/08/dominos-text-4.png"><img class="aligncenter wp-image-1747 size-medium" src="http://onereach.ai/wp-content/uploads/2019/07/dominos-text-4-e1440719030547-289x300.png" alt="dominos text 4" width="289" height="300" /></a></p>
+<p><span style="font-weight: 400;">No, I don’t want to </span><i><span style="font-weight: 400;">cheese it up</span></i><span style="font-weight: 400;">—I just want to order my damn pizza over text message.</span></p>
+<p><strong><strong><a href="http://onereach.ai/wp-content/uploads/2019/07/dominos-cheese-it-up.png"><img class="aligncenter size-full wp-image-1748" src="http://onereach.ai/wp-content/uploads/2019/07/dominos-cheese-it-up.png" alt="dominos cheese it up" width="457" height="291" /></a></strong></strong></p>
+<p><span style="font-weight: 400;">C’mon, this is supposed to be easy! I just want to order my pizza over text message!!</span></p>
+<p><strong><strong><a href="http://onereach.ai/wp-content/uploads/2019/07/dominos-chocolate.png"><img class="aligncenter size-large wp-image-1749" src="http://onereach.ai/wp-content/uploads/2019/07/dominos-chocolate-546x291.png" alt="dominos chocolate" width="546" height="291" /></a></strong></strong></p>
+<p><i><span style="font-weight: 400;">Finally</span></i><span style="font-weight: 400;">, on the payment page, I found what I was looking for.</span></p>
+<p><strong><strong><a href="http://onereach.ai/wp-content/uploads/2019/07/dominos-easy-order.png"><img class="aligncenter size-full wp-image-1750" src="http://onereach.ai/wp-content/uploads/2019/07/dominos-easy-order.png" alt="dominos easy order" width="318" height="142" /></a></strong></strong></p>
+<p><span style="font-weight: 400;">Awesome. Easy Order saved. Right? Wrong. Even though I submitted my order (14” with pepperoni and mushrooms), I still had no Easy Order to show for it. At this point, I was getting really frustrated (and hungry).</span></p>
+<p><span style="font-weight: 400;">Not to be deterred, I tried once again to order over text, but because I didn’t save my credit card information, I couldn’t order. Because guess what—the only way to update your payment method is to MAKE ANOTHER PAYMENT.</span></p>
+<p><strong><strong><a href="http://onereach.ai/wp-content/uploads/2019/07/dominos-credit-card-2.png"><img class="aligncenter size-large wp-image-1751" src="http://onereach.ai/wp-content/uploads/2019/07/dominos-credit-card-2-546x73.png" alt="dominos credit card 2" width="546" height="73" /></a></strong></strong></p>
+<p><span style="font-weight: 400;">Seriously. Yeah.</span></p>
+<p><span style="font-weight: 400;">Still aiming for my end goal of ordering pizza over text message, I went back <em>online</em> to order something cheap (3 20 oz. sodas) to re-enter my payment information. And when I went back to my phone and texted my little pizza emoji, guess what? Still didn’t work, because life sucks sometimes.</span></p>
+<p><a href="http://www.onereach.com/blog/wp-content/uploads/2015/08/dominos-text-5.png"><img class="aligncenter wp-image-1752 size-medium" src="http://onereach.ai/wp-content/uploads/2019/07/dominos-text-5-e1440718690657-289x300.png" alt="dominos text 5" width="289" height="300" /></a></p>
+<p><span style="font-weight: 400;">Luckily, the delivery guy was nice enough to deliver my two orders together, and when I asked if my online credit card payment went through (because according to the texts, it wasn’t valid), he showed me the receipt, where it clearly did.</span></p>
+<p><span style="font-weight: 400;">In summary, not only was I </span><i><span style="font-weight: 400;">not</span></i><span style="font-weight: 400;"> able to order over text message, but I had a heck of a time even trying to order online.</span></p>
+<p>The goal of this article is not to bash Domino’s&#8211;they should be applauded for even attempting to deploy a text-to-order service. In addition, I’m assuming that once I got my Easy Order set up, it would have been as easy to order as advertised instead of what I went through.</p>
+<figure id="attachment_1753" aria-describedby="caption-attachment-1753" style="width: 546px" class="wp-caption aligncenter"><a href="http://onereach.ai/wp-content/uploads/2019/07/dominos-happy.png"><img class="size-large wp-image-1753" src="http://onereach.ai/wp-content/uploads/2019/07/dominos-happy-546x287.png" alt="This is definitely not how I felt after trying to order. Photo from Domino&quot;sss" width="546" height="287" /></a><figcaption id="caption-attachment-1753" class="wp-caption-text">This is definitely NOT how I felt after trying to order. Photo from Domino&#8217;s AnyWare video.</figcaption></figure>
+<p><span style="font-weight: 400;">Still, what’s ultimately lacking from the Domino’s AnyWare experience is the “anywhere” aspect of it. Domino’s tried and failed to create a seamless omnichannel experience that lets you order pizza whenever, wherever, and however you want. It relied too heavily on the Web to enable an experience that should have taken place largely on other channels.</span></p>
+<p><span style="font-weight: 400;">A true omnichannel experience would have seamlessly transferred customers from channel to channel (ie a link to a secure payment page for ordering), rather than forcing them back to the Web to do the very thing they should have been able to do by texting or tweeting: order pizza.</span></p>
+<h1><b>Text Domino’s 2.0</b></h1>
+<p><span style="font-weight: 400;">Even though I didn’t get my pizza over text message, I still wanted to see if there was a better way to design this whole text debacle. Because even though it didn’t work, it should have worked. And it can work.</span></p>
+<p><span style="font-weight: 400;">Here’s how it should have been done (and can be done). Domino’s, feel free to use this model PUH-LEESE!</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">First, I would text into Domino’s, without needing a Pizza Profile. That was the one part of the user experience that continuously failed me, </span><a href="http://www.eater.com/2015/5/20/8631373/i-ordered-dominos-pizza-emoji-it-took-three-hours-twitter"><span style="font-weight: 400;">and I’m not</span></a> <a href="http://techcrunch.com/2015/05/20/dominos-tweet-to-order-system-isnt-as-great-as-it-sounds/#.v3rtkt:wfb2"><span style="font-weight: 400;">the only one</span></a><span style="font-weight: 400;">. Had I not been so committed to seeing this through, I would have bailed with many profanities following and ordered from Papa John’s.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">I would receive a text message asking if I’d like to place my usual order (not Easy Order, because that sure as heck wasn’t easy), or if I’d like to place a new one.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The system would already know my address and billing information, so I wouldn’t have to input that information online, taking me out of my mobile experience. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">I’d confirm that I’d like the pizza delivered to my regular address.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The system would then ask me if I’d like to pay with the card I already have on file.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">I’d confirm, and then I’d get a message that my pizza was on my way.</span></li>
+</ol>
+<p><span style="font-weight: 400;">Easy as that.</span></p>
+<p><span style="font-weight: 400;">But, why tell you when I can show you? Here’s how it would look&#8230;</span></p>
+<p><img class="size-full wp-image-2388 aligncenter" src="http://onereach.ai/wp-content/uploads/2019/07/dominos-texting2.png" alt="text dominos" width="301" height="573" /></p>
+<p>Want to try a great text-to-order experience for yourself? <strong>Text “PIZZA” to 70700.</strong> Note&#8211;you won’t actually be ordering pizza, and there are no integrations to find the nearest Domino’s or to pay for pizza. Still, it’s an example of what a smart ordering experience could be (and should have been) like.</p>
+<p><span style="font-weight: 400;">Enjoy!</span></p>
+<p><strong>To learn more about adding text to your business (the right way), <a style="font-weight: bold;" href="http://onereach.com/resources/10-things-about-text">download our whitepaper here</a>, or shoot us a text at 303-974-7351. We&#8217;re always happy to chat.</strong></p>
+<p><a href="http://www.kawankumagz.com/articleFoto/Hal-Hal_yang_Kita_Rasakan_Saat_Mengirim_Chat_ke_Gebetan_(Bagian_1).jpg">Photo credit</a>. Edited.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/i-tried-to-text-dominos-for-pizza-and-had-a-horrible-customer-experience/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>The ‘Magic’ Model &#8211; How To Instantly Build Your Own SMS Concierge Service</title>
+		<link>https://onereach.ai/the-magic-model-how-to-instantly-build-your-own-sms-concierge-service/</link>
+				<comments>https://onereach.ai/the-magic-model-how-to-instantly-build-your-own-sms-concierge-service/#respond</comments>
+				<pubDate>Mon, 13 Jul 2015 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Customer Service]]></category>
+		<category><![CDATA[How To]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Mobile Payments]]></category>
+		<category><![CDATA[Texting]]></category>
+		<category><![CDATA[Use Cases]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/the-magic-model-how-to-instantly-build-your-own-sms-concierge-service/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>After graduating from <a href="http://www.ycombinator.com/">YCombinator</a> back in February, a startup called <a href="http://getmagicnow.com/">Magic</a>, an SMS concierge service,  went viral, wowing Americans with the prospect that they could order almost anything via text message and have it show up at their door &#8211; not to mention the $12 million investment they garnered from <a href="http://www.sequoiacap.com">Sequoia Capital</a>, with a $40 million valuation). After provisioning a<a href="http://www.wired.com/2015/02/magic-the-startup/"> Twilio number</a> and rolling the service out to a few friends, the service suddenly skyrocketed in popularity, thanks to some well-placed features on <a href="http://www.producthunt.com/tech/magic">Product Hunt</a> and <a href="https://news.ycombinator.com/item?id=9087819">Hacker News</a> (and just good old word-of-mouth).</p>
+<p>Investors and companies are now starting to see the value of SMS (finally!), and so are emerging Magic competitors. Entrepreneurs around the world have begun innovating on the “Magic” model, spanning from straight up copycats to various niche-specific spins on the model &#8211; for example, the SMS concierge service for travelling performers and staff in the music-touring business. If you have an existing or potential SMS concierge business in mind, you’ll be very glad to know just how easy it is to equip yourself with the right tools and services to make it happen.</p>
+<h1><span id="more-7245"></span><b>How to Create Your Own SMS Service: What You&#8217;ll Need</b></h1>
+<p>To make your own “Magic,” all you need is a phone number (any toll-free, short-code or 10-digit local number will do), a web-based or mobile-based chat tool that can manage text messages, and a payment processing system.</p>
+<p>By creating a OneReach account, you’ll get these great features needed to make your own Magic SMS Service:</p>
+<ul>
+<li><strong>Provision a text-enabled number easily and cheaply.</strong> Magic uses a short code number (83489), which can cost <a href="https://www.twilio.com/HELP/faq/short-codes/how-much-does-a-short-code-cost">$1,000 a month</a> or more. We can set you up with a short code, as they can handle a larger volume of traffic, but if you’re just getting up and running, a long code will typically do just fine as it is far less expensive. These 10-digit numbers only cost <a href="https://www.twilio.com/voice/pricing">$1-2 a month</a>.</li>
+</ul>
+<ul>
+<li><strong><strong>Text chat and web chat in the same tool. </strong></strong><b></b>OneReach has a CTI integration, which is just a fancy way of saying that  we’ve created a seamless integration between SMS (text messaging) and web-chat &#8211; meaning, you can respond to SMS via a browser-based portal. Our Action Desk has the capability to handle both text chat and web chat and can manage multiple conversations at once. Although you’ll primarily be dealing with incoming text messages, you could create a field on your homepage so web visitors could input their number online and receive a text back from you to start the conversation.</li>
+</ul>
+<ul>
+<li><strong>Receiving requests anytime, anywhere, with our mobile app.</strong> You’re not always going to be able to stay at the desk all day, and that’s okay. If you’re out and about fulfilling a request and another one comes in, you can respond to it immediately or transfer it to someone else.</li>
+</ul>
+<ul>
+<li><strong>Assign agents to manage requests.</strong> As your business grows, you’re going to need a dedicated team of agents to field incoming requests. With OneReach, you can assign multiple agents to one number so that every incoming request gets answered. In addition, you can have agents claim an incoming text so that other agents know to move onto the next one.</li>
+</ul>
+<ul>
+<li><strong>Setting up business logic routing based on time, request type or any other parameter.</strong> You may not always be available (picking up orders, done for the day, etc.), which is where our business logic routing comes in. If someone specifically handles food requests, you can route all related requests to them. Similarly, if someone is off the clock, our system can route requests to a different agent based on their schedule.</li>
+</ul>
+<ul>
+<li><strong>Easily connecting or integrating with a payment system or food ordering system.</strong> We’re not 100% sure if Magic uses APIs (application programming interfaces) to fulfill all their requests, but APIs sure make things a lot easier. Our tool lets you integrate with the most popular systems out there, like <a href="http://stripe.com">Stripe</a> for payment or <a href="http://postmates.com">Postmates</a> and <a href="http://grubhub.com">GrubHub</a> for food ordering. All you’ll need is an API key to plug into our tool and you’re good to go.</li>
+</ul>
+<p>And the best part is you can get this all up and running in a matter of minutes.</p>
+<p>Now let’s learn how to create your own SMS Service!</p>
+<h1><b>How to Create Your Own SMS Service: Tutorial</b></h1>
+<h2><b>Step 1: Sign up for OneReach</b></h2>
+<p>To set up a OneReach account, visit our homepage, then<a href="http://onereach.com/pricing"> click on pricing</a>. There, you can pick the number you want and the pricing plan you want (or sign up for a 14-day trial). After you enter your credit card information, you’re set up with OneReach!</p>
+<p><a href="http://onereach.ai/wp-content/uploads/2019/07/screenshot2.png"><img class="aligncenter wp-image-1677 size-large" src="http://onereach.ai/wp-content/uploads/2019/07/screenshot2-546x304.png" alt="screenshot2" width="546" height="304" /></a></p>
+<h2><b>Step 2: Set up a payment system account</b></h2>
+<p>In order to take payments, you’ll need to create an account for an online payment system. We suggest <a href="http://stripe.com">Stripe</a>, <a href="http://braintreepayments.com">Braintree</a> or <a href="http://dwolla.com">Dwolla</a>. They all have APIs so you can integrate with OneReach, link to a payment page and store payment information for future purchases.</p>
+<p><a href="http://onereach.ai/wp-content/uploads/2019/07/stripe2.png"><img class="aligncenter size-large wp-image-1678" src="http://onereach.ai/wp-content/uploads/2019/07/stripe2-546x282.png" alt="stripe2" width="546" height="282" /></a></p>
+<h2><b>Step 3: Log into OneReach’s </b><b><i>Action Desk</i></b></h2>
+<p>Go to <a href="https://go.onereach.com/">go.onereach.com</a> to sign in to your new Action Desk and get familiar with it. This is where you’ll be fielding all your incoming texts.</p>
+<p><a href="http://onereach.ai/wp-content/uploads/2019/07/action-desk.png"><img class="aligncenter size-large wp-image-1679" src="http://onereach.ai/wp-content/uploads/2019/07/action-desk-546x268.png" alt="action desk" width="546" height="268" /></a></p>
+<p>That’s it! You now know how to create your own SMS service! Now all that’s left is to promote your new number and let the texts roll in! If you need to add more agents as demand increases, you can do that with OneReach. And if more messages start coming in, you can adjust your plan to compensate for that.</p>
+<h2><b>Conclusion</b></h2>
+<p>Magic has a pretty awesome concept—text in whatever you want and get it delivered to your door in no time. But there are already some pretty strong copycats out there, and you could be the next one since you know how to create your own SMS service. What’s really important now is how you’ll differentiate yourself from the pack. We found this quote from<a href="http://techcrunch.com/2015/04/01/go-butler/"> Magic competitor GoButler co-founder CEO Navin Hadzaad</a> pretty inspiring:</p>
+<blockquote><p>Think of it this way: in 6 months, when you tell us ‘I want my favourite pizza now. I’m at home’ – we know what you’re favourite pizza is, we know where you live, we have your payment details. In the background, our integrated-API with our food delivery partner will trigger the order, the payment will automatically be processed and you’ll get a confirmation. Isn’t that convenient?</p></blockquote>
+<p>With our tool, there’s no limit to what your OneReach-powered text service can do. Now, go make some magic happen.</p>
+<p><b><i>If you need help with your new text service, shoot us an email at support@onereach.com. And don’t forget to download our whitepaper, </i></b><a href="http://onereach.com/resources/10-things-about-text"><b><i>10 Things Every Business Should Know About Text Messaging</i></b></a><b><i>.</i></b></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/the-magic-model-how-to-instantly-build-your-own-sms-concierge-service/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>SMS Pays Off: Switching to Pay-by-Text</title>
+		<link>https://onereach.ai/sms-pays-off-switching-to-pay-by-text/</link>
+				<comments>https://onereach.ai/sms-pays-off-switching-to-pay-by-text/#respond</comments>
+				<pubDate>Tue, 20 Jan 2015 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Mobile Payments]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/sms-pays-off-switching-to-pay-by-text/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p dir="ltr">Mobile payments are all the rage lately—just look at <a href="http://www.entrepreneur.com/article/241609">Apple Pay</a> or <a href="https://www.dailyherald.com/article/20150111/business/150119984/">Square</a>. It’s an exciting development that’s changing the face of mobile commerce&#8211;as long as customers have an iPhone 6 or access to a card reader for smartphones.</p>
+<p dir="ltr">But what if customers could pay without downloading an app? What if they could pay for things over text messaging?</p>
+<p dir="ltr"><span id="more-7199"></span>SMS lets customers pay using their mobile phone without the need of an app, and without needing to be at a payment terminal. Currently, methods like ApplePay rely on <a href="http://www.finextra.com/news/fullstory.aspx?newsitemid=26878">near field communication</a> (NFC) to transmit credit card information from the customers’ phone to a terminal.</p>
+<p dir="ltr">Tapping your phone to a payment terminal is supposed to be the easiest way to pay, but what if you didn&#8217;t even have to be at a store to do it?</p>
+<h1 dir="ltr">Going mobile</h1>
+<p dir="ltr">One of the best things about SMS payments is that it doesn’t require a fancy card reader or the newest phone. It’s truly mobile because customers can carry out these transactions anywhere, anytime, on any cell phone. Plus, it takes almost no time at all.</p>
+<p dir="ltr">Letting customers pay by text increases time and cost savings for companies and customers. For example, a customer who had to renew a magazine subscription would typically receive a letter or email from a company with a reminder, and the payment process might take a few days or weeks.</p>
+<p dir="ltr">However, renewals or any sort of quick transactions can be expedited with text payments. Instead of engaging in a lengthy back-and-forth about renewing a magazine subscription, customers could get a quick outbound text that looks something like this:</p>
+<p style="text-align: center;"><img style="border: 0pt none; float: center; padding-right: 10px; padding-bottom: 10px;" src="https://lh5.googleusercontent.com/RPFyEWpTu6amo43A2Z03f6F_SGo3Oi5S5nK1oXBv43ndy9klnUrMb4wtHfqQX1Sjn2f1IbSmC7elJwGAXv49lcGxbjXYx0JbX9-O4hTluRmLLEQ5xMTHoCVxy7gHAVG9sw" alt="" width="274" height="141" /></p>
+<p dir="ltr">What makes outbound texts like this so potentially powerful is the fact that texting is a channel customers use often and prefer. Texts have a 98%<a href="https://www.marketingtechblog.com/text-messaging/"> open rate</a>, a stat other channels could only dream of. Marketing texts also have an extremely<a href="https://www.marketingtechblog.com/text-messaging/"> high response rate</a> of 45%: over ten times higher than<a href="http://www.dmnews.com/dma-direct-mail-response-rates-beat-digital/article/245780/"> direct mail</a> or<a href="http://www.mobilecommercedaily.com/sms-has-eight-times-the-response-rate-of-email-study"> email</a>.</p>
+<p dir="ltr">This ultimately translates to more transactions, more engagement and more profit for your business.</p>
+<h1 dir="ltr">A new way to pay</h1>
+<p dir="ltr">SMS payments are a lot easier than paying by phone. Phone payments are really cumbersome for customers (good luck if you say or type something wrong), but they still use it. However, SMS payments let customers skip the traditional phone tree slog in favor of a shorter, more personalized experience that recognizes them, especially when payment methods are stored on file.</p>
+<p dir="ltr">And those aren’t the only benefits of SMS payments. You can also:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Receive email receipts (MMS)</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Schedule autopayments</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Create opportunities for upselling while you’ve already got the customers’ attention</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Move to text-chat for a more in-depth, real-time conversation</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Verify a person’s identity before proceeding by asking personal questions (SSN, birth year, etc.)</p>
+</li>
+</ul>
+<p dir="ltr">By making it easier to pay with a truly mobile solution, you’ll have happier customers and more profit coming in. Pay-by-text is an option that’s sure to pay off.</p>
+<p dir="ltr"><strong><em>To learn how you can add SMS payment to your business, visit <a href="http://onereach.com">onereach.com</a>.</em></strong></p>
+<p dir="ltr">Photo from <a href="http://www.noticiasnet.mx/portal/oaxaca/vida/tecnologia/249515-alternativas-whatsapp">NoticiasNet.mx</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/sms-pays-off-switching-to-pay-by-text/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

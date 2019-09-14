@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Live Chat &#8211; OneReach.ai</title>
+	<atom:link href="https://onereach.ai/category/live-chat/feed/" rel="self" type="application/rss+xml" />
+	<link>https://onereach.ai</link>
+	<description>Intelligently Automate Your Company</description>
+	<lastBuildDate>Fri, 26 Jul 2019 11:39:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://onereach.ai/wp-content/uploads/2018/04/cropped-OR-ICON-GOLD-W-DOTS-Larger-Background-02-32x32.png</url>
+	<title>Live Chat &#8211; OneReach.ai</title>
+	<link>https://onereach.ai</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>5 Reasons Why Your Customer Service Should Include Chatbots</title>
+		<link>https://onereach.ai/5-reasons-why-your-customer-service-should-include-chatbots/</link>
+				<comments>https://onereach.ai/5-reasons-why-your-customer-service-should-include-chatbots/#respond</comments>
+				<pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Automation]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Communication]]></category>
+		<category><![CDATA[Customer Service]]></category>
+		<category><![CDATA[Live Chat]]></category>
+		<category><![CDATA[Self-Service]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/5-reasons-why-your-customer-service-should-include-chatbots/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p>It’s an exciting time to be involved the customer service and communications space. There are more ways to interact with a brand than ever before (email, Twitter, even Snapchat), but one of the most new and exciting advancements is chatbots.</p>
+<p><span id="more-7420"></span>In a recent article, The Guardian described chatbots as:</p>
+<blockquote><p>“Chat bots are computer programs that mimic conversation with people using artificial intelligence. They can transform the way you interact with the internet from a series of self-initiated tasks to a quasi-conversation.”</p></blockquote>
+<p>In the customer service space, chatbots are using the growing power of artificial intelligence to allow customers to interact with a brand as they would with a customer service representative. However, there are some marked benefits to managing conversations with chatbots. Read on to find out why.</p>
+<h2><strong>Chatbots are where the market is trending. </strong></h2>
+<p>Last year, Uber’s director of experience Chris Messina wrote a post hailing the rise of something he called <a href="https://medium.com/chris-messina/2016-will-be-the-year-of-conversational-commerce-1586e85e3991#.jzhm93htd">conversational commerce</a>. He described it as:</p>
+<blockquote><p>“Utilizing chat, messaging, or other natural language interfaces (i.e. voice) to interact with people, brands, or services and bots that heretofore have had no real place in the bidirectional, asynchronous messaging context.”</p></blockquote>
+<p>His vision of conversational commerce has come to fruition this year with the exciting and not unrelated rise of bots. Messaging platforms like Facebook Messenger and Kik recently doubled down on chatbots, rolling out their own bot stores where developers can go in and code their own conversational chatbots.</p>
+<p>While initial reaction to the chatbots has been somewhat lukewarm (their ability to handle natural language leaves something to be desired), we have to remember we’re just at the beginning of a very exciting evolution of B2C communications. In fact, Gartner made a prediction a few years back that by 2020, <a href="http://mktimages.gartner.com/pv_obj_cache/pv_obj_id_92DB197B681D1A1003F701CB30B626FF3B111B00/filename/brochure_crm_2011.pdf">85% of customer interactions</a> would be managed without a human. The rise of chatbots dovetails nicely into this prediction.</p>
+<h2><strong>Customers are open to the idea of chatbots.</strong></h2>
+<p>While there’s still something to be said for a human touch in customer service, research has shown that 40% of <a href="http://www.slideshare.net/stevenvanbelleghem/the-self-serving-economy">customers prefer self-service</a>. In addition, Zendesk found that <a href="http://cdn.zendesk.com/resources/whitepapers/Omnichannel-Customer-Service-Gap.pdf">over 50% of customers</a> think it’s important that they can solve their problems themselves without having to rely on customer service agents.</p>
+<p>Customers are also interested in interacting with your business over messaging (and already are). <a href="https://onereach.com/resources/high-demand-for-text-message-2014-report">A study</a> conducted by Harris Poll and commissioned by OneReach found that 64% of customers would rather text than call your business, and insights released during the <a href="http://www.edelman.com/83621/2016/04/15/facebook-messenger-for-business-brands-chatbots/">recent F8 Conference</a> showed that more than one billion messages are sent to businesses each month.</p>
+<p>Combine the two approaches (self-service and texting/messaging) and you arrive at chatbots. Chatbots leverage a channel that customers are already using (texting/messaging) and blend it with their desire for a self-service experience.</p>
+<h2><strong>Chatbots are cheaper and faster than live agents.</strong></h2>
+<p>We’ve talked before about how much cheaper an automated interaction is compared to a live agent interaction (25 cents vs. $6-20). But in addition to being cheaper than live agents, chatbots are also an efficient way to deliver customer service—customers can type in their question and get a response back almost immediately based on pre-programmed logic.</p>
+<p>For instance, I recently tried out Spring, one of the first Facebook Messenger bots to go public. It asked me if I wanted women’s or men’s items, then asked what kind of clothing I was looking for, all in rapid succession. Soon I was scrolling through results quickly and easily.<img class="aligncenter wp-image-2601 size-medium" src="http://onereach.ai/wp-content/uploads/2019/07/chatbots2-250x300.png" alt="chatbots2" width="250" height="300" /></p>
+<p>Just like with Spring, most people will and are using chatbots for simple requests (getting a ride via Uber, ordering flowers, etc.), but sometimes customers may have more complex queries than the bot can understand. Going back to the Spring example, I found a cardigan I liked (it’s still kind of chilly in Denver, okay?) but wanted to know if they had it in a different color. When I asked the chatbot if they had it in white, the bot kindly told me they’d get back to me soon with an answer.<br />
+<img class="wp-image-2600 size-medium aligncenter" src="http://onereach.ai/wp-content/uploads/2019/07/chatbots-250x300.png" alt="chatbots" width="250" height="300" /></p>
+<p>By pivoting to a conversation with a live agent from within the bot conversation, you can ensure that every customer has a great experience.</p>
+<h2><strong>Chatbots can incorporate visual media.</strong></h2>
+<p>Humans are very visual creatures—in fact, <a href="http://info.shiftelearning.com/blog/bid/350326/Studies-Confirm-the-Power-of-Visuals-in-eLearning">we process images 60,000 times faster</a> than we do text. Images are a quick and easy way to communicate information, so that’s why it’s great that chatbots can incorporate rich media like picture and GIFs into conversation. While chatbots primarily communicate through text, images can help chatbots seem more human or showcase a product that’s easier to display than describe.</p>
+<p>When I was talking with the Spring bot, once I had determined what types of products I was looking for, it pulled up a few options that I could click on and expand to get more information. There was also the option to add in images and GIFs on my end, and while the chatbot itself didn’t add in an image, I think it could have benefitted the interaction quite a bit and made it seem a little more human.</p>
+<h2><strong>It’s almost indistinguishable from a human (when written correctly).</strong></h2>
+<p>Your worst fear about chatbots might be that they deliver a clunky, robotic user experience (or, on a more existential level, that they’re coming for all of us and our jobs). However, bots can actually deliver a really seamless, natural human experience when written correctly.</p>
+<p>It really depends on what your brand’s voice is, though. If you’re a more informal brand, using slang and casual language (“like,” “love,” etc.) and referring to your brand as “we” or “I” will work well. If you’re a more formal brand, referring to yourself in third person and dropping the slang is probably a better bet.</p>
+<p>Spring was more informal, so when the chatbot greeted me with “Hey there!” and referred to itself as “We,” it sounded pretty similar to a human. I almost couldn’t tell the difference between the bot’s responses (left) and the human’s responses (right) when they stepped in.<br />
+<img class="size-large wp-image-2607 aligncenter" src="http://onereach.ai/wp-content/uploads/2019/07/chatbots5-546x308.png" alt="chatbots" width="546" height="308" /></p>
+<h2><strong>Conclusion</strong></h2>
+<p>Brands are increasingly receptive to using chatbots in their B2C communications. While we’ll have to wait a little bit to see how the chatbot wave plays out over the next few months, early responses and clear benefits just might indicate the rise of chatbots in customer service.</p>
+<p><strong>To learn more about providing a great experience across channels, <a href="https://onereach.com/resources/omnichannel-seamless-experience">download our whitepaper here</a>.</strong></p>
+<p>Image of <a href="https://www.pexels.com/photo/smartphone-technology-typing-person-7395/">person typing</a> courtesy of Pexels. CC0 License.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/5-reasons-why-your-customer-service-should-include-chatbots/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Increase ROI With Live Chat and Texting</title>
+		<link>https://onereach.ai/increase-roi-with-live-chat-and-texting/</link>
+				<comments>https://onereach.ai/increase-roi-with-live-chat-and-texting/#respond</comments>
+				<pubDate>Mon, 24 Nov 2014 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Benefits]]></category>
+		<category><![CDATA[Live Chat]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/increase-roi-with-live-chat-and-texting/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p dir="ltr">If you&#8217;re a business owner, there might be two tools you are not utilizing that can increase your ROI. Those tools are live chat and text messages. Why should you even think about using live chat and text messages? Let&#8217;s look at this information from <a href="http://econsultancy.com/blog/10644-stats-do-consumers-appreciate-live-chat-on-websites">Econsultancy</a> and <a href="http://advertise.valpak.com/5-ways-to-reach-customers-with-sms-texting/">Valpak</a>.</p>
+<p dir="ltr"><span id="more-7181"></span></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">65% of American online shoppers have engaged in live chat</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Live chat has a satisfaction level for customer service: 73% satisfaction level</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">67% of consumers not only like, but want to receive special offers via a text message</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">71% of consumers would like the option of text messaging a company</p>
+</li>
+</ul>
+<p dir="ltr">Why do consumers like live chat and texting options when doing business?</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">They get their questions answered immediately. With live chat or text, there is no waiting. It&#8217;s the same as talking with a person.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">They can multi-task. With live chat or texting, individuals can be doing multiple things such as working on the computer or taking care of the family.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Consumers say live chat and texting are the most efficient communication methods. The conversation is usually short and gets to the point of what is needed.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">They say they get better information than via email. With live chat and text messaging, you don&#8217;t have to wait for an answer, then ask a follow up question. You get all the information at once.</p>
+</li>
+</ul>
+<p dir="ltr">In addition to those reasons to use live chat or text messages, when your business uses these two tools, you give a great first impression of being available and caring about the customer.</p>
+<p dir="ltr"><em>To learn more about text-enabling your business, professionally designed or do-it-yourself, visit <a href="onereach.com">onereach.com</a>.</em></p>
+<p>Photo by Flickr user <a href="https://www.flickr.com/photos/29881930@N00/2085856619/in/gallery-brighthillgroup-72157644663076089/">Gail</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/increase-roi-with-live-chat-and-texting/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Mobile Apps vs. Text Chat: Which One Is Better for Business?</title>
+		<link>https://onereach.ai/mobile-apps-vs-text-chat-which-one-is-better-for-business/</link>
+				<comments>https://onereach.ai/mobile-apps-vs-text-chat-which-one-is-better-for-business/#respond</comments>
+				<pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Live Chat]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/mobile-apps-vs-text-chat-which-one-is-better-for-business/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p dir="ltr">In the business world, the ability to utilize and offer intelligent automation solutions is a crucial part of continued growth. In the contact center environment, introducing alternative channels like text and chat can lower costs while providing customers with a range of options. Over the past few years, mobile apps have become a prevalent fixture in innovative business technology, but using this type of platform can be <a href="https://fueled.com/blog/how-much-does-it-cost-to-develop-an-app/">expensive</a>.</p>
+<p dir="ltr"><span id="more-7136"></span>Although smartphone users have <a href="http://techcrunch.com/2014/02/13/smartphones-outsell-dumb-phones-globally/">surpassed</a> basic cell phone users, using text chat for business communication is the better choice. To date, the use of mobile apps in the U.S. and on a worldwide platform is <a href="http://mobithinking.com/mobile-marketing-tools/latest-mobile-stats/e#appusers">declining</a>, with SMS texting being the most-used activity. Here are a few reasons why:</p>
+<p dir="ltr"><strong>Texting is more user-friendly.</strong> Mobile apps can go down, preventing the customer from accessing the information they need. With text-chat, you will get your message instantaneously without having to enter passwords or other information. You also give customers a reason to add your business to their phone, meaning you are now in your customer’s pocket.</p>
+<p dir="ltr"><strong>It saves money.</strong> The amount of money saved by using text-chat over mobile app development is staggering. Development and administration costs can include hiring a developer or two, deciding what the app should do, how it should look, structuring it for both the iOS and Android platforms, consistent checking for bugs, and the creation and administration of updates as needed to stay relevant. All of these costs are eliminated by the use of text chat. OneReach clients have been able to get text chat up and running in less than a week’s time.</p>
+<p dir="ltr"><strong>Texting is more widespread.</strong> Over 81% of the U.S. adult population texts—that’s over 250 million people. Texts can be sent in HTML form or in standard SMS, which will automatically adapt to the phone’s user platform. This has become a popular way for big box stores to advertise coupons and upcoming sales. Can you imagine how much more powerful it would be allowing your customers to text you back?</p>
+<p dir="ltr"><strong>It remembers where you left off.</strong> With texting, you can pick up your conversation at the most recent point, while with mobile apps, you have to restart each time you open the app. Additionally, omni-channel support systems can be used that will automatically identify previous customers based on the phone number to personalize the customer experience.</p>
+<p dir="ltr"><strong>Texting enhances interaction.</strong> By using a text messaging system, customers can ask in-depth questions and receive detailed information privately and discreetly. Text chat improves the customer experience by drawing on previous conversations to personalize each interaction with the customer.</p>
+<p dir="ltr">As technology continues to develop and enhance the “right-now” consumer mindset, employing tactics that will keep customers easily engaged and connected to the company is key. Text chat is simple, smart and cost-effective.</p>
+<p dir="ltr">Photo from <a href="https://www.flickr.com/photos/neccorp/14445391302">NEC Corporation of America</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/mobile-apps-vs-text-chat-which-one-is-better-for-business/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Back to Basics &#8211; How Text And Live Chat Integrate</title>
+		<link>https://onereach.ai/back-to-basics-how-text-and-live-chat-integrate/</link>
+				<comments>https://onereach.ai/back-to-basics-how-text-and-live-chat-integrate/#respond</comments>
+				<pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Elias Parker]]></dc:creator>
+				<category><![CDATA[Integration]]></category>
+		<category><![CDATA[Live Chat]]></category>
+		<category><![CDATA[Texting]]></category>
+
+		<guid isPermaLink="false">http://onereach.ai/back-to-basics-how-text-and-live-chat-integrate/</guid>
+				<description><![CDATA[&#8230;]]></description>
+								<content:encoded><![CDATA[<p dir="ltr">Customer service is more important today than at any point in recent history. Multiple studies, such as one by<a href="http://about.americanexpress.com/news/docs/2012x/axp_2012gcsb_us.pdf"> American Express</a> in 2012, indicate that consumers are increasingly valuing companies that provide exceptional customer service. Companies have been progressively integrating technology (such as smartphone and computers) into their customer service strategy, often with varying levels of success.</p>
+<p dir="ltr"><span id="more-7123"></span>Recently, a bank reached out to us about an <a href="http://www.onereach.com/blog/?p=153">article we wrote</a> discussing the use of text-messaging features in customer service. The bank had been using a system for quite some time that incorporated a “text us” feature into their online banking and smartphone banking application, which they believed made it easier and more convenient for their customers to contact them with questions, concerns, or service requests.</p>
+<p dir="ltr">However, it turned out the bank was manually processing all the customer texts that came in. Every time the bank received a text, an employee was responsible for opening, reading, and responding to the messages. While the bank should be commended for even including a “text us” feature, the way they ended up approaching it was in inefficient and time-consuming for employees and customers. Fortunately, there are alternatives available that work far more effectively than that bank’s approach, like text chat.</p>
+<p dir="ltr">Text chat is just what it sounds like: customers text message a company and can live chat with an agent. With platforms like <a href="http://onereachcontactcenter.com">OneReach’s</a>, consumers can transfer from an automated conversation to a live agent conversation with the push of a button. Agents are notified when there is a customer who needs help and are able to send responses real time using their current chat solutions. The customer then receives the agent’s message as a text on their phone and continues the conversation.</p>
+<p dir="ltr">Integrating text chat into your existing customer service system increases the number the options that are available to your customers. For example, when a consumer reaches out to your contact center, they would be able to speak with a live representative, use a web chat system, or text a customer service agent who can respond using their computer’s chat software.</p>
+<p dir="ltr">Combining text and live chat can also deliver potential financial savings. The average phone call with a live agent costs anywhere between $6-20 depending on the type of call; web chat pushes that cost down to $2-5 per session. And automated texts end up being 10x cheaper than web chat: they only cost 25 cents per session. If you crunch the numbers, a contact center that manages one-third of their calls with automated texts and web chat can will see an immediate 25% savings.</p>
+<p dir="ltr">On its own, text-based customer service decreases wait times and significantly reduces the cost of providing high-quality customer service. <a href="http://livehelp.stardevelop.com/benefits.htm">Live text chat allows customer service representatives to help more customers simultaneously</a>, decreasing the cost per call down to $2-5 per session. Live chat also dramatically increases conversion rates: <a href="http://www.ladesk.com/blog/article/title/5-reasons-why-live-chat-is-important-for-your-business-website/">up to 44% of online consumers</a> say that being able to use live chat during an online purchase increased the likelihood that they would actually complete the transaction.</p>
+<p dir="ltr">The integration of live chat and text combines the adaptability of an agent with the speed of text, providing the customer with an optimized experience and the business with a 25% cost savings.  So, what’s stopping you?</p>
+]]></content:encoded>
+							<wfw:commentRss>https://onereach.ai/back-to-basics-how-text-and-live-chat-integrate/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
